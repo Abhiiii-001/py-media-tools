@@ -93,7 +93,7 @@ Engagement on OTHER pages (comments on bigger meme pages, DMs, collabs) stays ma
   into meta.json and moves the folder to `content/posted/`.
 - Publishing runs in GitHub Actions (private repo Abhiiii-001/thaka-hua-desi, `.github/workflows/publish.yml`),
   every 30 min from 12:37 PM to 11:07 PM IST, so the laptop can sleep. Content is created locally on this PC.
-- To queue posts: create the folder, then `git add -A && git commit && git push`. Always `git pull` first
+- To queue posts: create the folder, then `git add -A && git commit` then `git pull --rebase && git push`
   (the bot commits published posts back). Keep at least 2-3 days queued.
 - Folder time = scheduled IST time; GitHub cron can lag 5-30 min.
 - Images: `brand.py` (1080x1350 slides, mascot, sunburst). Reels: `reel.py` turns a list of beats into a
