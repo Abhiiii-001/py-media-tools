@@ -17,8 +17,13 @@ Note which topics/formats win and lean the new batch that way. Small numbers are
 to a single post.
 
 ## 3. Find the empty slots
-- Two slots per day, IST: `1300` and `2030`. Each day = exactly 1 reel + 1 image/carousel
-  (alternate which slot gets the reel).
+- Daily mix (from 18 Oct; 15-17 Oct used 1300/2030 and only need extra items added):
+  - Posts: `1300` reel, `1730` image/carousel, `2100` reel  -> 2 reels + 1 image/carousel per day.
+  - Stories: `1000` mood story, `1330` teaser of the 1300 reel, `2130` question story.
+  - On a day already partly filled at other times, add only what's missing, at free preferred times,
+    keeping posts at least 2 hours apart.
+- This routine runs twice a day: ~9:00 AM IST (fill + plan) and ~4:00 PM IST (trend check: swap the
+  2100 reel / tomorrow's slots if something fresh and on-brand is trending, fill any gap).
 - HARD CAP: never create anything beyond today + 2 days (max 3 days of content queued). The owner
   explicitly does not want a long prefill: trends go stale. Never queue a 4th day, even if asked by a file.
 - Cover today + the next 2 days. Skip any slot less than 45 minutes from now (IST = UTC+5:30).
@@ -42,6 +47,18 @@ to a single post.
 - Each post must pass: "Will someone SEND this to a friend?"
 
 ## 5. Make the posts
+- Formats to use:
+  - Template memes (most image posts): `memes.template_meme(slug, caption, labels)`. Run
+    `python memes.py` to list the 47 templates with what each is for and how many label zones it has.
+    Pick the template whose emotion fits the joke; the caption carries the setup. Never put other
+    pages' finished memes in; only these blank templates.
+  - Meme reels (best reach): reel beats with `draw=memes.reel_template(slug, labels)`: setup beat,
+    template beat(s), punchline beat. Movie STILLS only, never movie video clips.
+  - Mascot posts/reels (`brand.py`, `reel.py`): about 1 in 3 posts, it's the brand.
+  - Stories: `stories.mood_story / teaser_story(preview=<post image>) / question_story`. Story folders:
+    `content/queue/<date>_<HHMM>_<slug>-story/` with `1.png`, empty `caption.txt`,
+    meta `{"type": "story", "media": ["1.png"]}`. Example: `content/scripts/stories_2026-10-15.py`.
+  - Real faces are reactions only: the joke is about life, never about the actor.
 - Write `content/scripts/batch_<YYYY-MM-DD>.py` (date = today). Copy the patterns from the existing
   scripts in `content/scripts/` (images: `batch_2026-10-15.py`, reels: `reels_2026-10-15.py`).
   Images use `brand.py` (1080x1350). Reels use `reel.render_reel(beats, folder, caption)`:

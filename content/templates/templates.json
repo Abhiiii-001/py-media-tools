@@ -1,0 +1,750 @@
+{
+ "paisa-laya": {
+  "name": "Phir Hera Pheri - Raju 'Paisa laya?'",
+  "use_for": "greedy/expectant asking for money: salary day, bonus, friend owes money",
+  "zones": null,
+  "size": [
+   1200,
+   674
+  ],
+  "source": "imgflip template 343u7i"
+ },
+ "dhak-dhak": {
+  "name": "Hera Pheri - 'Mereko toh aisa dhak dhak horela hai'",
+  "use_for": "nervous anxiety before something: appraisal, result, boss call",
+  "zones": null,
+  "size": [
+   1080,
+   875
+  ],
+  "source": "imgflip template 3471uq"
+ },
+ "phir-hera-pheri-run": {
+  "name": "Phir Hera Pheri - trio running from crowd",
+  "use_for": "escaping/running away: leaving office at 6, avoiding relatives",
+  "zones": null,
+  "size": [
+   1024,
+   576
+  ],
+  "source": "imgflip template 3zuzi6"
+ },
+ "bilkul-risk-nahi": {
+  "name": "Hera Pheri - Babu Bhaiya 'Bilkul risk ne lene ka'",
+  "use_for": "overcautious refusal: not investing, not replying to boss after 6",
+  "zones": null,
+  "size": [
+   768,
+   432
+  ],
+  "source": "imgflip template 40uhjs"
+ },
+ "ab-tak-aa-jana-chahiye": {
+  "name": "Hera Pheri - 'Ab tak toh usko aa jaana chahiye tha'",
+  "use_for": "waiting for something late: salary credit, refund, delivery",
+  "zones": null,
+  "size": [
+   1015,
+   571
+  ],
+  "source": "imgflip template 4g03qb"
+ },
+ "babu-rao-game": {
+  "name": "Hera Pheri - Babu Rao 'Tera toh game bajana padega'",
+  "use_for": "revenge/plotting: getting back at someone",
+  "zones": null,
+  "size": [
+   640,
+   640
+  ],
+  "source": "imgflip template 334bel"
+ },
+ "hera-pheri-trio-shock": {
+  "name": "Phir Hera Pheri - trio shocked",
+  "use_for": "collective shock: seeing the bill, seeing deductions",
+  "zones": null,
+  "size": [
+   1200,
+   713
+  ],
+  "source": "imgflip template 3ztu5u"
+ },
+ "raju-laughing": {
+  "name": "Phir Hera Pheri - Raju and friend laughing",
+  "use_for": "laughing together at someone's misery",
+  "zones": null,
+  "size": [
+   739,
+   283
+  ],
+  "source": "imgflip template 5mxnn7"
+ },
+ "abhi-maza-ayega": {
+  "name": "Phir Hera Pheri - 'Abhi maza ayega na bhidu'",
+  "use_for": "evil anticipation: watching drama unfold",
+  "zones": null,
+  "size": [
+   1024,
+   576
+  ],
+  "source": "imgflip template 5xtt3b"
+ },
+ "raju-waiting-pose": {
+  "name": "Phir Hera Pheri - Raju posing confidently",
+  "use_for": "fake confidence / overconfident pose",
+  "zones": null,
+  "size": [
+   761,
+   540
+  ],
+  "source": "imgflip template 5zy4t2"
+ },
+ "150-rupiya-dega": {
+  "name": "Phir Hera Pheri - '150 rupiya dega'",
+  "use_for": "cheap negotiation, lowball offer, appraisal hike",
+  "zones": null,
+  "size": [
+   480,
+   270
+  ],
+  "source": "imgflip template 5wgfrv"
+ },
+ "jethalal-thinking": {
+  "name": "TMKOC - Jethalal thinking (4 panel)",
+  "use_for": "overthinking/planning in steps",
+  "zones": [
+   [
+    0,
+    0,
+    0.5,
+    0.5
+   ],
+   [
+    0.5,
+    0,
+    0.5,
+    0.5
+   ],
+   [
+    0,
+    0.5,
+    0.5,
+    0.5
+   ],
+   [
+    0.5,
+    0.5,
+    0.5,
+    0.5
+   ]
+  ],
+  "size": [
+   1078,
+   717
+  ],
+  "source": "imgflip template 57ergj"
+ },
+ "jethalal-reactions": {
+  "name": "TMKOC - Jethalal 4 reactions",
+  "use_for": "escalating shock/cry/disgust over 4 stages",
+  "zones": [
+   [
+    0,
+    0,
+    0.5,
+    0.5
+   ],
+   [
+    0.5,
+    0,
+    0.5,
+    0.5
+   ],
+   [
+    0,
+    0.5,
+    0.5,
+    0.5
+   ],
+   [
+    0.5,
+    0.5,
+    0.5,
+    0.5
+   ]
+  ],
+  "size": [
+   645,
+   476
+  ],
+  "source": "imgflip template 5u57fj"
+ },
+ "jethalal-peeking": {
+  "name": "TMKOC - Jethalal peeking through window",
+  "use_for": "secretly watching / spying",
+  "zones": null,
+  "size": [
+   715,
+   429
+  ],
+  "source": "imgflip template 6puz54"
+ },
+ "jethalal-evil-smile": {
+  "name": "TMKOC - Jethalal evil smile",
+  "use_for": "sly/evil satisfaction",
+  "zones": null,
+  "size": [
+   592,
+   314
+  ],
+  "source": "imgflip template 4p9fq3"
+ },
+ "chatur-speech": {
+  "name": "3 Idiots - Chatur's speech",
+  "use_for": "confidently saying something embarrassing",
+  "zones": null,
+  "size": [
+   1200,
+   486
+  ],
+  "source": "imgflip template 2ayowh"
+ },
+ "abba-nahi-manenge": {
+  "name": "3 Idiots - Farhan 'Abba nahi manenge'",
+  "use_for": "parents won't agree, family pressure",
+  "zones": null,
+  "size": [
+   480,
+   201
+  ],
+  "source": "imgflip template 3xn9s7"
+ },
+ "hum-dukhi-the": {
+  "name": "3 Idiots - 'Hum dukhi the' 4 panel",
+  "use_for": "everyone sad, then the twist",
+  "zones": null,
+  "size": [
+   640,
+   640
+  ],
+  "source": "imgflip template 4hdy4q"
+ },
+ "salary-kitne": {
+  "name": "3 Idiots - interview 'salary kitni'",
+  "use_for": "salary expectation / interview",
+  "zones": null,
+  "size": [
+   1024,
+   1024
+  ],
+  "source": "imgflip template 4xh7yo"
+ },
+ "3idiots-old-man": {
+  "name": "3 Idiots - old man shouting",
+  "use_for": "angry elder scolding",
+  "zones": null,
+  "size": [
+   518,
+   300
+  ],
+  "source": "imgflip template 2tu1ml"
+ },
+ "uday-shetty-majnu": {
+  "name": "Welcome - Uday Shetty dramatic",
+  "use_for": "dramatic overreaction / bossy declaration",
+  "zones": null,
+  "size": [
+   739,
+   415
+  ],
+  "source": "imgflip template 6mu22s"
+ },
+ "welcome-scene": {
+  "name": "Welcome - Majnu, Uday and Dr Ghunghroo",
+  "use_for": "awkward group situation",
+  "zones": null,
+  "size": [
+   600,
+   259
+  ],
+  "source": "imgflip template 3s42pj"
+ },
+ "welcome-sofa": {
+  "name": "Welcome - Dr Ghunghroo on sofa",
+  "use_for": "stuck in awkward family conversation",
+  "zones": null,
+  "size": [
+   1053,
+   592
+  ],
+  "source": "imgflip template 7ulgu0"
+ },
+ "dekh-raha-hai-binod": {
+  "name": "Panchayat - 'Dekh raha hai na Binod'",
+  "use_for": "pointing out how something works / scam",
+  "zones": null,
+  "size": [
+   1200,
+   1200
+  ],
+  "source": "imgflip template 6mqe58"
+ },
+ "bhushan": {
+  "name": "Panchayat - Bhushan (Banrakas)",
+  "use_for": "suspicious, plotting, 'ye sab chaal hai'",
+  "zones": null,
+  "size": [
+   739,
+   415
+  ],
+  "source": "imgflip template 6ly4cn"
+ },
+ "gajab-bezzati": {
+  "name": "Panchayat - 'Gajab bezzati hai yaar'",
+  "use_for": "humiliation, public embarrassment",
+  "zones": null,
+  "size": [
+   768,
+   432
+  ],
+  "source": "imgflip template 4gihfb"
+ },
+ "panchayat-office": {
+  "name": "Panchayat - office meeting",
+  "use_for": "pointless office meeting",
+  "zones": null,
+  "size": [
+   498,
+   280
+  ],
+  "source": "imgflip template 8tjc4k"
+ },
+ "drake": {
+  "name": "Drake Hotline Bling",
+  "use_for": "reject vs prefer",
+  "zones": [
+   [
+    0.5,
+    0,
+    0.5,
+    0.5
+   ],
+   [
+    0.5,
+    0.5,
+    0.5,
+    0.5
+   ]
+  ],
+  "size": [
+   1200,
+   1200
+  ],
+  "source": "imgflip template 30b1gx",
+  "dark_labels": true
+ },
+ "two-buttons": {
+  "name": "Two Buttons",
+  "use_for": "impossible choice",
+  "zones": [
+   [
+    0.08,
+    0.1,
+    0.22,
+    0.12
+   ],
+   [
+    0.38,
+    0.05,
+    0.22,
+    0.12
+   ],
+   [
+    0.05,
+    0.82,
+    0.9,
+    0.14
+   ]
+  ],
+  "size": [
+   600,
+   908
+  ],
+  "source": "imgflip template 1g8my4"
+ },
+ "distracted-boyfriend": {
+  "name": "Distracted Boyfriend",
+  "use_for": "tempted by new thing over current",
+  "zones": [
+   [
+    0.1,
+    0.62,
+    0.35,
+    0.2
+   ],
+   [
+    0.45,
+    0.3,
+    0.25,
+    0.2
+   ],
+   [
+    0.7,
+    0.48,
+    0.28,
+    0.2
+   ]
+  ],
+  "size": [
+   1200,
+   800
+  ],
+  "source": "imgflip template 1ur9b0"
+ },
+ "gru-plan": {
+  "name": "Gru's Plan",
+  "use_for": "plan that backfires at step 3/4",
+  "zones": [
+   [
+    0.29,
+    0.06,
+    0.19,
+    0.38
+   ],
+   [
+    0.79,
+    0.06,
+    0.19,
+    0.38
+   ],
+   [
+    0.29,
+    0.56,
+    0.19,
+    0.38
+   ],
+   [
+    0.79,
+    0.56,
+    0.19,
+    0.38
+   ]
+  ],
+  "size": [
+   700,
+   449
+  ],
+  "source": "imgflip template 26jxvz"
+ },
+ "expanding-brain": {
+  "name": "Expanding Brain",
+  "use_for": "escalating 'smart' ideas, ironic",
+  "zones": [
+   [
+    0.02,
+    0.01,
+    0.5,
+    0.23
+   ],
+   [
+    0.02,
+    0.26,
+    0.5,
+    0.23
+   ],
+   [
+    0.02,
+    0.51,
+    0.5,
+    0.23
+   ],
+   [
+    0.02,
+    0.76,
+    0.5,
+    0.23
+   ]
+  ],
+  "size": [
+   857,
+   1202
+  ],
+  "source": "imgflip template 1jwhww",
+  "dark_labels": true
+ },
+ "epic-handshake": {
+  "name": "Epic Handshake",
+  "use_for": "two groups agreeing on one thing",
+  "zones": [
+   [
+    0.02,
+    0.55,
+    0.4,
+    0.2
+   ],
+   [
+    0.58,
+    0.55,
+    0.4,
+    0.2
+   ],
+   [
+    0.3,
+    0.1,
+    0.4,
+    0.2
+   ]
+  ],
+  "size": [
+   900,
+   645
+  ],
+  "source": "imgflip template 28j0te"
+ },
+ "buff-doge-cheems": {
+  "name": "Buff Doge vs Cheems",
+  "use_for": "then (strong) vs now (weak)",
+  "zones": [
+   [
+    0.0,
+    0.82,
+    0.5,
+    0.17
+   ],
+   [
+    0.5,
+    0.82,
+    0.5,
+    0.17
+   ]
+  ],
+  "size": [
+   937,
+   720
+  ],
+  "source": "imgflip template 43a45p",
+  "dark_labels": true
+ },
+ "they-dont-know": {
+  "name": "They don't know",
+  "use_for": "secret suffering at a party",
+  "zones": [
+   [
+    0.0,
+    0.0,
+    0.45,
+    0.2
+   ]
+  ],
+  "size": [
+   671,
+   673
+  ],
+  "source": "imgflip template 4pn1an",
+  "dark_labels": true
+ },
+ "trade-offer": {
+  "name": "Trade Offer",
+  "use_for": "unfair deal: i receive / you receive",
+  "zones": [
+   [
+    0.03,
+    0.2,
+    0.45,
+    0.15
+   ],
+   [
+    0.52,
+    0.2,
+    0.45,
+    0.15
+   ]
+  ],
+  "size": [
+   607,
+   794
+  ],
+  "source": "imgflip template 54hjww"
+ },
+ "clown-makeup": {
+  "name": "Clown Applying Makeup",
+  "use_for": "4 steps of self-deception",
+  "zones": [
+   [
+    0.0,
+    0.0,
+    0.55,
+    0.25
+   ],
+   [
+    0.0,
+    0.25,
+    0.55,
+    0.25
+   ],
+   [
+    0.0,
+    0.5,
+    0.55,
+    0.25
+   ],
+   [
+    0.0,
+    0.75,
+    0.55,
+    0.25
+   ]
+  ],
+  "size": [
+   750,
+   798
+  ],
+  "source": "imgflip template 38el31",
+  "dark_labels": true
+ },
+ "is-this-a-pigeon": {
+  "name": "Is This A Pigeon",
+  "use_for": "confidently misidentifying",
+  "zones": [
+   [
+    0.0,
+    0.55,
+    0.45,
+    0.15
+   ],
+   [
+    0.55,
+    0.05,
+    0.4,
+    0.15
+   ],
+   [
+    0.1,
+    0.85,
+    0.8,
+    0.13
+   ]
+  ],
+  "size": [
+   1200,
+   1078
+  ],
+  "source": "imgflip template 1o00in"
+ },
+ "monkey-puppet": {
+  "name": "Monkey Puppet",
+  "use_for": "awkward look away",
+  "zones": null,
+  "size": [
+   923,
+   768
+  ],
+  "source": "imgflip template 2gnnjh"
+ },
+ "roll-safe": {
+  "name": "Roll Safe Think About It",
+  "use_for": "smart-sounding bad logic",
+  "zones": null,
+  "size": [
+   702,
+   395
+  ],
+  "source": "imgflip template 1h7in3"
+ },
+ "woman-yelling-cat": {
+  "name": "Woman Yelling At Cat",
+  "use_for": "accusation vs unbothered reply",
+  "zones": [
+   [
+    0,
+    0,
+    0.5,
+    0.2
+   ],
+   [
+    0.5,
+    0,
+    0.5,
+    0.2
+   ]
+  ],
+  "size": [
+   680,
+   438
+  ],
+  "source": "imgflip template 345v97"
+ },
+ "hide-the-pain": {
+  "name": "Hide the Pain Harold",
+  "use_for": "smiling through pain (core brand emotion)",
+  "zones": null,
+  "size": [
+   480,
+   601
+  ],
+  "source": "imgflip template gk5el"
+ },
+ "waiting-skeleton": {
+  "name": "Waiting Skeleton",
+  "use_for": "waited forever: salary hike, reply, refund",
+  "zones": null,
+  "size": [
+   298,
+   403
+  ],
+  "source": "imgflip template 2fm6x"
+ },
+ "mocking-spongebob": {
+  "name": "Mocking Spongebob",
+  "use_for": "mocking repeated phrase",
+  "zones": null,
+  "size": [
+   502,
+   353
+  ],
+  "source": "imgflip template 1otk96"
+ },
+ "squidward-window": {
+  "name": "Squidward Window",
+  "use_for": "watching others have fun while you work",
+  "zones": null,
+  "size": [
+   598,
+   420
+  ],
+  "source": "imgflip template 145qvv"
+ },
+ "this-is-fine": {
+  "name": "This Is Fine",
+  "use_for": "pretending all is fine while burning",
+  "zones": null,
+  "size": [
+   580,
+   282
+  ],
+  "source": "imgflip template wxica"
+ },
+ "two-guys-bus": {
+  "name": "Two Guys on a Bus",
+  "use_for": "same situation, one sad one happy",
+  "zones": [
+   [
+    0.0,
+    0.05,
+    0.5,
+    0.15
+   ],
+   [
+    0.5,
+    0.05,
+    0.5,
+    0.15
+   ]
+  ],
+  "size": [
+   762,
+   675
+  ],
+  "source": "imgflip template 5v6gwj"
+ }
+}

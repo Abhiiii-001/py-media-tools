@@ -219,13 +219,15 @@ def post_folder(folder):
         media_id = publish_image(urls[0], caption)
     elif meta["type"] == "carousel":
         media_id = publish_carousel(caption, urls)
+    elif meta["type"] == "story":
+        media_id = publish_story(urls[0])
     elif meta["type"] == "reel":
         cover = upload(folder / meta["cover"]) if meta.get("cover") else None
         media_id = publish_reel(urls[0], caption, cover)
     else:
         sys.exit(f"Unknown type {meta['type']}")
     meta["media_id"] = media_id
-    meta["permalink"] = call("GET", media_id, fields="permalink")["permalink"]
+    meta["permalink"] = call("GET", media_id, fields="permalink").get("permalink", "")
     meta["published_at"] = datetime.now().isoformat(timespec="seconds")
     (folder / "meta.json").write_text(json.dumps(meta, indent=2, ensure_ascii=False), encoding="utf-8")
     dest = ROOT / "content" / "posted" / folder.name

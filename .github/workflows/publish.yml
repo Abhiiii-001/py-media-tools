@@ -2,8 +2,8 @@ name: Publish due posts
 
 on:
   schedule:
-    # every 30 min, 12:30 PM - 11:00 PM IST (07:00-17:30 UTC). Odd minutes avoid GitHub's busy :00 slot.
-    - cron: "7,37 7-17 * * *"
+    # every 30 min, 9:37 AM - 11:07 PM IST (04:07-17:37 UTC). Odd minutes avoid GitHub's busy :00 slot.
+    - cron: "7,37 4-17 * * *"
   workflow_dispatch:
 
 permissions:
