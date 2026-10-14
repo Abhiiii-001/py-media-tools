@@ -101,6 +101,7 @@ Engagement on OTHER pages (comments on bigger meme pages, DMs, collabs) stays ma
   (groove + ding/pop/tick/sad trombone). Never use licensed music: the API can't attach Instagram audio,
   so whatever is in the file is what plays. Reels are rendered locally (ffmpeg via winget) and pushed as MP4.
 - Daily mix per brief: 1 reel + 1 meme/carousel. Batch scripts live in `content/scripts/`.
+- Queue horizon: 1-3 days max, never more (owner's rule, trends go stale). Trend posts only today/tomorrow.
 - Token: run `python ig_api.py refresh-token` at least every 30 days (last refreshed 2026-10-14, valid 60 days),
   then push it to GitHub: `grep '^IG_ACCESS_TOKEN=' .env | cut -d= -f2- | tr -d '\r\n' | gh secret set IG_ACCESS_TOKEN`.
   gh lives at "C:\Program Files\GitHub CLI\gh.exe".

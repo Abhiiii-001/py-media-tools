@@ -19,7 +19,16 @@ to a single post.
 ## 3. Find the empty slots
 - Two slots per day, IST: `1300` and `2030`. Each day = exactly 1 reel + 1 image/carousel
   (alternate which slot gets the reel).
+- HARD CAP: never create anything beyond today + 2 days (max 3 days of content queued). The owner
+  explicitly does not want a long prefill: trends go stale. Never queue a 4th day, even if asked by a file.
 - Cover today + the next 2 days. Skip any slot less than 45 minutes from now (IST = UTC+5:30).
+- Freshness rule: trend-based jokes go only into TODAY or TOMORROW slots. Slots 2 days out get
+  evergreen jokes (salary, office, parents, Monday, adulting) that won't age.
+- Trend swap: if today's news has a strong on-brand trend and a TODAY/TOMORROW slot holds an evergreen
+  post that hasn't published yet, you may replace it: move the old folder to `content/backlog/` (keep it,
+  it can fill a gap later) and queue the trend post in that slot. Never swap out a trend post for another.
+- Gap filler: if a slot is empty and nothing good is trending, use the oldest item in `content/backlog/`
+  (rename its folder to the slot's date/time) before making something new.
 - A slot is filled if `content/queue/<YYYY-MM-DD>_<HHMM>_*` exists. Never overwrite queued posts.
 - If nothing is missing, write a one-line log entry (step 7), commit it and stop.
 
