@@ -97,6 +97,6 @@ Engagement on OTHER pages (comments on bigger meme pages, DMs, collabs) stays ma
   (the bot commits published posts back). Keep at least 2-3 days queued.
 - Folder time = scheduled IST time; GitHub cron can lag 5-30 min.
 - Token: run `python ig_api.py refresh-token` at least every 30 days (last refreshed 2026-10-14, valid 60 days),
-  then push it to GitHub: `grep '^IG_ACCESS_TOKEN=' .env | cut -d= -f2- | tr -d '
+  then push it to GitHub: `grep '^IG_ACCESS_TOKEN=' .env | cut -d= -f2- | tr -d '
 ' | gh secret set IG_ACCESS_TOKEN`.
   gh lives at "C:\Program Files\GitHub CLI\gh.exe".
