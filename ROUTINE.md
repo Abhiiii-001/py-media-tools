@@ -29,8 +29,10 @@ to a single post.
   it can fill a gap later) and queue the trend post in that slot. Never swap out a trend post for another.
 - Gap filler: if a slot is empty and nothing good is trending, use the oldest item in `content/backlog/`
   (rename its folder to the slot's date/time) before making something new.
-- A slot is filled if `content/queue/<YYYY-MM-DD>_<HHMM>_*` exists. Never overwrite queued posts.
-- If nothing is missing, write a one-line log entry (step 7), commit it and stop.
+- A slot is filled if `content/queue/<YYYY-MM-DD>_<HHMM>_*` exists. Never overwrite queued posts in place;
+  the trend swap above (move to backlog, then queue) is the only way to change one.
+- If nothing is missing, still do a quick trend check for a possible swap. If there's no swap either,
+  write a one-line log entry (step 7), commit it and stop.
 
 ## 4. Pick topics
 - WebSearch what's trending in India today/this week: cricket fixtures, OTT releases, sales, festivals
