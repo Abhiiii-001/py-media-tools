@@ -91,4 +91,12 @@ Engagement on OTHER pages (comments on bigger meme pages, DMs, collabs) stays ma
   (`{"type": "image"|"carousel"|"reel", "media": ["1.png", ...], "cover": optional}`).
 - Publish: `python ig_api.py post <queue_folder>` uploads to Cloudinary, publishes, writes media_id
   into meta.json and moves the folder to `content/posted/`.
-- Run `python ig_api.py refresh-token` at least every 30 days (token last refreshed 2026-10-14, valid 60 days).
+- Publishing runs in GitHub Actions (private repo Abhiiii-001/thaka-hua-desi, `.github/workflows/publish.yml`),
+  every 30 min from 12:37 PM to 11:07 PM IST, so the laptop can sleep. Content is created locally on this PC.
+- To queue posts: create the folder, then `git add -A && git commit && git push`. Always `git pull` first
+  (the bot commits published posts back). Keep at least 2-3 days queued.
+- Folder time = scheduled IST time; GitHub cron can lag 5-30 min.
+- Token: run `python ig_api.py refresh-token` at least every 30 days (last refreshed 2026-10-14, valid 60 days),
+  then push it to GitHub: `grep '^IG_ACCESS_TOKEN=' .env | cut -d= -f2- | tr -d '
+' | gh secret set IG_ACCESS_TOKEN`.
+  gh lives at "C:\Program Files\GitHub CLI\gh.exe".
