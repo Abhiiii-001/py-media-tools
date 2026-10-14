@@ -1,4 +1,4 @@
-"""Batch: 15-17 Oct 2026 (6 posts). Run from repo root: python content/scripts/batch_2026-10-15.py"""
+"""Batch: 15-17 Oct 2026 (3 image/carousel posts; reels in reels_2026-10-15.py). Run from repo root: python content/scripts/batch_2026-10-15.py"""
 import json
 import sys
 from pathlib import Path
@@ -86,39 +86,6 @@ Us dost ko bhejo jiska balance bhi aaj 3 digit ka hai 👇
 #thakahuadesi #salarymemes #desimemes #officememes #middleclassmemes
 """)
 
-# ---------- 15 Oct 8:30 PM: meme, Diwali gift ----------
-img = two_panel("HR KA MAIL", "'Is Diwali company ki taraf se aapke liye special gift'",
-                "GIFT", "", 0.9, 0.2, "dead", title="DIWALI GIFT 2026")
-soan_papdi(img, 360, 900, 1.0)
-watermark(img)
-out("2026-10-15_2030_diwali-gift", "image", [img], """
-Mail padh ke iPhone soch liya tha
-Diwali gift reality check, corporate memes jo dil pe lagte hai
-
-Tag karo us colleague ko jo abhi bhi bonus ka wait kar raha hai 👇
-
-#thakahuadesi #diwalimemes #officememes #corporatememes #desimemes
-""")
-
-# ---------- 16 Oct 1 PM: meme, Friday quick call ----------
-img = sunburst()
-label(img, "FRIDAY 5:58 PM", (W // 2, 70))
-panel(img, (70, 190, 940, 300))
-text_block(img, "Boss: free ho? ek quick 5 min call le lete hai", (110, 210, 860, 260),
-           path=FONT_BODY, size=66, fill=BLACK, stroke=None)
-mascot(img, W // 2, 540, scale=1.0, level=0.15, mood="dead")
-text_block(img, "QUICK CALL: 1 GHANTA 40 MIN", (70, 920, 940, 200), size=104)
-text_block(img, "weekend ki duration: khatam", (70, 1130, 940, 90), path=FONT_BODY, size=56, fill=WHITE)
-watermark(img)
-out("2026-10-16_1300_friday-quick-call", "image", [img], """
-5 min bola tha. 5 min.
-office memes for everyone jiska Friday bhi ek 'quick call' ne kha liya
-
-Send karo us dost ko jo abhi isi call pe hai 👇
-
-#thakahuadesi #officememes #corporatememes #fridaymemes #desimemes
-""")
-
 # ---------- 16 Oct 8:30 PM: carousel, Diwali safai ----------
 c = []
 img = sunburst()
@@ -157,24 +124,3 @@ Tag karo us dost ko jo abhi bhi bistar mein hai 👇
 #thakahuadesi #weekendmemes #relatablememes #desimemes #adultingmemes
 """)
 
-# ---------- 17 Oct 8:30 PM: meme, match vs safai ----------
-img = sunburst()
-label(img, "SATURDAY 7 PM", (W // 2, 70))
-text_block(img, "INDIA VS WI MATCH. CHIPS READY. REMOTE HAATH MEIN", (70, 170, 940, 260), size=96)
-panel(img, (70, 470, 940, 220))
-text_block(img, "Mummy: 'match baad mein, aaj kitchen ki upar wali almari'",
-           (110, 490, 860, 180), path=FONT_BODY, size=60, fill=BLACK, stroke=None)
-mascot(img, 300, 760, scale=0.95, level=0.2, mood="dead")
-panel(img, (560, 760, 450, 360), fill=YELLOW)
-label(img, "MERA SCORE", (785, 735), size=44)
-text_block(img, "4 almari\n2 parde\n0 overs dekhe", (590, 810, 390, 290), size=84, fill=BLACK, stroke=None)
-text_block(img, "Diwali safai > cricket", (70, 1180, 940, 80), path=FONT_BODY, size=52, fill=WHITE)
-watermark(img)
-out("2026-10-17_2030_match-vs-safai", "image", [img], """
-Match ka score pata nahi, almari ka pata hai
-cricket memes x diwali safai, desi ghar mein dono saath nahi chalte
-
-Score batao comment mein, main kitchen mein hu 👇
-
-#thakahuadesi #cricketmemes #indvswi #diwalisafai #desimemes
-""")

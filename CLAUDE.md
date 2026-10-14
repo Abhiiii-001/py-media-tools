@@ -96,6 +96,11 @@ Engagement on OTHER pages (comments on bigger meme pages, DMs, collabs) stays ma
 - To queue posts: create the folder, then `git add -A && git commit && git push`. Always `git pull` first
   (the bot commits published posts back). Keep at least 2-3 days queued.
 - Folder time = scheduled IST time; GitHub cron can lag 5-30 min.
+- Images: `brand.py` (1080x1350 slides, mascot, sunburst). Reels: `reel.py` turns a list of beats into a
+  1080x1920 MP4 (rotating sunburst, pop-in text, punchline shake) with ORIGINAL synthesized audio
+  (groove + ding/pop/tick/sad trombone). Never use licensed music: the API can't attach Instagram audio,
+  so whatever is in the file is what plays. Reels are rendered locally (ffmpeg via winget) and pushed as MP4.
+- Daily mix per brief: 1 reel + 1 meme/carousel. Batch scripts live in `content/scripts/`.
 - Token: run `python ig_api.py refresh-token` at least every 30 days (last refreshed 2026-10-14, valid 60 days),
   then push it to GitHub: `grep '^IG_ACCESS_TOKEN=' .env | cut -d= -f2- | tr -d '\r\n' | gh secret set IG_ACCESS_TOKEN`.
   gh lives at "C:\Program Files\GitHub CLI\gh.exe".

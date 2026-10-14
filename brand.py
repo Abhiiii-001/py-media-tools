@@ -18,14 +18,15 @@ def font(path, size):
     return ImageFont.truetype(path, size)
 
 
-def sunburst(bg=RED, ray=YELLOW, rays=24, center=(W // 2, H // 2)):
-    img = Image.new("RGB", (W, H), bg)
+def sunburst(bg=RED, ray=YELLOW, rays=24, center=None, size=(W, H), angle=0.0):
+    img = Image.new("RGB", size, bg)
     d = ImageDraw.Draw(img)
-    cx, cy = center
-    r = 2000
+    cx, cy = center or (size[0] // 2, size[1] // 2)
+    r = 2600
     step = 2 * math.pi / rays
+    off = math.radians(angle)
     for i in range(0, rays, 2):
-        a1, a2 = i * step, (i + 1) * step
+        a1, a2 = i * step + off, (i + 1) * step + off
         d.polygon([(cx, cy), (cx + r * math.cos(a1), cy + r * math.sin(a1)),
                    (cx + r * math.cos(a2), cy + r * math.sin(a2))], fill=ray)
     return img
@@ -94,13 +95,15 @@ def label(img, text, xy, fill=YELLOW, size=54, anchor_center=True):
     d.text((x + pad, y + pad - 8), text, font=f, fill=fill)
 
 
-def watermark(img, page=None):
+def watermark(img, page=None, y=None):
     d = ImageDraw.Draw(img)
     f = font(FONT_BODY, 30)
+    iw, ih = img.size
+    y = ih - 72 if y is None else y
     tw = d.textlength(HANDLE, font=f)
-    d.text((W - tw - 48, H - 72), HANDLE, font=f, fill=WHITE, stroke_width=4, stroke_fill=BLACK)
+    d.text((iw - tw - 48, y), HANDLE, font=f, fill=WHITE, stroke_width=4, stroke_fill=BLACK)
     if page:
-        d.text((48, H - 72), page, font=f, fill=WHITE, stroke_width=4, stroke_fill=BLACK)
+        d.text((48, y), page, font=f, fill=WHITE, stroke_width=4, stroke_fill=BLACK)
 
 
 def mascot(img, cx, top, scale=1.0, level=0.6, mood="tired"):
