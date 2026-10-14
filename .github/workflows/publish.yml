@@ -1,0 +1,52 @@
+name: Publish due posts
+
+on:
+  schedule:
+    # every 30 min, 12:30 PM - 11:00 PM IST (07:00-17:30 UTC). Odd minutes avoid GitHub's busy :00 slot.
+    - cron: "7,37 7-17 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check queue
+        id: q
+        run: |
+          if ls content/queue/*/meta.json >/dev/null 2>&1; then echo "has=1" >> "$GITHUB_OUTPUT"; fi
+
+      - uses: actions/setup-python@v5
+        if: steps.q.outputs.has == '1'
+        with:
+          python-version: "3.12"
+
+      - name: Publish
+        if: steps.q.outputs.has == '1'
+        env:
+          IG_LOGIN: instagram
+          IG_API_VERSION: v23.0
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          CLOUDINARY_CLOUD_NAME: ${{ secrets.CLOUDINARY_CLOUD_NAME }}
+          CLOUDINARY_API_KEY: ${{ secrets.CLOUDINARY_API_KEY }}
+          CLOUDINARY_API_SECRET: ${{ secrets.CLOUDINARY_API_SECRET }}
+        run: |
+          pip install -q requests
+          python publish_due.py
+
+      - name: Save published state
+        if: always() && steps.q.outputs.has == '1'
+        run: |
+          git config user.name "thd-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A content logs
+          git diff --cached --quiet || (git commit -m "Published due posts" && git push)
