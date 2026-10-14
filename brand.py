@@ -4,13 +4,16 @@ Red #E8262E, yellow #FFD21F, white, black outlines, heavy bold type, sunburst,
 @thaka_hua_desi watermark, chai glass mascot (chai level = energy/salary level).
 """
 import math
+from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 
 W, H = 1080, 1350
 RED, YELLOW, WHITE, BLACK = "#E8262E", "#FFD21F", "#FFFFFF", "#111111"
 CHAI, CHAI_TOP, GLASS = "#B9733A", "#D79A5E", "#E4F1F5"
-FONT_HEAD = "C:/Windows/Fonts/impact.ttf"
-FONT_BODY = "C:/Windows/Fonts/ariblk.ttf"
+# Open-licence (OFL) fonts bundled in the repo so renders match locally and in the cloud.
+FONTS = Path(__file__).parent / "fonts"
+FONT_HEAD = str(FONTS / "Anton-Regular.ttf")
+FONT_BODY = str(FONTS / "ArchivoBlack-Regular.ttf")
 HANDLE = "@thaka_hua_desi"
 
 

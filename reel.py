@@ -33,9 +33,13 @@ def find_ffmpeg():
     if exe:
         return exe
     hits = list(Path.home().glob("AppData/Local/Microsoft/WinGet/Packages/Gyan.FFmpeg*/*/bin/ffmpeg.exe"))
-    if not hits:
-        raise SystemExit("ffmpeg not found")
-    return str(hits[0])
+    if hits:
+        return str(hits[0])
+    try:  # pip install imageio-ffmpeg ships a static ffmpeg (works in cloud sandboxes)
+        import imageio_ffmpeg
+        return imageio_ffmpeg.get_ffmpeg_exe()
+    except ImportError:
+        raise SystemExit("ffmpeg not found: pip install imageio-ffmpeg")
 
 
 # ---------------- visuals ----------------

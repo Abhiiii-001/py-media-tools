@@ -17,6 +17,7 @@ Usage:
   python ig_api.py discover <username>                           (facebook only)
   python ig_api.py upload <local_file>          -> public URL via Cloudinary
   python ig_api.py post <queue_folder>          -> upload media + publish from meta.json
+  python ig_api.py report [limit]               -> recent posts with insights (for analytics/latest.json)
   python ig_api.py recent [limit]
   python ig_api.py comments <media_id>
   python ig_api.py reply <comment_id> <message>
@@ -232,6 +233,26 @@ def post_folder(folder):
     return {"media_id": media_id, "permalink": meta["permalink"], "moved_to": str(dest)}
 
 
+def media_insights(media_id):
+    base = "reach,likes,comments,shares,saved,total_interactions"
+    for metrics in (base + ",views", base):
+        params = {"metric": metrics, "access_token": TOKEN}
+        r = requests.get(f"{BASE}/{media_id}/insights", params=params, timeout=60).json()
+        if "data" in r:
+            return {m["name"]: m["values"][0]["value"] for m in r["data"]}
+    return {}
+
+
+def report(limit=30):
+    acct = call("GET", user_id(), fields="username,followers_count,media_count")
+    media = call("GET", f"{user_id()}/media", limit=limit,
+                 fields="id,caption,media_type,permalink,timestamp")["data"]
+    for m in media:
+        m["caption"] = (m.get("caption") or "").splitlines()[0][:120] if m.get("caption") else ""
+        m["insights"] = media_insights(m["id"])
+    return {"generated_at": datetime.now().isoformat(timespec="seconds"), "account": acct, "media": media}
+
+
 def main():
     sys.stdout.reconfigure(encoding="utf-8")
     if len(sys.argv) < 2:
@@ -263,6 +284,8 @@ def main():
         out = {"url": upload(args[0])}
     elif cmd == "post":
         out = post_folder(args[0])
+    elif cmd == "report":
+        out = report(int(args[0]) if args else 30)
     elif cmd == "recent":
         out = call("GET", f"{user_id()}/media", limit=args[0] if args else 10,
                    fields="id,caption,media_type,permalink,timestamp,like_count,comments_count")
