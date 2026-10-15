@@ -18,3 +18,6 @@
 - 17 Oct 1730 reel `raat-2-baje`: 2:47 AM overthinking a 2014 "you too" to teacher, Jethalal thinking 4-panel, punch 5:10 AM / alarm 7. Evergreen.
 - Risk: low. Analytics still too small (3 posts, 2 followers) to steer. Note: on-screen text can't render emoji (shows tofu), keep emoji in captions only.
 - Script: content/scripts/reels1730_2026-10-15.py
+
+## 2026-10-15 ~16:05 IST (cloud run, trend check)
+- Nothing missing (15-17 Oct full, 18 Oct is beyond the 3-day cap). Trend check: X India led by #APJAbdulKalam (real person, skip), #Jailer2 (film/actor, off-niche), rest sensitive news. Sale/Diwali/IND vs WI 5th T20I (17 Oct, Bengaluru) already covered. No swap.
