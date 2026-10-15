@@ -1,37 +1,36 @@
-name: Publish due posts
+name: Publisher
 
+# Always-on publisher. One run stays awake ~5h40m posting each item on time, then re-dispatches
+# itself. The cron + push triggers only (re)start the chain if it ever breaks, because GitHub's
+# cron alone is unreliable (it dropped 26 of 28 runs on 15 Oct 2026).
 on:
   schedule:
-    # every 30 min, 9:37 AM - 11:07 PM IST (04:07-17:37 UTC). Odd minutes avoid GitHub's busy :00 slot.
-    - cron: "7,37 4-17 * * *"
+    - cron: "7 */3 * * *"
+  push:
+    branches: [main]
+    paths: ["content/queue/**"]
   workflow_dispatch:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
-  group: publish
+  group: publisher
   cancel-in-progress: false
 
 jobs:
   publish:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 350
     steps:
       - uses: actions/checkout@v4
 
-      - name: Check queue
-        id: q
-        run: |
-          if ls content/queue/*/meta.json >/dev/null 2>&1; then echo "has=1" >> "$GITHUB_OUTPUT"; fi
-
       - uses: actions/setup-python@v5
-        if: steps.q.outputs.has == '1' || github.event_name == 'workflow_dispatch'
         with:
           python-version: "3.12"
 
-      - name: Publish
-        if: steps.q.outputs.has == '1' || github.event_name == 'workflow_dispatch'
+      - name: Publish loop
         env:
           IG_LOGIN: instagram
           IG_API_VERSION: v23.0
@@ -41,13 +40,12 @@ jobs:
           CLOUDINARY_API_SECRET: ${{ secrets.CLOUDINARY_API_SECRET }}
         run: |
           pip install -q requests
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then python ig_api.py whoami; fi
-          python publish_due.py
-
-      - name: Save published state
-        if: always() && steps.q.outputs.has == '1'
-        run: |
           git config user.name "thd-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add -A content logs
-          git diff --cached --quiet || (git commit -m "Published due posts" && git push)
+          python publish_loop.py
+
+      - name: Hand off to the next run
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run publish.yml --ref main

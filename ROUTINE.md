@@ -77,5 +77,5 @@ to a single post.
 - Append to `content/log.md`: date, what you queued per slot, why it should get shares, any risk.
 - `git add -A && git commit -m "Queue posts for <dates>"` then `git pull --rebase && git push origin main`.
   Retry the pull/push once if it races with the publish bot.
-- Do NOT edit `.github/`, `ig_api.py`, `publish_due.py`, `.env*` or anything in `content/posted/`.
+- Do NOT edit `.github/`, `ig_api.py`, `publish_due.py`, `publish_loop.py`, `.env*` or anything in `content/posted/`.
   If the tooling itself is broken, log the error in `content/log.md` and push only the log.

@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: publish
+  group: analytics
   cancel-in-progress: false
 
 jobs:
