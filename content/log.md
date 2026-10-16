@@ -26,3 +26,14 @@
 - Nothing published all day: Cloudinary secret had stray characters (fixed) + GitHub ran the schedule only 2x.
 - Published from PC: 2030 diwali-gift reel, 2130 question story.
 - Moved to backlog: 15-taareekh carousel (reuse on 15 Nov), sale-cart reel. Skipped (stale): 1000 mood story, 1330 teaser story.
+
+## 2026-10-16 ~09:20 IST (cloud run, morning fill)
+- 16-17 Oct already full. Filled Sun 18 Oct (2 days out, so evergreen only), new slot plan:
+  - 1000 mood story: "Sunday hai" subah aaram / shaam Monday ka dar.
+  - 1300 reel `sunday-dar`: Sunday 11 AM full aaram -> 6 PM pending mail yaad -> Hera Pheri dhak-dhak still -> Monday boss "weekend kaisa tha?". Shares: universal Sunday-scaries, tag-a-colleague.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `sunday-relatives`: Welcome sofa template, relatives' salary/shaadi/mota audit, punch "Diwali pe phir aayenge beta". Shares: Diwali-season relatives dread, family group sends.
+  - 2100 reel `salary-plan`: Gru's plan (salary aayi, SIP shuru, 4 din baad, balance Rs 212), punch "next month se pakka" (14 mahine se). Shares: tag the friend who's "starting SIP" for 2 years.
+  - 2130 question story: Monday ke liye kitne alarm?
+- Trend check: IND vs WI 5th T20I confirmed Sat 17 Oct 7 PM Bengaluru (already covered by 17 Oct 2030 reel). Festive sales still on, no end dates published. Nothing fresh and stronger, so no swap.
+- Risk: low. Analytics still tiny (2 followers, Diwali gift reel 74 views, 0 shares). Script: content/scripts/batch_2026-10-16.py
