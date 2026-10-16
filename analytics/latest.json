@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-10-15T21:30:46",
+  "generated_at": "2026-10-16T21:20:20",
   "account": {
     "username": "thaka_hua_desi",
     "followers_count": 2,
-    "media_count": 4,
+    "media_count": 7,
     "id": "39385901121055027"
   },
   "media": [
+    {
+      "id": "17986680827888902",
+      "caption": "Diwali 23 din door hai aur pankha 4 baar saaf ho chuka hai",
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DejzkiqltBC/",
+      "timestamp": "2026-10-16T15:00:37+0000",
+      "insights": {
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "18135538891733175",
+      "caption": "1 minute bola tha, 1 ghanta laga, thank you bhi nahi mila 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/Deje-FvAZWK/",
+      "timestamp": "2026-10-16T12:00:56+0000",
+      "insights": {
+        "reach": 51,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 57
+      }
+    },
+    {
+      "id": "18130342021744977",
+      "caption": "5 min bola tha. 5 min.",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DejABFyAR1C/",
+      "timestamp": "2026-10-16T07:30:24+0000",
+      "insights": {
+        "reach": 87,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 1,
+        "total_interactions": 1,
+        "views": 90
+      }
+    },
     {
       "id": "17987787389881556",
       "caption": "Mail padh ke iPhone soch liya tha 🙂",
@@ -14,13 +62,13 @@
       "permalink": "https://www.instagram.com/reel/DehaYhxiGpw/",
       "timestamp": "2026-10-15T16:42:30+0000",
       "insights": {
-        "reach": 66,
+        "reach": 95,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 74
+        "views": 106
       }
     },
     {
