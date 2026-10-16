@@ -37,3 +37,6 @@
   - 2130 question story: Monday ke liye kitne alarm?
 - Trend check: IND vs WI 5th T20I confirmed Sat 17 Oct 7 PM Bengaluru (already covered by 17 Oct 2030 reel). Festive sales still on, no end dates published. Nothing fresh and stronger, so no swap.
 - Risk: low. Analytics still tiny (2 followers, Diwali gift reel 74 views, 0 shares). Script: content/scripts/batch_2026-10-16.py
+
+## 2026-10-16 ~16:05 IST (cloud run, trend check)
+- Nothing missing (16-18 Oct full, 19 Oct beyond 3-day cap). Trend check: today's news is a Mumbai infant tragedy, an actor's legal notice, a firecracker-ban court ruling and Reliance vs Musk over Starlink (all hard-limit or off-niche). IND vs WI 5th T20I confirmed Sat 17 Oct 7 PM Bengaluru, already covered by the 17 Oct 2030 reel. No swap.
