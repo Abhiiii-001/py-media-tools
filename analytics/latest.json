@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-10-16T21:20:20",
+  "generated_at": "2026-10-17T20:43:17",
   "account": {
     "username": "thaka_hua_desi",
-    "followers_count": 2,
-    "media_count": 7,
+    "followers_count": 3,
+    "media_count": 12,
     "id": "39385901121055027"
   },
   "media": [
+    {
+      "id": "18074374199737919",
+      "caption": "Match ka score pata nahi, almari ka pata hai",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DemYT48CbqA/",
+      "timestamp": "2026-10-17T15:00:34+0000",
+      "insights": {
+        "reach": 94,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 105
+      }
+    },
+    {
+      "id": "18077263313738330",
+      "caption": "Dimaag ko bhi raat ko hi sab yaad aata hai 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DemEQ4TEX_-/",
+      "timestamp": "2026-10-17T12:05:25+0000",
+      "insights": {
+        "reach": 101,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 2,
+        "views": 105
+      }
+    },
+    {
+      "id": "17991321018027092",
+      "caption": "Plan solid tha, bas main nahi tha",
+      "media_type": "IMAGE",
+      "permalink": "https://www.instagram.com/p/Delk7nhG6i8/",
+      "timestamp": "2026-10-17T07:31:22+0000",
+      "insights": {
+        "reach": 1,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1,
+        "views": 1
+      }
+    },
     {
       "id": "17986680827888902",
       "caption": "Diwali 23 din door hai aur pankha 4 baar saaf ho chuka hai",
@@ -14,13 +62,13 @@
       "permalink": "https://www.instagram.com/p/DejzkiqltBC/",
       "timestamp": "2026-10-16T15:00:37+0000",
       "insights": {
-        "reach": 0,
-        "likes": 0,
+        "reach": 1,
+        "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0,
-        "total_interactions": 0,
-        "views": 0
+        "total_interactions": 1,
+        "views": 2
       }
     },
     {
@@ -30,13 +78,13 @@
       "permalink": "https://www.instagram.com/reel/Deje-FvAZWK/",
       "timestamp": "2026-10-16T12:00:56+0000",
       "insights": {
-        "reach": 51,
-        "likes": 0,
+        "reach": 65,
+        "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0,
-        "total_interactions": 0,
-        "views": 57
+        "total_interactions": 1,
+        "views": 72
       }
     },
     {
@@ -46,13 +94,13 @@
       "permalink": "https://www.instagram.com/reel/DejABFyAR1C/",
       "timestamp": "2026-10-16T07:30:24+0000",
       "insights": {
-        "reach": 87,
-        "likes": 0,
+        "reach": 101,
+        "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 1,
-        "total_interactions": 1,
-        "views": 90
+        "total_interactions": 2,
+        "views": 110
       }
     },
     {
@@ -62,13 +110,13 @@
       "permalink": "https://www.instagram.com/reel/DehaYhxiGpw/",
       "timestamp": "2026-10-15T16:42:30+0000",
       "insights": {
-        "reach": 95,
-        "likes": 0,
+        "reach": 96,
+        "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0,
-        "total_interactions": 0,
-        "views": 106
+        "total_interactions": 1,
+        "views": 109
       }
     },
     {
@@ -78,13 +126,13 @@
       "permalink": "https://www.instagram.com/reel/DeLQJOyPUbY/",
       "timestamp": "2026-10-07T02:09:29+0000",
       "insights": {
-        "reach": 1,
-        "likes": 0,
+        "reach": 2,
+        "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0,
-        "total_interactions": 0,
-        "views": 0
+        "total_interactions": 2,
+        "views": 2
       }
     },
     {
@@ -94,13 +142,13 @@
       "permalink": "https://www.instagram.com/p/DeKMwu-DwkA/",
       "timestamp": "2026-10-06T16:20:26+0000",
       "insights": {
-        "reach": 3,
-        "likes": 1,
+        "reach": 4,
+        "likes": 2,
         "comments": 0,
         "shares": 7,
         "saved": 0,
-        "total_interactions": 9,
-        "views": 6
+        "total_interactions": 10,
+        "views": 9
       }
     },
     {
@@ -110,13 +158,13 @@
       "permalink": "https://www.instagram.com/p/DeIAH3hy094/",
       "timestamp": "2026-10-05T19:51:34+0000",
       "insights": {
-        "reach": 2,
-        "likes": 2,
+        "reach": 3,
+        "likes": 3,
         "comments": 0,
         "shares": 0,
         "saved": 0,
-        "total_interactions": 3,
-        "views": 6
+        "total_interactions": 5,
+        "views": 7
       }
     }
   ]
