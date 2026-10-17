@@ -40,3 +40,16 @@
 
 ## 2026-10-16 ~16:05 IST (cloud run, trend check)
 - Nothing missing (16-18 Oct full, 19 Oct beyond 3-day cap). Trend check: today's news is a Mumbai infant tragedy, an actor's legal notice, a firecracker-ban court ruling and Reliance vs Musk over Starlink (all hard-limit or off-niche). IND vs WI 5th T20I confirmed Sat 17 Oct 7 PM Bengaluru, already covered by the 17 Oct 2030 reel. No swap.
+
+## 2026-10-17 ~09:10 IST (cloud run, morning fill)
+- 17-18 Oct already full. Filled Mon 19 Oct (2 days out, evergreen only):
+  - 1000 mood story: "Monday hai" alarm 6 / chai 2 / motivation loading.
+  - 1300 reel `delivery-wait`: 8 AM "order aaj aayega" -> nahaya nahi, gate pe baitha -> Hera Pheri "ab tak aa jaana chahiye tha" still -> 9:02 PM "Delivery attempted, customer not available". Shares: sale-season universal pain, send-to-friend.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 carousel `monday-stages` (mascot, 7 slides): 5 min aur, 47 unread mail, meeting about a meeting, ghadi 3:34, "ab sirf 4 din aur", CTA. Shares: colleague sends on Monday itself.
+  - 2100 reel `mummy-phone`: Mummy "phone rakh de" at 9 PM -> 11:40 PM light in her room -> Jethalal peeking still -> "bas ek recipe dekh rahi thi" (reel 147). Shares: siblings send to each other. Second phone/parents joke in 4 days (papa-phone 16 Oct), different angle.
+  - 2130 question story: Monday 1-10 kitna bekaar.
+- Trend check: X India led by Navratri/Garba (religious side, skip), World Food Day (stale). IND vs WI 5th T20I confirmed tonight 7 PM Bengaluru, already covered by 17 Oct 2030 reel. No swap.
+- Analytics: 2 followers; reels get 57-106 views each, carousels near 0 reach. Kept 2 reels/day. Risk: low.
+- Env note: `pip` points to a different Python here; use `python -m pip install -r requirements.txt`.
+- Script: content/scripts/batch_2026-10-17.py
