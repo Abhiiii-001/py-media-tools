@@ -53,3 +53,6 @@
 - Analytics: 2 followers; reels get 57-106 views each, carousels near 0 reach. Kept 2 reels/day. Risk: low.
 - Env note: `pip` points to a different Python here; use `python -m pip install -r requirements.txt`.
 - Script: content/scripts/batch_2026-10-17.py
+
+## 2026-10-17 ~16:05 IST (cloud run, trend check)
+- Nothing missing (17-19 Oct full, 20 Oct beyond 3-day cap). Trend check: IND vs WI 5th T20I tonight 7 PM Bengaluru is a 2-2 series decider (verified), already covered by 2030 `match-vs-safai` reel. No other on-brand trend (web trending mostly music videos/news). No swap.
