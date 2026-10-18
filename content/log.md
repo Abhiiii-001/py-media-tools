@@ -68,3 +68,6 @@
 - Trend check: web search turned up nothing fresh/on-brand for today (IND vs WI result not findable, couldn't verify). Today/tomorrow already hold evergreen posts; no swap.
 - Analytics: 3 followers; reels steady ~100 views, image/carousel ~1-2 reach, 0 shares anywhere. Kept reels-heavy. Risk: low.
 - Script: content/scripts/batch_2026-10-18.py
+
+## 2026-10-18 ~16:05 IST (cloud run, trend check)
+- Nothing missing (18-20 Oct full, 21 Oct beyond 3-day cap). Trend check: headlines are SC on kids' internet access, Ramsar wetlands, defence deals, Bumrah recalled for NZ Tests (none on-brand). IND vs WI 5th T20I result still not verifiable, so skipped. No swap.
