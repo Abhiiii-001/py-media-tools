@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-10-17T20:43:17",
+  "generated_at": "2026-10-18T20:52:57",
   "account": {
     "username": "thaka_hua_desi",
     "followers_count": 3,
-    "media_count": 12,
+    "media_count": 15,
     "id": "39385901121055027"
   },
   "media": [
+    {
+      "id": "18012992984995869",
+      "caption": "Plan solid hai, bas har mahine postpone hota hai 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DepAiZ5FRBi/",
+      "timestamp": "2026-10-18T15:30:35+0000",
+      "insights": {
+        "reach": 37,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 39
+      }
+    },
+    {
+      "id": "18149445565557509",
+      "caption": "Aaye the chai peene, gaye meri poori life audit karke 🙂",
+      "media_type": "IMAGE",
+      "permalink": "https://www.instagram.com/p/DeoogGcG-GE/",
+      "timestamp": "2026-10-18T12:00:17+0000",
+      "insights": {
+        "reach": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 6
+      }
+    },
+    {
+      "id": "18137455759731181",
+      "caption": "Sunday ki chhutti 6 baje tak hi valid hai 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DeoJt82CTMX/",
+      "timestamp": "2026-10-18T07:31:26+0000",
+      "insights": {
+        "reach": 104,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 115
+      }
+    },
     {
       "id": "18074374199737919",
       "caption": "Match ka score pata nahi, almari ka pata hai",
@@ -30,7 +78,7 @@
       "permalink": "https://www.instagram.com/reel/DemEQ4TEX_-/",
       "timestamp": "2026-10-17T12:05:25+0000",
       "insights": {
-        "reach": 101,
+        "reach": 102,
         "likes": 1,
         "comments": 0,
         "shares": 0,
