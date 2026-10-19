@@ -71,3 +71,16 @@
 
 ## 2026-10-18 ~16:05 IST (cloud run, trend check)
 - Nothing missing (18-20 Oct full, 21 Oct beyond 3-day cap). Trend check: headlines are SC on kids' internet access, Ramsar wetlands, defence deals, Bumrah recalled for NZ Tests (none on-brand). IND vs WI 5th T20I result still not verifiable, so skipped. No swap.
+
+## 2026-10-19 ~09:10 IST (cloud run, morning fill)
+- 19-20 Oct already full. Filled Wed 21 Oct (2 days out, evergreen only):
+  - 1000 mood story: "Wednesday hai" hafta aadha gaya / energy poori gayi / 2nd chai 10 baje.
+  - 1300 reel `sale-cart` (gap filler from content/backlog, oldest item): 70% off -> cart Rs 38,499 -> Hera Pheri still, balance Rs 1,240 -> remove remove remove, bacha 1 phone cover 'save for later'. Festive sales still running pre-Diwali. Shares: cart-only shopper friend.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `team-player`: Trade Offer template, boss Friday 6:58 PM: Saturday 'bas 1 ghanta' ka kaam vs 'Thanks for being a team player'. Shares: colleague sends to colleague.
+  - 2100 reel `appraisal-hike`: "company ka saal accha gaya" -> mann mein 30% -> 150 rupiya dega still -> hike 3%, mehngai 6%, "is saal maine company ko pay kiya". Shares: appraisal season, office group sends.
+  - 2130 question story: is saal ka hike kitna aaya, ya 'process mein hai'?
+- Trend check: today is Durga Ashtami (religious side, skip). IND tour of NZ starts 22 Oct (1st T20I Christchurch, verified) which is beyond the cap; worth a trend post in the 20/21 Oct 4 PM runs. No swap.
+- Analytics: 3 followers, reels ~40-115 views, images ~1 reach, 0 shares. Kept reels-heavy. Risk: low.
+- Env note: repo was checked out on a detached HEAD; ran `git checkout main` first.
+- Script: content/scripts/batch_2026-10-19.py
