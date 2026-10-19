@@ -84,3 +84,6 @@
 - Analytics: 3 followers, reels ~40-115 views, images ~1 reach, 0 shares. Kept reels-heavy. Risk: low.
 - Env note: repo was checked out on a detached HEAD; ran `git checkout main` first.
 - Script: content/scripts/batch_2026-10-19.py
+
+## 2026-10-19 ~16:05 IST (cloud run, trend check)
+- Nothing missing (19-21 Oct full, 22 Oct beyond 3-day cap). Trend check: no fresh on-brand trend found (Navratri religious side skipped). Verified IND vs NZ 1st T20I is Thu 22 Oct, Hagley Oval Christchurch, ~12:30 PM IST, so it's in office hours ("match during office lunch" angle). Queue it in the 20/21 Oct runs. No swap.
