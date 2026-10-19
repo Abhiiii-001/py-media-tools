@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-10-18T20:52:57",
+  "generated_at": "2026-10-19T22:27:36",
   "account": {
     "username": "thaka_hua_desi",
     "followers_count": 3,
-    "media_count": 15,
+    "media_count": 18,
     "id": "39385901121055027"
   },
   "media": [
+    {
+      "id": "18110545349596185",
+      "caption": "Rule sirf bachchon ke liye tha 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DerlVh1jF99/",
+      "timestamp": "2026-10-19T15:30:27+0000",
+      "insights": {
+        "reach": 105,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 115
+      }
+    },
+    {
+      "id": "18062991788531831",
+      "caption": "Monday ne phir se haath pakad ke bitha diya 🙂",
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DerNWkGlazH/",
+      "timestamp": "2026-10-19T12:00:35+0000",
+      "insights": {
+        "reach": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 5
+      }
+    },
+    {
+      "id": "17986988378886625",
+      "caption": "13 ghante gate pe baitha, phir bhi 'customer not available' 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DequZ5bik0R/",
+      "timestamp": "2026-10-19T07:30:35+0000",
+      "insights": {
+        "reach": 105,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 123
+      }
+    },
     {
       "id": "18012992984995869",
       "caption": "Plan solid hai, bas har mahine postpone hota hai 🙂",
@@ -14,13 +62,13 @@
       "permalink": "https://www.instagram.com/reel/DepAiZ5FRBi/",
       "timestamp": "2026-10-18T15:30:35+0000",
       "insights": {
-        "reach": 37,
-        "likes": 0,
+        "reach": 110,
+        "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0,
-        "total_interactions": 0,
-        "views": 39
+        "total_interactions": 1,
+        "views": 121
       }
     },
     {
@@ -46,13 +94,13 @@
       "permalink": "https://www.instagram.com/reel/DeoJt82CTMX/",
       "timestamp": "2026-10-18T07:31:26+0000",
       "insights": {
-        "reach": 104,
+        "reach": 105,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 115
+        "views": 116
       }
     },
     {
