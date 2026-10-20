@@ -87,3 +87,16 @@
 
 ## 2026-10-19 ~16:05 IST (cloud run, trend check)
 - Nothing missing (19-21 Oct full, 22 Oct beyond 3-day cap). Trend check: no fresh on-brand trend found (Navratri religious side skipped). Verified IND vs NZ 1st T20I is Thu 22 Oct, Hagley Oval Christchurch, ~12:30 PM IST, so it's in office hours ("match during office lunch" angle). Queue it in the 20/21 Oct runs. No swap.
+
+## 2026-10-20 ~16:05 IST (cloud run, trend check + fill)
+- No morning entry for 20 Oct, so Thu 22 Oct was empty. Filled it:
+  - 1000 mood story: "Thursday hai" match 12:30 / meeting 12:30 / kismat same.
+  - 1300 reel `match-office` (scheduled-fixture post, IND vs NZ 1st T20I Thu 22 Oct, Hagley Oval, 12:30 PM IST, re-verified today): match shuru, main office mein -> excel + score + 'very productive' face -> monkey-puppet "manager peeche khada tha" -> manager: "Score kya hua?" (he was watching on mute in the 1 PM meeting). Goes live 30 min into the match. Shares: office group sends while the match is on.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `ek-minute`: Jethalal 4 reactions, boss "ek minute aana zara" -> kal wala mail? / 2019 wali galti? / PIP? / resume update -> "charger hai kya?". Shares: overthinking colleague tag. (Swapped off `jethalal-thinking` template: it carries another creator's watermark, avoid it.)
+  - 2100 reel `salary-mehmaan`: 10:02 salary credited -> party plans -> trio shock, 4 SMS -> EMI/rent/card/SIP, "salary 1 minute ki mehmaan thi". Shares: universal salary-day pain.
+  - 2130 question story: salary account mein kitni der tikti hai?
+- Trend check: today is Dussehra (religious side, skip). No other fresh on-brand trend. Backlog `for-15th-of-month` is date-specific, left in backlog. No swap.
+- Analytics: 3 followers, reels ~105-123 views, carousel 1 reach, 0 shares. Kept reels-heavy. Risk: low.
+- Env note: system PIL was broken; `python -m pip install --force-reinstall --ignore-installed pillow` fixed it.
+- Script: content/scripts/batch_2026-10-20.py
