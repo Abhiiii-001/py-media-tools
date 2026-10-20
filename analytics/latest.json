@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-10-19T22:27:36",
+  "generated_at": "2026-10-20T21:43:03",
   "account": {
     "username": "thaka_hua_desi",
     "followers_count": 3,
-    "media_count": 18,
+    "media_count": 21,
     "id": "39385901121055027"
   },
   "media": [
+    {
+      "id": "17991306884865418",
+      "caption": "'Kal se gym' 10 mahine se chal raha hai 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DeuKISSDQ58/",
+      "timestamp": "2026-10-20T15:30:34+0000",
+      "insights": {
+        "reach": 49,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 52
+      }
+    },
+    {
+      "id": "18090205055495299",
+      "caption": "Goa plan 2016 mein bana tha, ab tak sirf group ka naam badla hai 🙂",
+      "media_type": "IMAGE",
+      "permalink": "https://www.instagram.com/p/DetyFu0FABI/",
+      "timestamp": "2026-10-20T12:00:15+0000",
+      "insights": {
+        "reach": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 7
+      }
+    },
+    {
+      "id": "18093407969679820",
+      "caption": "Camera 2 saal se kharab hai, aur kharab hi rahega 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DetTMzRDq9J/",
+      "timestamp": "2026-10-20T07:30:35+0000",
+      "insights": {
+        "reach": 103,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 112
+      }
+    },
     {
       "id": "18110545349596185",
       "caption": "Rule sirf bachchon ke liye tha 🙂",
@@ -14,7 +62,7 @@
       "permalink": "https://www.instagram.com/reel/DerlVh1jF99/",
       "timestamp": "2026-10-19T15:30:27+0000",
       "insights": {
-        "reach": 105,
+        "reach": 106,
         "likes": 0,
         "comments": 0,
         "shares": 0,
@@ -46,7 +94,7 @@
       "permalink": "https://www.instagram.com/reel/DequZ5bik0R/",
       "timestamp": "2026-10-19T07:30:35+0000",
       "insights": {
-        "reach": 105,
+        "reach": 106,
         "likes": 0,
         "comments": 0,
         "shares": 0,
