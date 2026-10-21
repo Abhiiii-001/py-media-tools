@@ -100,3 +100,16 @@
 - Analytics: 3 followers, reels ~105-123 views, carousel 1 reach, 0 shares. Kept reels-heavy. Risk: low.
 - Env note: system PIL was broken; `python -m pip install --force-reinstall --ignore-installed pillow` fixed it.
 - Script: content/scripts/batch_2026-10-20.py
+
+## 2026-10-21 ~09:10 IST (cloud run, morning fill)
+- 21-22 Oct already full. Filled Fri 23 Oct (2 days out, evergreen only):
+  - 1000 mood story: "Friday hai" body: office mein / dil: weekend pe / kaam: Monday pe.
+  - 1300 reel `doctor-stress`: doctor "stress kam lo" -> EMI kam hogi? boss badal doge? -> Hide the Pain Harold, "fees Rs 800" -> "ab stress double, dawai: 'aaram karo'". Shares: the "bas thoda stress hai" friend.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `papa-at-25`: Buff Doge vs Cheems, 25 ki umar mein: Papa (ghar, scooter, 2 bachche) vs Main (3 roommates, 0 savings), footer "ek salary mein Papa ka poora ghar, meri sirf Maggi". Shares: peer-group adulting pain, tagged in roommate chats.
+  - 2100 reel `papa-kitne-ka`: Papa "kitne ka liya?" -> asli Rs 4,999, bola Rs 1,200 -> 3 Idiots old man "itna mehnga?!" -> "hamare zamaane mein 40 ka aata tha", asli price batata toh main ghar ke bahar hota. Shares: universal desi kid move, very taggable.
+  - 2130 question story: Papa ko kabhi kisi cheez ka ASLI price bataya hai?
+- Trend check: generic India trend search returned nothing usable. Verified IND vs NZ 2nd T20I is Sat 24 Oct, Hagley Oval, ~12:30 PM IST (beyond the cap today; usable as a 'tomorrow' trend post in the 22 Oct runs). No swap: today/tomorrow already hold on-brand posts, and tomorrow's 1300 is the 1st T20I post.
+- Analytics: 3 followers, reels ~50-115 views, images ~1 reach, 0 shares. Kept 2 reels + 1 image. Risk: low (papa jokes punch at the situation, not at parents).
+- Env note: system PIL broken again (force-reinstalled pillow), numpy + imageio-ffmpeg needed installing.
+- Script: content/scripts/batch_2026-10-21.py
