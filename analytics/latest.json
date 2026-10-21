@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-10-20T21:43:03",
+  "generated_at": "2026-10-21T21:49:06",
   "account": {
     "username": "thaka_hua_desi",
     "followers_count": 3,
-    "media_count": 21,
+    "media_count": 24,
     "id": "39385901121055027"
   },
   "media": [
+    {
+      "id": "18342298516287515",
+      "caption": "Company ka saal accha gaya, mera nahi 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/Dewu7E7kT30/",
+      "timestamp": "2026-10-21T15:30:24+0000",
+      "insights": {
+        "reach": 104,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 119
+      }
+    },
+    {
+      "id": "18244685302315079",
+      "caption": "'Bas 1 ghanta' bola tha, Saturday hi chala gaya 🙂",
+      "media_type": "IMAGE",
+      "permalink": "https://www.instagram.com/p/DewW4lslQBn/",
+      "timestamp": "2026-10-21T12:00:06+0000",
+      "insights": {
+        "reach": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 1
+      }
+    },
+    {
+      "id": "18210552427371660",
+      "caption": "Sale 70% off thi, main 100% broke tha 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/Dev3_q3jYhK/",
+      "timestamp": "2026-10-21T07:30:25+0000",
+      "insights": {
+        "reach": 55,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 62
+      }
+    },
     {
       "id": "17991306884865418",
       "caption": "'Kal se gym' 10 mahine se chal raha hai 🙂",
@@ -14,13 +62,13 @@
       "permalink": "https://www.instagram.com/reel/DeuKISSDQ58/",
       "timestamp": "2026-10-20T15:30:34+0000",
       "insights": {
-        "reach": 49,
+        "reach": 102,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 52
+        "views": 104
       }
     },
     {
