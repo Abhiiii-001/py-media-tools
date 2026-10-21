@@ -113,3 +113,6 @@
 - Analytics: 3 followers, reels ~50-115 views, images ~1 reach, 0 shares. Kept 2 reels + 1 image. Risk: low (papa jokes punch at the situation, not at parents).
 - Env note: system PIL broken again (force-reinstalled pillow), numpy + imageio-ffmpeg needed installing.
 - Script: content/scripts/batch_2026-10-21.py
+
+## 2026-10-21 ~16:00 IST (cloud run, trend check)
+- Nothing missing (21-23 Oct full, 24 Oct beyond 3-day cap). Trend check: IND vs NZ 1st T20I re-verified (Wisden: Thu 22 Oct, Hagley Oval, 20:00 local = 12:30 PM IST), already covered by tomorrow's 1300 `match-office` reel. Generic India trend search returned only undated/unreliable results. No swap.
