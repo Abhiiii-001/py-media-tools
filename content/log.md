@@ -116,3 +116,16 @@
 
 ## 2026-10-21 ~16:00 IST (cloud run, trend check)
 - Nothing missing (21-23 Oct full, 24 Oct beyond 3-day cap). Trend check: IND vs NZ 1st T20I re-verified (Wisden: Thu 22 Oct, Hagley Oval, 20:00 local = 12:30 PM IST), already covered by tomorrow's 1300 `match-office` reel. Generic India trend search returned only undated/unreliable results. No swap.
+
+## 2026-10-22 ~09:10 IST (cloud run, morning fill)
+- 22-23 Oct already full. Filled Sat 24 Oct (2 days out, evergreen only):
+  - 1000 mood story: "Saturday hai" alarm: band / body: phir bhi 6 baje uth gaya / plans: bistar.
+  - 1300 reel `saturday-alarm`: weekdays alarm 7:00 snooze x5 -> Saturday no alarm, body 6 AM fresh -> Hide the Pain Harold "6 baje chhat ghoorte hue" -> "Aur Monday ko? phir 5 snooze, body ko bhi office se nafrat hai". Shares: universal, snooze-friend tag.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `weekend-plan`: Gru's Plan, Sat gym/laundry -> Sun kitaab/meal prep -> "pehle bas 5 min reels" x2, footer "Sunday raat 11 baje: 'agle weekend pakka'". (First draft "uthte hi 3 baj gaye" contradicted the 1300 reel, reworked.) Shares: tag the doom-scroll friend, meta since they're watching reels.
+  - 2100 reel `upi-hisaab`: "bas ek chai pe milte hai" -> 3 ghante, Rs 2,437 bill -> Jethalal evil smile -> UPI request Rs 812.50, "dosti 10 saal ki, hisaab 50 paise ka". Shares: every friend group has this guy.
+  - 2130 question story: group mein 50 paise ka bhi hisaab rakhne wala dost kaun hai?
+- Trend check: IND vs NZ 1st T20I today (Wisden: Hagley Oval, 20:00 local = 12:30 PM IST) already covered by today's 1300 reel. Generic trend search returned nothing usable. No swap. 2nd T20I Sat 24 Oct is a candidate to swap into the 24 Oct 1300/2100 in tomorrow's runs (24th becomes 'tomorrow').
+- Analytics: 3 followers, reels ~60-120 views, images ~1 reach, 0 shares. Kept 2 reels + 1 image. Risk: low.
+- Env note: detached HEAD again (checked out main); pillow/numpy/imageio-ffmpeg force-reinstalled.
+- Script: content/scripts/batch_2026-10-22.py
