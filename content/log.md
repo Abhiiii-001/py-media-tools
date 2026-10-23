@@ -132,3 +132,18 @@
 
 ## 2026-10-22 ~16:00 IST (cloud run, trend check)
 - Nothing missing (22-24 Oct full, 25 Oct beyond 3-day cap). Trend check: IND vs NZ 1st T20I result not verifiable yet (search only gave old fixtures), generic India trend search returned nothing usable or dated. No swap. Tomorrow's runs: 2nd T20I Sat 24 Oct becomes 'tomorrow' on 23 Oct, consider swapping 24 Oct 1300/2100 evergreen reel then.
+
+## 2026-10-23 ~09:05 IST (cloud run, morning fill + trend swap)
+- Trend swap (24 Oct = tomorrow): verified IND beat NZ in the 1st T20I on 22 Oct by 4 wkts with 2 balls left, chasing 226 (Cricinfo match report), and the 2nd T20I is Sat 24 Oct, Hagley Oval, 12:30 PM IST. Moved evergreen `2026-10-24_1300_saturday-alarm-reel` + its 1330 teaser to `content/backlog/` (saturday-alarm-reel, saturday-alarm-teaser-story; reusable on any Saturday).
+  - 1300 reel `salary-chase`: "India ne 226 chase kar liya" -> pressure mein bhi 2 ball pehle -> Hide the Pain Harold "aur mera chase?" -> "salary tak 7 din, Rs 1,100, required rate Rs 157/din, wicket sab gir chuke". Goes live 30 min into the 2nd T20I. Shares: month-end broke friends, cricket group chats. (Avoided match-vs-safai angle, already posted 17 Oct.)
+  - 1330 teaser story of it.
+- Filled Sun 25 Oct (2 days out, evergreen only):
+  - 1000 mood story: "Sunday hai" mera plan: kuch nahi / mummy ka plan: sab kuch / chai: teesri.
+  - 1300 reel `kya-banau`: Mummy "aaj kya banau?" -> "kuch bhi" (rajma nahi, paneer nahi, bhindi bilkul nahi) -> 3 Idiots old man "toh khud bana le" -> 1 ghante baad wahi dal chawal. Shares: universal Sunday ghar scene.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `sharma-ji-jogging`: Woman Yelling at Cat, Sunday 12 baje utha toh Mummy "Sharma ji ka beta 6 baje uthta hai!" vs Main "uski salary bhi 6 guna hai", footer "comparison karna hai toh poora karo". Shares: everyone has a Sharma ji ka beta. (First render labels too cramped, shortened.)
+  - 2100 reel `dhaniya-pudina`: "bas 3 cheez le aa" -> phone pe 6 aur -> Gajab bezzati -> "ye pudina hai", 25 saal ka, salary leta hu, dhaniya nahi pehchanta. Shares: taggable, light self-roast.
+  - 2130 question story: sabzi lene gaye aur galat cheez laaye ho?
+- Analytics: 3 followers, reels ~60-120 views, images ~1 reach, 0 shares. Kept 2 reels + 1 image. Risk: low (cricket joke is about my salary, not players; mom jokes punch at the situation).
+- Env note: detached HEAD again (checked out main); pillow/numpy/imageio-ffmpeg force-reinstalled.
+- Script: content/scripts/batch_2026-10-23.py
