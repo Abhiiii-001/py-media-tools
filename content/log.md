@@ -150,3 +150,16 @@
 
 ## 2026-10-23 ~16:00 IST (cloud run, trend check)
 - Nothing missing (23-25 Oct full, 26 Oct beyond 3-day cap). Trend check: today's India trending results were politics (exam-leak protests), a death case and festival accident clips, all HARD LIMITS. Cricket angle already covered by tomorrow's 1300 `salary-chase` reel (2nd T20I). No swap.
+
+## 2026-10-24 ~09:05 IST (cloud run, morning fill)
+- 24-25 Oct already full. Filled Mon 26 Oct (2 days out, evergreen only, Monday office theme):
+  - 1000 mood story: "Monday hai" alarm: 4 baar snooze / chai: 2 glass / energy: 9%.
+  - 1300 reel `weekend-kaisa`: manager "weekend kaisa raha?" -> asli weekend (Sat 6 baje neend khuli, Sun mummy ka 'bas ek kaam', aaram 0) -> Hide the Pain Harold -> "bahut badhiya sir, fresh hu", andar se Friday ka wait shuru. Shares: office colleague tag, ties into Sat/Sun posts.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `monday-buttons`: Two Buttons, Monday 7:45 AM: "Leave le lu" vs "Office jaake rou", sweating guy = Main, footer "dono mein salary same, dard alag". (First labels too small, shortened.) Shares: every Monday sick-leave drafter.
+  - 2100 reel `maps-jhooth`: Maps "office 22 min" at 9:15 -> 9:40 same signal, "sabse fast route" -> waiting skeleton 10:30 -> manager "jaldi nikla karo", "sir jaldi hi nikla tha, Google Maps jhooth bolta hai". Shares: commuter group chats, no city named.
+  - 2130 question story: Monday ko 'weekend kaisa raha' pe kabhi sach bola hai?
+- Trend check: searches for today's trends/2nd T20I came back with stale results only. Today's 1300 `salary-chase` reel only cites the 1st T20I result, which was verified on Cricinfo yesterday, so it's safe. No swap.
+- Analytics: 3 followers, reels ~105-122 views, images 1-2 reach, 0 shares. Kept 2 reels + 1 image. Risk: low.
+- Env note: numpy missing again (force-reinstalled pillow/numpy/imageio-ffmpeg).
+- Script: content/scripts/batch_2026-10-24.py
