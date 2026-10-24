@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-10-23T21:30:15",
+  "generated_at": "2026-10-24T20:57:35",
   "account": {
     "username": "thaka_hua_desi",
     "followers_count": 3,
-    "media_count": 28,
+    "media_count": 31,
     "id": "39385901121055027"
   },
   "media": [
+    {
+      "id": "18131547127762345",
+      "caption": "Dosti free hai, bas chai ka hisaab 50 paise tak hota hai 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/De4dT84gJoP/",
+      "timestamp": "2026-10-24T15:30:25+0000",
+      "insights": {
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "18099605396558035",
+      "caption": "Weekend ka plan har hafte solid hota hai, bas '5 min reels' kabhi khatam nahi hote 🙂",
+      "media_type": "IMAGE",
+      "permalink": "https://www.instagram.com/p/De4FRX8mtft/",
+      "timestamp": "2026-10-24T12:00:18+0000",
+      "insights": {
+        "reach": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 1
+      }
+    },
+    {
+      "id": "18000204908868263",
+      "caption": "India ne 226 chase kar liya, main mahine ke last 7 din chase nahi kar paata 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/De3mfn8CHR9/",
+      "timestamp": "2026-10-24T07:31:35+0000",
+      "insights": {
+        "reach": 96,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 108
+      }
+    },
     {
       "id": "18099474509388834",
       "caption": "Ghar mein har cheez ka price 75% off pe hi batana padta hai 🙂",
@@ -94,7 +142,7 @@
       "permalink": "https://www.instagram.com/reel/Deyczl_ja6j/",
       "timestamp": "2026-10-22T07:30:44+0000",
       "insights": {
-        "reach": 103,
+        "reach": 104,
         "likes": 0,
         "comments": 0,
         "shares": 0,
@@ -437,22 +485,6 @@
         "saved": 0,
         "total_interactions": 10,
         "views": 9
-      }
-    },
-    {
-      "id": "18332259757277275",
-      "caption": "Har mahine ka same plot twist 🙂☕",
-      "media_type": "IMAGE",
-      "permalink": "https://www.instagram.com/p/DeIAH3hy094/",
-      "timestamp": "2026-10-05T19:51:34+0000",
-      "insights": {
-        "reach": 3,
-        "likes": 3,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 5,
-        "views": 7
       }
     }
   ]
