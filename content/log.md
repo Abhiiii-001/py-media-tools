@@ -179,3 +179,6 @@
 - Analytics: 3 followers, reels ~100-120 views (24 Oct 2100 reel not counted yet), images 1 reach, 0 shares. Kept 2 reels + 1 image. Risk: low ("will likh di" is self-roast hypochondria, no real death/tragedy).
 - Env note: detached HEAD again (checked out main); pillow/numpy/imageio-ffmpeg force-reinstalled with --ignore-installed.
 - Script: content/scripts/batch_2026-10-25.py
+
+## 2026-10-25 ~16:00 IST (cloud run, trend check)
+- Nothing missing (25-27 Oct full, 28 Oct beyond 3-day cap). Trend check: the 2nd T20I (24 Oct) result still isn't indexed, and the generic India trend search returned nothing dated or usable. No swap. Next: Diwali (bonus/safai/sale angles) can come into the slots once it falls within today/tomorrow. Env note: detached HEAD again (checked out main).
