@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-10-24T20:57:35",
+  "generated_at": "2026-10-25T20:57:37",
   "account": {
     "username": "thaka_hua_desi",
     "followers_count": 3,
-    "media_count": 31,
+    "media_count": 34,
     "id": "39385901121055027"
   },
   "media": [
+    {
+      "id": "18119139607998642",
+      "caption": "Office mein senior hu, sabzi mandi mein abhi bhi intern 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/De7CG3xFBiJ/",
+      "timestamp": "2026-10-25T15:30:35+0000",
+      "insights": {
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "17926306245205986",
+      "caption": "Sharma ji ka beta 6 baje uthta hai, uski salary bhi 6 guna hai 🙂",
+      "media_type": "IMAGE",
+      "permalink": "https://www.instagram.com/p/De6qEK_lqxx/",
+      "timestamp": "2026-10-25T12:00:17+0000",
+      "insights": {
+        "reach": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 1
+      }
+    },
+    {
+      "id": "18117887216096153",
+      "caption": "'Kuch bhi' bola tha, kuch bhi mein bhi options nahi hote 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/De6LK6oFt9T/",
+      "timestamp": "2026-10-25T07:30:35+0000",
+      "insights": {
+        "reach": 95,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 110
+      }
+    },
     {
       "id": "18131547127762345",
       "caption": "Dosti free hai, bas chai ka hisaab 50 paise tak hota hai 🙂",
@@ -46,13 +94,13 @@
       "permalink": "https://www.instagram.com/reel/De3mfn8CHR9/",
       "timestamp": "2026-10-24T07:31:35+0000",
       "insights": {
-        "reach": 96,
+        "reach": 97,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 108
+        "views": 109
       }
     },
     {
@@ -286,13 +334,13 @@
       "permalink": "https://www.instagram.com/reel/DequZ5bik0R/",
       "timestamp": "2026-10-19T07:30:35+0000",
       "insights": {
-        "reach": 106,
+        "reach": 107,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 123
+        "views": 124
       }
     },
     {
@@ -437,54 +485,6 @@
         "saved": 1,
         "total_interactions": 2,
         "views": 110
-      }
-    },
-    {
-      "id": "17987787389881556",
-      "caption": "Mail padh ke iPhone soch liya tha 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DehaYhxiGpw/",
-      "timestamp": "2026-10-15T16:42:30+0000",
-      "insights": {
-        "reach": 96,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 1,
-        "views": 109
-      }
-    },
-    {
-      "id": "18167775976475498",
-      "caption": "India ne match 14.4 overs mein khatam kiya",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DeLQJOyPUbY/",
-      "timestamp": "2026-10-07T02:09:29+0000",
-      "insights": {
-        "reach": 2,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 2,
-        "views": 2
-      }
-    },
-    {
-      "id": "18097862816648031",
-      "caption": "chai khatam = main khatam",
-      "media_type": "CAROUSEL_ALBUM",
-      "permalink": "https://www.instagram.com/p/DeKMwu-DwkA/",
-      "timestamp": "2026-10-06T16:20:26+0000",
-      "insights": {
-        "reach": 4,
-        "likes": 2,
-        "comments": 0,
-        "shares": 7,
-        "saved": 0,
-        "total_interactions": 10,
-        "views": 9
       }
     }
   ]
