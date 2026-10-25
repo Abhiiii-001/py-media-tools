@@ -166,3 +166,16 @@
 
 ## 2026-10-24 ~16:00 IST (cloud run, trend check)
 - Nothing missing (24-26 Oct full, 27 Oct beyond 3-day cap). Trend check: 2nd T20I (NZ 180/5, India chasing 181) still in progress with no confirmed result, and today's 1300 `salary-chase` reel already covered cricket. No swap. Env note: detached HEAD again (checked out main).
+
+## 2026-10-25 ~09:00 IST (cloud run, morning fill)
+- 25-26 Oct already full. Filled Tue 27 Oct (2 days out, evergreen only):
+  - 1000 mood story: "Tuesday hai" Monday ka hangover: baaki / Friday: 3 din door / energy: 14%.
+  - 1300 reel `food-fees`: app pe biryani Rs 249 -> checkout delivery/platform/packaging/small cart fee + GST -> Hera Pheri trio shock -> "Rs 412. kal se ghar ka khana", kal bhi order kiya, baaki sab meri izzat ka. No app named. Shares: everyone has stared at food-app fees.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `google-doctor`: Drake, halka sa sir dard: doctor ko dikhana (no) vs Google pe symptoms padh ke 4 bimaari confirm karna (yes), footer "raat 2 baje tak will bhi likh di". Shares: tag the hypochondriac friend.
+  - 2100 reel `khana-khaya`: PG raat 10 baje, Mummy "khana khaya?" -> "haan mummy, dal sabzi roti" -> Monkey Puppet, asli plate teesre din ki Maggi -> Mummy "aawaz kamzor kyu hai?", 1000 km door se Maggi pakad li. Shares: every PG/hostel kid, sibling tags.
+  - 2130 question story: Mummy ko 'khana kha liya' bolke kabhi Maggi khayi hai?
+- Trend check: 2nd T20I (24 Oct) result not indexed yet; generic India trend search returned nothing dated or usable. No swap.
+- Analytics: 3 followers, reels ~100-120 views (24 Oct 2100 reel not counted yet), images 1 reach, 0 shares. Kept 2 reels + 1 image. Risk: low ("will likh di" is self-roast hypochondria, no real death/tragedy).
+- Env note: detached HEAD again (checked out main); pillow/numpy/imageio-ffmpeg force-reinstalled with --ignore-installed.
+- Script: content/scripts/batch_2026-10-25.py
