@@ -195,3 +195,6 @@
 - Analytics: 3 followers, reels ~95-110 reach (24-25 Oct 2100 reels not counted yet), images 1 reach, 0 shares. Kept 2 reels + 1 image, made the image a mascot post. Risk: low.
 - Env note: detached HEAD again (checked out main); pillow/numpy/imageio-ffmpeg force-reinstalled with --ignore-installed.
 - Script: content/scripts/batch_2026-10-26.py
+
+## 2026-10-26 ~16:00 IST (cloud run, trend check)
+- Nothing missing (26-28 Oct full, 29 Oct beyond 3-day cap). Trend check: generic India trend search returned only undated/unreliable pages; IND vs NZ 2nd T20I result still not indexed, 3rd T20I is tomorrow but start time unverifiable. Diwali (8 Nov) still too far for today/tomorrow. No swap. Env note: detached HEAD again (checked out main).
