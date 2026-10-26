@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-10-25T20:57:37",
+  "generated_at": "2026-10-26T22:45:29",
   "account": {
     "username": "thaka_hua_desi",
     "followers_count": 3,
-    "media_count": 34,
+    "media_count": 37,
     "id": "39385901121055027"
   },
   "media": [
+    {
+      "id": "18635637439034681",
+      "caption": "22 minute bola tha, 75 lage, aur late main hu 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/De9m5hgDEc8/",
+      "timestamp": "2026-10-26T15:30:35+0000",
+      "insights": {
+        "reach": 197,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 208
+      }
+    },
+    {
+      "id": "17974581030152428",
+      "caption": "Monday subah ka sabse bada decision, aur dono option galat 🙂",
+      "media_type": "IMAGE",
+      "permalink": "https://www.instagram.com/p/De9O29DlX5e/",
+      "timestamp": "2026-10-26T12:00:16+0000",
+      "insights": {
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "17910344877576197",
+      "caption": "'Weekend kaisa raha?' ka sach bata diya toh appraisal bhi jaayega 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/De8v906lMvt/",
+      "timestamp": "2026-10-26T07:30:34+0000",
+      "insights": {
+        "reach": 102,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 118
+      }
+    },
     {
       "id": "18119139607998642",
       "caption": "Office mein senior hu, sabzi mandi mein abhi bhi intern 🙂",
@@ -46,13 +94,13 @@
       "permalink": "https://www.instagram.com/reel/De6LK6oFt9T/",
       "timestamp": "2026-10-25T07:30:35+0000",
       "insights": {
-        "reach": 95,
+        "reach": 96,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 110
+        "views": 111
       }
     },
     {
@@ -437,54 +485,6 @@
         "saved": 0,
         "total_interactions": 1,
         "views": 1
-      }
-    },
-    {
-      "id": "17986680827888902",
-      "caption": "Diwali 23 din door hai aur pankha 4 baar saaf ho chuka hai",
-      "media_type": "CAROUSEL_ALBUM",
-      "permalink": "https://www.instagram.com/p/DejzkiqltBC/",
-      "timestamp": "2026-10-16T15:00:37+0000",
-      "insights": {
-        "reach": 1,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 1,
-        "views": 2
-      }
-    },
-    {
-      "id": "18135538891733175",
-      "caption": "1 minute bola tha, 1 ghanta laga, thank you bhi nahi mila 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/Deje-FvAZWK/",
-      "timestamp": "2026-10-16T12:00:56+0000",
-      "insights": {
-        "reach": 65,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 1,
-        "views": 72
-      }
-    },
-    {
-      "id": "18130342021744977",
-      "caption": "5 min bola tha. 5 min.",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DejABFyAR1C/",
-      "timestamp": "2026-10-16T07:30:24+0000",
-      "insights": {
-        "reach": 101,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 1,
-        "total_interactions": 2,
-        "views": 110
       }
     }
   ]
