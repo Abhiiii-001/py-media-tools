@@ -198,3 +198,16 @@
 
 ## 2026-10-26 ~16:00 IST (cloud run, trend check)
 - Nothing missing (26-28 Oct full, 29 Oct beyond 3-day cap). Trend check: generic India trend search returned only undated/unreliable pages; IND vs NZ 2nd T20I result still not indexed, 3rd T20I is tomorrow but start time unverifiable. Diwali (8 Nov) still too far for today/tomorrow. No swap. Env note: detached HEAD again (checked out main).
+
+## 2026-10-27 ~09:00 IST (cloud run, morning fill)
+- 27-28 Oct already full. Filled Thu 29 Oct (2 days out, evergreen only):
+  - 1000 mood story: "Thursday hai" Friday: bas kal / salary: 3 din door / energy: 31%.
+  - 1300 reel `cab-cancel`: office cab 'driver 2 min away' -> 15 min baad ab bhi 2 min away -> ride cancel, Panchayat 'Dekh raha hai na Binod' -> cancel usne kiya, cancellation fee mujhse kati, late mark bhi mujhe. No app named. Shares: commute reels are our best (maps-jhooth 208 views), office colleague tag.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `budget-clown`: Clown Applying Makeup, "Har mahine ka budget plan": paise bachaunga / Excel sheet bana di / bas ek chhota sa order / 29 tareekh: Rs 312 bache, footer "Excel mein savings, account mein clown". Posts on the 29th itself. Shares: the 'is mahine pakka bachaunga' friend. (Relabelled last line + mood story for cleaner wraps.)
+  - 2100 reel `bas-ek-episode`: raat 11 'bas ek episode' -> 1:30 AM 'next episode in 5' -> 3 AM Roll Safe 'soya hi nahi toh late kaise uthunga' -> 9:30 standup 'kal kya kiya?' 'research'. No show named. Shares: binge-watcher friend tag.
+  - 2130 question story: 'bas ek episode' bolke sabse late kitne baje soye ho?
+- Trend check: IND vs NZ 3rd T20I / generic India trends for today not verifiable in search (only old results). No swap. Backlog (15-taareekh carousel, Saturday alarm reel) doesn't fit Thursday, left there.
+- Analytics: 3 followers, reels ~100-200 views (26 Oct maps-jhooth 208, best so far), images 0-1 reach, 0 shares. Leaning into commute/office reels. Risk: low (cab joke punches at the situation, not drivers).
+- Env note: `pip` points to py3.13 while `python` is 3.11; used `python -m pip install --ignore-installed pillow numpy imageio-ffmpeg`.
+- Script: content/scripts/batch_2026-10-27.py
