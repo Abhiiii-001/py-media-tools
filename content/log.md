@@ -211,3 +211,6 @@
 - Analytics: 3 followers, reels ~100-200 views (26 Oct maps-jhooth 208, best so far), images 0-1 reach, 0 shares. Leaning into commute/office reels. Risk: low (cab joke punches at the situation, not drivers).
 - Env note: `pip` points to py3.13 while `python` is 3.11; used `python -m pip install --ignore-installed pillow numpy imageio-ffmpeg`.
 - Script: content/scripts/batch_2026-10-27.py
+
+## 2026-10-27 ~16:00 IST (cloud run, trend check)
+- Nothing missing (27-29 Oct full, 30 Oct beyond 3-day cap). Trend check: generic India trend search and IND vs NZ 3rd T20I search returned only old results (2019-2023), nothing verifiable for today. Today's 2100 `khana-khaya` reel stays. No swap. Env note: detached HEAD again (checked out main).
