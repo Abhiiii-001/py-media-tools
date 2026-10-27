@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-10-26T22:45:29",
+  "generated_at": "2026-10-27T22:23:13",
   "account": {
     "username": "thaka_hua_desi",
     "followers_count": 3,
-    "media_count": 37,
+    "media_count": 40,
     "id": "39385901121055027"
   },
   "media": [
+    {
+      "id": "18099511694451646",
+      "caption": "Jhooth bolne ka koi fayda nahi, mummy aawaz se plate dekh leti hai 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfALshFjnhu/",
+      "timestamp": "2026-10-27T15:30:35+0000",
+      "insights": {
+        "reach": 98,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 118
+      }
+    },
+    {
+      "id": "17975209383149737",
+      "caption": "Sir dard tha, Google ne poori medical file bana di 🙂",
+      "media_type": "IMAGE",
+      "permalink": "https://www.instagram.com/p/De_zp9uoFe4/",
+      "timestamp": "2026-10-27T12:00:18+0000",
+      "insights": {
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "18129696779485485",
+      "caption": "Biryani 249 ki thi, fees ne 412 bana di 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/De_UwyIFLfC/",
+      "timestamp": "2026-10-27T07:30:24+0000",
+      "insights": {
+        "reach": 143,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 167
+      }
+    },
     {
       "id": "18635637439034681",
       "caption": "22 minute bola tha, 75 lage, aur late main hu 🙂",
@@ -14,7 +62,7 @@
       "permalink": "https://www.instagram.com/reel/De9m5hgDEc8/",
       "timestamp": "2026-10-26T15:30:35+0000",
       "insights": {
-        "reach": 197,
+        "reach": 198,
         "likes": 0,
         "comments": 0,
         "shares": 0,
@@ -437,54 +485,6 @@
         "saved": 0,
         "total_interactions": 0,
         "views": 116
-      }
-    },
-    {
-      "id": "18074374199737919",
-      "caption": "Match ka score pata nahi, almari ka pata hai",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DemYT48CbqA/",
-      "timestamp": "2026-10-17T15:00:34+0000",
-      "insights": {
-        "reach": 94,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 105
-      }
-    },
-    {
-      "id": "18077263313738330",
-      "caption": "Dimaag ko bhi raat ko hi sab yaad aata hai 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DemEQ4TEX_-/",
-      "timestamp": "2026-10-17T12:05:25+0000",
-      "insights": {
-        "reach": 102,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 2,
-        "views": 105
-      }
-    },
-    {
-      "id": "17991321018027092",
-      "caption": "Plan solid tha, bas main nahi tha",
-      "media_type": "IMAGE",
-      "permalink": "https://www.instagram.com/p/Delk7nhG6i8/",
-      "timestamp": "2026-10-17T07:31:22+0000",
-      "insights": {
-        "reach": 1,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 1,
-        "views": 1
       }
     }
   ]
