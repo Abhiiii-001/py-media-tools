@@ -214,3 +214,16 @@
 
 ## 2026-10-27 ~16:00 IST (cloud run, trend check)
 - Nothing missing (27-29 Oct full, 30 Oct beyond 3-day cap). Trend check: generic India trend search and IND vs NZ 3rd T20I search returned only old results (2019-2023), nothing verifiable for today. Today's 2100 `khana-khaya` reel stays. No swap. Env note: detached HEAD again (checked out main).
+
+## 2026-10-28 ~09:00 IST (cloud run, morning fill)
+- 28-29 Oct already full. Filled Fri 30 Oct (2 days out, evergreen only):
+  - 1000 mood story: "Friday hai" weekend: 6 baje / kaam: Monday / energy: 9%.
+  - 1300 reel `pahunch-ke-call`: Mummy 'pahunch ke call karna' -> phone silent, bhool gaya, 3 ghante -> 23 missed calls, Hera Pheri 'dhak dhak' -> call back: 'pahunch gaya?' 'haan', phir 40 min lecture 'call karna' pe. Shares: the friend who never calls after reaching (parents reels do ~120-170 views).
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `bank-trade-offer`: Trade Offer, "Month end pe bank ka trade offer": i receive Rs 590 'minimum balance' charge / you receive ek SMS 'Dear Customer', footer "Balance minimum, charge maximum". No bank named. Posts on the 30th (month end). Shares: the 3-digit-balance friend.
+  - 2100 reel: gap filler from backlog, `saturday-alarm` (weekday 5 snoozes vs Saturday 6 AM wide awake). Fits Friday night. Its old teaser story stays in backlog (1330 teaser goes to the new 1300 reel).
+  - 2130 question story: Saturday ko bina alarm ke kitne baje uth jaate ho? (ties to the 2100 reel)
+- Trend check: generic India trend search returned only template/spam pages, nothing dated or verifiable. No swap.
+- Analytics: 3 followers, reels ~100-200 views (biryani-fees 167, maps-jhooth 208), images still 0-1 reach and 0 shares across the board. Kept 1 image/day per routine, but images look close to zero distribution; worth the owner checking. Risk: low.
+- Env note: `python -m pip install --ignore-installed pillow numpy imageio-ffmpeg` needed again.
+- Script: content/scripts/batch_2026-10-28.py
