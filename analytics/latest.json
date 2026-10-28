@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-10-27T22:23:13",
+  "generated_at": "2026-10-28T22:41:07",
   "account": {
     "username": "thaka_hua_desi",
     "followers_count": 3,
-    "media_count": 40,
+    "media_count": 43,
     "id": "39385901121055027"
   },
   "media": [
+    {
+      "id": "17914082358494266",
+      "caption": "Uska 5 minute aur mera 2 ghanta, ek hi ghadi mein chalte hai 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfCwfbkkTS-/",
+      "timestamp": "2026-10-28T15:30:26+0000",
+      "insights": {
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "18184555930428764",
+      "caption": "'Kaise ho?' ka ek hi jawab hai, aur wo jhooth hai 🙂",
+      "media_type": "IMAGE",
+      "permalink": "https://www.instagram.com/p/DfCYcy5IJf7/",
+      "timestamp": "2026-10-28T12:00:07+0000",
+      "insights": {
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "17939468829121457",
+      "caption": "'Sab clear hai sir' bolna aata hai, kaam kya hai wo nahi 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfB5mN8gJ9N/",
+      "timestamp": "2026-10-28T07:30:55+0000",
+      "insights": {
+        "reach": 104,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 118
+      }
+    },
     {
       "id": "18099511694451646",
       "caption": "Jhooth bolne ka koi fayda nahi, mummy aawaz se plate dekh leti hai 🙂",
@@ -14,7 +62,7 @@
       "permalink": "https://www.instagram.com/reel/DfALshFjnhu/",
       "timestamp": "2026-10-27T15:30:35+0000",
       "insights": {
-        "reach": 98,
+        "reach": 99,
         "likes": 0,
         "comments": 0,
         "shares": 0,
@@ -437,54 +485,6 @@
         "saved": 0,
         "total_interactions": 0,
         "views": 124
-      }
-    },
-    {
-      "id": "18012992984995869",
-      "caption": "Plan solid hai, bas har mahine postpone hota hai 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DepAiZ5FRBi/",
-      "timestamp": "2026-10-18T15:30:35+0000",
-      "insights": {
-        "reach": 110,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 1,
-        "views": 121
-      }
-    },
-    {
-      "id": "18149445565557509",
-      "caption": "Aaye the chai peene, gaye meri poori life audit karke 🙂",
-      "media_type": "IMAGE",
-      "permalink": "https://www.instagram.com/p/DeoogGcG-GE/",
-      "timestamp": "2026-10-18T12:00:17+0000",
-      "insights": {
-        "reach": 1,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 6
-      }
-    },
-    {
-      "id": "18137455759731181",
-      "caption": "Sunday ki chhutti 6 baje tak hi valid hai 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DeoJt82CTMX/",
-      "timestamp": "2026-10-18T07:31:26+0000",
-      "insights": {
-        "reach": 105,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 116
       }
     }
   ]
