@@ -227,3 +227,6 @@
 - Analytics: 3 followers, reels ~100-200 views (biryani-fees 167, maps-jhooth 208), images still 0-1 reach and 0 shares across the board. Kept 1 image/day per routine, but images look close to zero distribution; worth the owner checking. Risk: low.
 - Env note: `python -m pip install --ignore-installed pillow numpy imageio-ffmpeg` needed again.
 - Script: content/scripts/batch_2026-10-28.py
+
+## 2026-10-28 ~16:00 IST (cloud run, trend check)
+- Nothing missing (28-30 Oct full, 31 Oct beyond 3-day cap). Trend check: headlines today = exam paper-leak protests/minister resignation (politics, hard limit), cyclone Arnab on Andhra coast (disaster, hard limit), Jio IPO listing (only one headline, not verifiable with a date, and centres on a real businessman: skipped), IND sealed T20I series vs NZ (cricket already done twice, 4th T20I 30 Oct per single source). Today's 2100 `bas-5-min` reel stays. No swap.
