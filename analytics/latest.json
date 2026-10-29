@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-10-28T22:41:07",
+  "generated_at": "2026-10-29T22:50:56",
   "account": {
     "username": "thaka_hua_desi",
     "followers_count": 3,
-    "media_count": 43,
+    "media_count": 46,
     "id": "39385901121055027"
   },
   "media": [
+    {
+      "id": "17942116080385395",
+      "caption": "'Bas ek episode' bola tha, poora season aur neend dono gaye 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfFVSFSDJgQ/",
+      "timestamp": "2026-10-29T15:30:35+0000",
+      "insights": {
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "18128672815848222",
+      "caption": "Budget Excel mein perfect tha, account ne padha hi nahi 🙂",
+      "media_type": "IMAGE",
+      "permalink": "https://www.instagram.com/p/DfE9PmWoIg7/",
+      "timestamp": "2026-10-29T12:00:15+0000",
+      "insights": {
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "18143924224618115",
+      "caption": "'2 min away' wala 2 minute aaj tak kisi ne nahi dekha 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfEeWq3Fsfe/",
+      "timestamp": "2026-10-29T07:30:36+0000",
+      "insights": {
+        "reach": 111,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 120
+      }
+    },
     {
       "id": "17914082358494266",
       "caption": "Uska 5 minute aur mera 2 ghanta, ek hi ghadi mein chalte hai 🙂",
@@ -30,13 +78,13 @@
       "permalink": "https://www.instagram.com/p/DfCYcy5IJf7/",
       "timestamp": "2026-10-28T12:00:07+0000",
       "insights": {
-        "reach": 0,
+        "reach": 1,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 0
+        "views": 1
       }
     },
     {
@@ -78,13 +126,13 @@
       "permalink": "https://www.instagram.com/p/De_zp9uoFe4/",
       "timestamp": "2026-10-27T12:00:18+0000",
       "insights": {
-        "reach": 0,
+        "reach": 1,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 0
+        "views": 1
       }
     },
     {
@@ -126,13 +174,13 @@
       "permalink": "https://www.instagram.com/p/De9O29DlX5e/",
       "timestamp": "2026-10-26T12:00:16+0000",
       "insights": {
-        "reach": 0,
+        "reach": 1,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 0
+        "views": 1
       }
     },
     {
@@ -158,13 +206,13 @@
       "permalink": "https://www.instagram.com/reel/De7CG3xFBiJ/",
       "timestamp": "2026-10-25T15:30:35+0000",
       "insights": {
-        "reach": 0,
+        "reach": 1,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 0
+        "views": 1
       }
     },
     {
@@ -437,54 +485,6 @@
         "saved": 0,
         "total_interactions": 0,
         "views": 112
-      }
-    },
-    {
-      "id": "18110545349596185",
-      "caption": "Rule sirf bachchon ke liye tha 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DerlVh1jF99/",
-      "timestamp": "2026-10-19T15:30:27+0000",
-      "insights": {
-        "reach": 106,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 115
-      }
-    },
-    {
-      "id": "18062991788531831",
-      "caption": "Monday ne phir se haath pakad ke bitha diya 🙂",
-      "media_type": "CAROUSEL_ALBUM",
-      "permalink": "https://www.instagram.com/p/DerNWkGlazH/",
-      "timestamp": "2026-10-19T12:00:35+0000",
-      "insights": {
-        "reach": 1,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 5
-      }
-    },
-    {
-      "id": "17986988378886625",
-      "caption": "13 ghante gate pe baitha, phir bhi 'customer not available' 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DequZ5bik0R/",
-      "timestamp": "2026-10-19T07:30:35+0000",
-      "insights": {
-        "reach": 107,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 124
       }
     }
   ]
