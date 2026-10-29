@@ -230,3 +230,16 @@
 
 ## 2026-10-28 ~16:00 IST (cloud run, trend check)
 - Nothing missing (28-30 Oct full, 31 Oct beyond 3-day cap). Trend check: headlines today = exam paper-leak protests/minister resignation (politics, hard limit), cyclone Arnab on Andhra coast (disaster, hard limit), Jio IPO listing (only one headline, not verifiable with a date, and centres on a real businessman: skipped), IND sealed T20I series vs NZ (cricket already done twice, 4th T20I 30 Oct per single source). Today's 2100 `bas-5-min` reel stays. No swap.
+
+## 2026-10-29 ~09:00 IST (cloud run, morning fill)
+- 29-30 Oct already full. Filled Sat 31 Oct (2 days out, evergreen only):
+  - 1000 mood story: "Saturday hai" alarm: band / plan: kuch nahi / energy: 40%.
+  - 1300 reel `udhaar-dost`: 6 mahine se gayab dost 'bhai kaisa hai, bahut yaad aayi' -> main: shayad mera Rs 2000 lautayega -> Phir Hera Pheri 'Paisa laya?' -> 'bhai 3000 de de', purane 2000 ka zikr bhi nahi. First use of paisa-laya. Shares: everyone has an udhaar friend to tag.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `alternate-saturday`: Two Guys on a Bus (first use), "Saturday subah 9 baje": main alternate Saturday working (rock side) / dost 'bhai brunch chalein?' (sunny side). Shares: colleague tag.
+  - 2100 reel `saturday-raat`: dost 'aaj bahar chalte hai' -> Buff Doge vs Cheems 18 vs 26 -> 9:30 khichdi, lights band, 'bas 5 min' -> 2:47 AM still awake, bas bina mazze ke. Shares: the 'thak gaya hu bhai' friend.
+  - 2130 question story: Saturday raat: bahar party ya ghar pe khichdi + reels? (ties to 2100 reel)
+- Trend check: search returned only undated/template pages, nothing verifiable for today. Today's 2100 `bas-ek-episode` stays. No swap. Backlog untouched.
+- Analytics (28 Oct night): 3 followers, 1300 reels steady ~110-210 views, but several 2100 reels show 0 reach (24, 25, 28 Oct) and images still 0-1 reach. 28 Oct 2100 may just be too fresh; 24/25 Oct zeros worth the owner checking (publish/insights issue vs real). Risk: low.
+- Env note: detached HEAD again; `python -m pip install --ignore-installed pillow numpy imageio-ffmpeg` needed again.
+- Script: content/scripts/batch_2026-10-29.py
