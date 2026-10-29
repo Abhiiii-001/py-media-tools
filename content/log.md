@@ -243,3 +243,6 @@
 - Analytics (28 Oct night): 3 followers, 1300 reels steady ~110-210 views, but several 2100 reels show 0 reach (24, 25, 28 Oct) and images still 0-1 reach. 28 Oct 2100 may just be too fresh; 24/25 Oct zeros worth the owner checking (publish/insights issue vs real). Risk: low.
 - Env note: detached HEAD again; `python -m pip install --ignore-installed pillow numpy imageio-ffmpeg` needed again.
 - Script: content/scripts/batch_2026-10-29.py
+
+## 2026-10-29 ~16:00 IST (cloud run, trend check)
+- Nothing missing (29-31 Oct full, 1 Nov beyond 3-day cap). Trend check: generic India trend search gave only undated/spam pages. Verified IND vs NZ 4th T20I is Fri 30 Oct, Eden Park, 12:30 PM IST (Wisden/ESPN fixtures). Office-hours-match angle already used (22 Oct `match-office` reel), series already sealed, so it's not worth swapping out tomorrow's evergreen `pahunch-ke-call` reel. Today's 2100 `bas-ek-episode` stays. No swap, backlog untouched.
