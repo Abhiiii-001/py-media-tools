@@ -246,3 +246,15 @@
 
 ## 2026-10-29 ~16:00 IST (cloud run, trend check)
 - Nothing missing (29-31 Oct full, 1 Nov beyond 3-day cap). Trend check: generic India trend search gave only undated/spam pages. Verified IND vs NZ 4th T20I is Fri 30 Oct, Eden Park, 12:30 PM IST (Wisden/ESPN fixtures). Office-hours-match angle already used (22 Oct `match-office` reel), series already sealed, so it's not worth swapping out tomorrow's evergreen `pahunch-ke-call` reel. Today's 2100 `bas-ek-episode` stays. No swap, backlog untouched.
+
+## 2026-10-30 ~09:00 IST (cloud run, morning fill)
+- 30-31 Oct already full. Filled Sun 1 Nov (2 days out, evergreen only; also 1st of the month):
+  - 1000 mood story: "1 tareekh + Sunday" naya mahina: shuru / naya main: kal se / energy: 30%.
+  - 1300 reel `naya-mahina`: "Naya mahina, naya main" -> plan (6 baje uthna, gym, budget, ghar ka khana) -> Raju confident pose (first use of raju-waiting-pose) -> "Aaj toh Sunday hai. Naya main kal se. Waise 10 mahine se 'kal se' hi hai". Shares: the 'is baar serious hu' friend.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `sunday-presentation`: They Don't Know (first use), "Sunday shaam family ke saath hasta hua main. Inhe nahi pata kal 10 baje wali presentation ki ek slide bhi nahi bani", footer "Chehra Sunday, dimaag Monday". Label zone overlapped the figure's head, so the joke moved into the caption band. Shares: colleague tag.
+  - 2100 reel `pakka-plan`: group chat 'is Sunday pakka milte hai' -> 'thoda late / shayad nahi / seen' -> Hera Pheri 'ab tak toh aa jaana chahiye tha' -> 'next Sunday pakka', group name 'Goa Plan 2019'. Shares: built to be dropped into friend groups.
+  - 2130 question story: tumhare group ka 'pakka plan' last kab sach mein hua tha? (ties to 2100 reel)
+- Trend check: search returned only undated/spam pages and January IND vs NZ results, nothing verifiable for today. Today's 2100 `saturday-alarm` stays. No swap, backlog untouched.
+- Analytics (29 Oct night): still 3 followers. 1300 reels steady ~110-210 views, 2100 reels keep showing 0 reach (24, 25, 28, 29 Oct), images 0-1 reach, 0 shares on everything. The 2100 zeros look systematic, not random: owner should check whether evening reels actually go live/distribute (or move the second reel earlier, e.g. 1800). Risk: low.
+- Script: content/scripts/batch_2026-10-30.py
