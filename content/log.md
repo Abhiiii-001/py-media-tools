@@ -274,3 +274,6 @@
 - Analytics (30 Oct night): still 3 followers, 0 shares on everything. 1300 reels ~100-140 views; 30 Oct 2100 reel got 118 views, so the 2100 zero-reach pattern broke once. Images still 0 reach. Risk: low.
 - Env note: `python -m pip install --ignore-installed pillow numpy imageio-ffmpeg` needed again.
 - Script: content/scripts/batch_2026-10-31.py
+
+## 2026-10-31 ~16:00 IST (cloud run, trend check)
+- Nothing missing (31 Oct-2 Nov full, 3 Nov beyond 3-day cap). Trend check: generic India search gave only undated/spam pages. Verified IND vs NZ 5th T20I is Sun 1 Nov, Seddon Park, 12:30 PM IST (Wisden/ESPN fixtures), but the series is already sealed and cricket angles were used twice, so it's not worth swapping tomorrow's evergreen `naya-mahina` reel (1st of month fits better). Halloween skipped (weak desi fit). Today's 2100 `saturday-raat` stays. No swap, backlog untouched.
