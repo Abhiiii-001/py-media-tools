@@ -261,3 +261,16 @@
 
 ## 2026-10-30 ~16:00 IST (cloud run, trend check)
 - Nothing missing (30 Oct-1 Nov full, 2 Nov beyond 3-day cap). Trend check (Trends24/twitter-trending, 29 Oct snapshots): Karwa Chauth (festival whose jokes centre on the fast/ritual side: skipped), Jio IPO listing / Ambani family (real people: skipped), Bigg Boss 20 contestants (real people: skipped), plus political hashtags. IND vs NZ 4th T20I today already ruled out yesterday. Today's 2100 `saturday-alarm` stays. No swap, backlog untouched.
+
+## 2026-10-31 ~09:00 IST (cloud run, morning fill)
+- 31 Oct-1 Nov already full. Filled Mon 2 Nov (2 days out, evergreen only):
+  - 1000 mood story: "Monday + 2 tareekh" salary: aa gayi / motivation: nahi aayi / energy: 15%.
+  - 1300 reel `friday-kya-kiya`: Monday standup, manager 'Friday kya kiya tha?' -> dimaag: sirf 5:59 pe laptop band kiya yaad hai -> Monkey Puppet (first use) -> "'Sir, pending items pe tha'. Kaunse items? Wo bhi pending hai". Shares: colleague tag on a Monday.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `ek-minute-kaam`: Epic Handshake (first use), Mummy x Manager agreeing on "'Bas ek minute ka kaam hai'", footer "Ek minute = 2 ghante". Shares: mom + office crossover, very taggable.
+  - 2100 reel `ghar-ka-it-support`: Papa 'office mein karte kya ho?' -> 'cloud migration, stakeholder alignment' -> Hera Pheri trio shock -> "Papa: 'accha, toh printer theek kar do'. 3 saal se ghar ka IT support bhi main hu". Shares: every desi techie's family story.
+  - 2130 question story: ghar walo ko tumhari job kya lagti hai? (ties to 2100 reel)
+- Trend check: search returned only undated/spam pages, nothing verifiable for today. Today's 2100 `saturday-raat` stays. No swap, backlog untouched.
+- Analytics (30 Oct night): still 3 followers, 0 shares on everything. 1300 reels ~100-140 views; 30 Oct 2100 reel got 118 views, so the 2100 zero-reach pattern broke once. Images still 0 reach. Risk: low.
+- Env note: `python -m pip install --ignore-installed pillow numpy imageio-ffmpeg` needed again.
+- Script: content/scripts/batch_2026-10-31.py
