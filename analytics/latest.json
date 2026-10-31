@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-10-30T22:28:18",
+  "generated_at": "2026-10-31T21:42:37",
   "account": {
     "username": "thaka_hua_desi",
     "followers_count": 3,
-    "media_count": 49,
+    "media_count": 52,
     "id": "39385901121055027"
   },
   "media": [
+    {
+      "id": "18159577444445016",
+      "caption": "Party ke liye thaka hua, reels ke liye full energy 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfKe34PjHvv/",
+      "timestamp": "2026-10-31T15:30:35+0000",
+      "insights": {
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "17909142861570507",
+      "caption": "Ek hi bus, bas meri window pe pahaad hai 🙂",
+      "media_type": "IMAGE",
+      "permalink": "https://www.instagram.com/p/DfKG1Y7kbEZ/",
+      "timestamp": "2026-10-31T12:00:16+0000",
+      "insights": {
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "18141504610626923",
+      "caption": "Yaad bhi tab aati hai jab wallet khaali hota hai 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfJoDr7Ahgw/",
+      "timestamp": "2026-10-31T07:31:39+0000",
+      "insights": {
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 0
+      }
+    },
     {
       "id": "17990744592087160",
       "caption": "Weekday pe 5 alarm kam padte hai, Saturday ko 6 baje khud uth jaata hu 🙂",
@@ -14,13 +62,13 @@
       "permalink": "https://www.instagram.com/reel/DfH6FTqgLRR/",
       "timestamp": "2026-10-30T15:30:36+0000",
       "insights": {
-        "reach": 116,
+        "reach": 118,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 118
+        "views": 120
       }
     },
     {
@@ -437,54 +485,6 @@
         "saved": 0,
         "total_interactions": 0,
         "views": 116
-      }
-    },
-    {
-      "id": "18342298516287515",
-      "caption": "Company ka saal accha gaya, mera nahi 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/Dewu7E7kT30/",
-      "timestamp": "2026-10-21T15:30:24+0000",
-      "insights": {
-        "reach": 106,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 121
-      }
-    },
-    {
-      "id": "18244685302315079",
-      "caption": "'Bas 1 ghanta' bola tha, Saturday hi chala gaya 🙂",
-      "media_type": "IMAGE",
-      "permalink": "https://www.instagram.com/p/DewW4lslQBn/",
-      "timestamp": "2026-10-21T12:00:06+0000",
-      "insights": {
-        "reach": 1,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 1
-      }
-    },
-    {
-      "id": "18210552427371660",
-      "caption": "Sale 70% off thi, main 100% broke tha 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/Dev3_q3jYhK/",
-      "timestamp": "2026-10-21T07:30:25+0000",
-      "insights": {
-        "reach": 66,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 76
       }
     }
   ]
