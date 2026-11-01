@@ -277,3 +277,16 @@
 
 ## 2026-10-31 ~16:00 IST (cloud run, trend check)
 - Nothing missing (31 Oct-2 Nov full, 3 Nov beyond 3-day cap). Trend check: generic India search gave only undated/spam pages. Verified IND vs NZ 5th T20I is Sun 1 Nov, Seddon Park, 12:30 PM IST (Wisden/ESPN fixtures), but the series is already sealed and cricket angles were used twice, so it's not worth swapping tomorrow's evergreen `naya-mahina` reel (1st of month fits better). Halloween skipped (weak desi fit). Today's 2100 `saturday-raat` stays. No swap, backlog untouched.
+
+## 2026-11-01 ~09:00 IST (cloud run, morning fill)
+- 1-2 Nov already full. Filled Tue 3 Nov (2 days out, evergreen only):
+  - 1000 mood story: "Tuesday hai" Monday ka excuse: khatam / Friday: abhi bahut door / energy: 20%.
+  - 1300 reel `6-baje-nikalna`: 5:55 'aaj 6 baje pakka nikal raha hu' -> plan 5:57/5:58/5:59 -> Phir Hera Pheri trio running (first use) -> lift mein manager: 'perfect timing, quick call walk karte hue', ghar 9:40. Shares: colleague tag.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `naya-course`: Distracted Boyfriend (first use), "Mera har mahine ka self improvement": main eyeing naya course 'AI seekho 30 din mein' over pichhle 7 courses (12% done), footer "Cart full, completion 0%". No platform named. Shares: the 10-adhure-courses friend.
+  - 2100 reel `shaadi-mein-fasa`: relative ki shaadi 'bas 10 min' -> aunty: package kitna / itna hi / Sharma ji ka beta -> Welcome Dr Ghunghroo sofa (first use) -> "'Aur shaadi kab kar rahe ho?'" khana laga nahi, 10 min = 2 ghante. Wedding season (Nov) but no festival/religious angle. Shares: relatives pain, tag the unmarried friend.
+  - 2130 question story: shaadi mein relatives ka sabse irritating sawaal? (ties to 2100 reel)
+- Trend check: search returned only undated/spam pages, nothing verifiable for today. Today's 2100 `pakka-plan` stays. No swap, backlog untouched.
+- Analytics (31 Oct night): still 3 followers, 0 shares on everything. All three 31 Oct posts show 0 reach, including the 1300 reel (1300 reels had been steady ~100-170). Could be insights lag, but if 1 Nov's snapshot shows it again the owner should check the account (possible distribution drop). Risk: low.
+- Env note: detached HEAD again; `python -m pip install --ignore-installed pillow numpy imageio-ffmpeg` needed again.
+- Script: content/scripts/batch_2026-11-01.py
