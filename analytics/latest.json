@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-10-31T21:42:37",
+  "generated_at": "2026-11-01T22:10:06",
   "account": {
     "username": "thaka_hua_desi",
     "followers_count": 3,
-    "media_count": 52,
+    "media_count": 55,
     "id": "39385901121055027"
   },
   "media": [
+    {
+      "id": "18202557322377337",
+      "caption": "Har Sunday ka plan pakka hota hai, bas hum log nahi 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfNDq4zjzjM/",
+      "timestamp": "2026-11-01T15:30:36+0000",
+      "insights": {
+        "reach": 106,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 108
+      }
+    },
+    {
+      "id": "18182047465430711",
+      "caption": "Bahar se Sunday, andar se Monday 9:59 AM 🙂",
+      "media_type": "IMAGE",
+      "permalink": "https://www.instagram.com/p/DfMroQxmzaQ/",
+      "timestamp": "2026-11-01T12:00:07+0000",
+      "insights": {
+        "reach": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 1
+      }
+    },
+    {
+      "id": "17865277788696280",
+      "caption": "Naya mahina har baar aata hai, naya main abhi tak nahi aaya 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfMMx_ZoCzA/",
+      "timestamp": "2026-11-01T07:30:54+0000",
+      "insights": {
+        "reach": 116,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1,
+        "views": 145
+      }
+    },
     {
       "id": "18159577444445016",
       "caption": "Party ke liye thaka hua, reels ke liye full energy 🙂",
@@ -30,13 +78,13 @@
       "permalink": "https://www.instagram.com/p/DfKG1Y7kbEZ/",
       "timestamp": "2026-10-31T12:00:16+0000",
       "insights": {
-        "reach": 0,
+        "reach": 1,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 0
+        "views": 1
       }
     },
     {
@@ -78,13 +126,13 @@
       "permalink": "https://www.instagram.com/p/DfHiCjZEU7c/",
       "timestamp": "2026-10-30T12:00:08+0000",
       "insights": {
-        "reach": 0,
+        "reach": 1,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 0
+        "views": 2
       }
     },
     {
@@ -437,54 +485,6 @@
         "saved": 0,
         "total_interactions": 1,
         "views": 122
-      }
-    },
-    {
-      "id": "17964902370206577",
-      "caption": "Salary aayi, salary gayi, beech mein sirf ek SMS 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DezTt7GjiEO/",
-      "timestamp": "2026-10-22T15:30:24+0000",
-      "insights": {
-        "reach": 109,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 120
-      }
-    },
-    {
-      "id": "17903711658602897",
-      "caption": "Charger maanga tha, maine poori career replay kar li 🙂",
-      "media_type": "IMAGE",
-      "permalink": "https://www.instagram.com/p/Dey7rigFGHy/",
-      "timestamp": "2026-10-22T12:00:06+0000",
-      "insights": {
-        "reach": 2,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 2
-      }
-    },
-    {
-      "id": "17886816489501663",
-      "caption": "Excel bhi khula tha, score bhi, bas kaam nahi hua 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/Deyczl_ja6j/",
-      "timestamp": "2026-10-22T07:30:44+0000",
-      "insights": {
-        "reach": 104,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 116
       }
     }
   ]
