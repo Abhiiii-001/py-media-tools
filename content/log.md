@@ -290,3 +290,8 @@
 - Analytics (31 Oct night): still 3 followers, 0 shares on everything. All three 31 Oct posts show 0 reach, including the 1300 reel (1300 reels had been steady ~100-170). Could be insights lag, but if 1 Nov's snapshot shows it again the owner should check the account (possible distribution drop). Risk: low.
 - Env note: detached HEAD again; `python -m pip install --ignore-installed pillow numpy imageio-ffmpeg` needed again.
 - Script: content/scripts/batch_2026-11-01.py
+
+## 2026-11-01 ~16:00 IST (cloud run, trend check)
+- Nothing missing (1-3 Nov full, 4 Nov beyond 3-day cap). Trend check: generic India search gave only calendar/undated pages; the IND vs NZ 5th T20I result couldn't be verified (only older series came up), so no cricket swap. Ahoi Ashtami today is religious, so skipped. Today's 2100 `pakka-plan` stays. No swap, backlog untouched.
+- Heads-up for the next fills: search results say Diwali is Sun 8 Nov 2026 (re-check before using). Diwali gift/safai/bonus jokes already ran 15-17 Oct, so use fresh angles only (sale cart, last-day leave, relatives' visits, post-Diwali Monday) in the 6-8 Nov slots.
+- Analytics: latest.json is still the 31 Oct snapshot (no newer nightly refresh). Still 3 followers and 0 reach on all of 31 Oct's posts, so the possible distribution drop is unconfirmed but still worth the owner checking.
