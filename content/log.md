@@ -295,3 +295,16 @@
 - Nothing missing (1-3 Nov full, 4 Nov beyond 3-day cap). Trend check: generic India search gave only calendar/undated pages; the IND vs NZ 5th T20I result couldn't be verified (only older series came up), so no cricket swap. Ahoi Ashtami today is religious, so skipped. Today's 2100 `pakka-plan` stays. No swap, backlog untouched.
 - Heads-up for the next fills: search results say Diwali is Sun 8 Nov 2026 (re-check before using). Diwali gift/safai/bonus jokes already ran 15-17 Oct, so use fresh angles only (sale cart, last-day leave, relatives' visits, post-Diwali Monday) in the 6-8 Nov slots.
 - Analytics: latest.json is still the 31 Oct snapshot (no newer nightly refresh). Still 3 followers and 0 reach on all of 31 Oct's posts, so the possible distribution drop is unconfirmed but still worth the owner checking.
+
+## 2026-11-02 ~09:00 IST (cloud run, morning fill)
+- 2-3 Nov already full. Filled Wed 4 Nov (2 days out, evergreen; Diwali-week leave is a fixed-date office angle, not a trend):
+  - 1000 mood story: "Wednesday hai" Diwali chutti: pending / kaam: double / energy: 25%.
+  - 1300 reel `diwali-leave`: 'Sir, 6 se 9 chutti chahiye' -> manager 'saari team ek saath chutti pe? deadline?' -> Panchayat Bhushan (first use) as manager ka dimaag -> "Chutti approve ho gayi. 'Bas laptop ghar le jaana, emergency ke liye.' Emergency roz 11 baje". Office/leave only, no religious side. Shares: every colleague waiting on Diwali leave approval this week.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `busy-dikhna`: Expanding Brain (first use), "Office mein busy dikhne ke tareeke": kaam karo -> Excel khula rakho -> mouse hilate raho, green dot on -> 'offline lete hai' bolo, footer "Promotion bhi offline hi hai". Shares: colleague tag.
+  - 2100 reel `papa-forward`: Papa ka 7 AM family group forward ('3 glass garam paani, 100 saal, doctor bhi shocked') -> 'Papa ye fake hai' -> Abba nahi manenge (first use) -> "'Tumse zyada padha hua hu'. Forward 4 aur groups mein gaya, ab mujhe bhi 3 glass paani". Harmless made-up health forward, no politics/religion. Shares: siblings sharing family-group pain.
+  - 2130 question story: family group ka sabse best forward? (ties to 2100 reel)
+- Trend check: generic India search gave only undated/spam pages, nothing verifiable. Diwali re-verified as Sun 8 Nov 2026 (multiple panchang sources). Today's 2100 `ghar-ka-it-support` stays. No swap, backlog untouched.
+- Analytics (1 Nov night): still 3 followers, 0 shares on everything. 1 Nov reels recovered (1300: 145 views, 2100: 108 views) so the 31 Oct zero looks like a one-off. Images stay at ~1 reach every day: the 1730 image slot is basically dead; owner may want to swap it for a third reel or carousel. Risk: low.
+- Env note: detached HEAD again; pillow/numpy/imageio-ffmpeg reinstall needed again.
+- Script: content/scripts/batch_2026-11-02.py
