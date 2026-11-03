@@ -311,3 +311,16 @@
 
 ## 2026-11-02 ~16:00 IST (cloud run, trend check)
 - Nothing missing (2-4 Nov full, 5 Nov beyond 3-day cap). Trend check: generic India search gave only undated/spam pages; one source lists an IND vs NZ ODI on Wed 4 Nov (Eden Park) but it's single-sourced and unverified, and Wed 4 Nov's slots already hold the Diwali-leave/office set, so no cricket swap. Today's 2100 `ghar-ka-it-support` stays. No swap, backlog untouched.
+
+## 2026-11-03 ~09:00 IST (cloud run, morning fill)
+- 3-4 Nov already full. Filled Thu 5 Nov (2 days out, evergreen only):
+  - 1000 mood story: "Thursday hai" Friday: kal / kaam: aaj hi chahiye / energy: 30%.
+  - 1300 reel `raat-ka-message`: Boss 10:47 PM 'are you there?' -> reply/nahi/seen dilemma -> Hera Pheri Babu Bhaiya 'Bilkul risk ne lene ka' (first use) -> "'Sorry sir, so gaya tha'. Sach: raat bhar phone ghoorta raha". Shares: colleague tag, every desi with a late-night-texting boss.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `salary-pigeon`: Is This A Pigeon (first use), "Har mahine 5 tareekh ko": Main / Salary ka SMS / "Kya ye savings hai?", footer "Nahi beta, ye EMI ka hai". Shares: salary/EMI pain, tag the 'is baar bachaunga' friend.
+  - 2100 reel `5-saal-baad`: Interview 'where do you see yourself in 5 years?' -> 'leadership role, growth hi growth' -> Hide the Pain Harold as 5 saal baad -> "Same company, same chair. Title mein 'Senior' lag gaya, salary ne interview suna hi nahi". Shares: colleague tag.
+  - 2130 question story: interview mein sabse bada jhooth kya bola tha?
+- Trend check: generic India search gave only undated/spam pages, nothing verifiable. Today's 2100 `shaadi-mein-fasa` stays. No swap, backlog untouched.
+- Analytics (2 Nov night): still 3 followers, 0 shares on everything. Reels steady ~110-130 views, 1730 images still reach 1. Kept the image slot per ROUTINE.md, but the owner should decide on replacing it with a third reel. Risk: low.
+- Env note: detached HEAD again; background pip install hung, a foreground reinstall of pillow/numpy/imageio-ffmpeg worked.
+- Script: content/scripts/batch_2026-11-03.py
