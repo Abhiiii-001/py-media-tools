@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-11-03T01:04:52",
+  "generated_at": "2026-11-03T23:29:35",
   "account": {
     "username": "thaka_hua_desi",
     "followers_count": 3,
-    "media_count": 58,
+    "media_count": 61,
     "id": "39385901121055027"
   },
   "media": [
+    {
+      "id": "18469228510191932",
+      "caption": "Shaadi mein khana baad mein milta hai, sawaal pehle 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfSNR3vE9HI/",
+      "timestamp": "2026-11-03T15:30:48+0000",
+      "insights": {
+        "reach": 104,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 111
+      }
+    },
+    {
+      "id": "18123083701982821",
+      "caption": "Course kharidna hi sabse bada achievement hai, khatam karna optional 🙂",
+      "media_type": "IMAGE",
+      "permalink": "https://www.instagram.com/p/DfR1OBulbpY/",
+      "timestamp": "2026-11-03T12:00:17+0000",
+      "insights": {
+        "reach": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 1
+      }
+    },
+    {
+      "id": "18111585512245229",
+      "caption": "6 baje nikalne ka plan har roz banta hai, har roz lift mein marta hai 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfRWU9WjJg5/",
+      "timestamp": "2026-11-03T07:30:25+0000",
+      "insights": {
+        "reach": 116,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 134
+      }
+    },
     {
       "id": "18131063002894937",
       "caption": "Office mein 'senior engineer', ghar pe printer wala bhaiya 🙂",
@@ -14,13 +62,13 @@
       "permalink": "https://www.instagram.com/reel/DfPod0lifV9/",
       "timestamp": "2026-11-02T15:30:36+0000",
       "insights": {
-        "reach": 106,
+        "reach": 107,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 113
+        "views": 114
       }
     },
     {
@@ -437,54 +485,6 @@
         "saved": 0,
         "total_interactions": 0,
         "views": 111
-      }
-    },
-    {
-      "id": "18131547127762345",
-      "caption": "Dosti free hai, bas chai ka hisaab 50 paise tak hota hai 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/De4dT84gJoP/",
-      "timestamp": "2026-10-24T15:30:25+0000",
-      "insights": {
-        "reach": 1,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 1
-      }
-    },
-    {
-      "id": "18099605396558035",
-      "caption": "Weekend ka plan har hafte solid hota hai, bas '5 min reels' kabhi khatam nahi hote 🙂",
-      "media_type": "IMAGE",
-      "permalink": "https://www.instagram.com/p/De4FRX8mtft/",
-      "timestamp": "2026-10-24T12:00:18+0000",
-      "insights": {
-        "reach": 1,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 1
-      }
-    },
-    {
-      "id": "18000204908868263",
-      "caption": "India ne 226 chase kar liya, main mahine ke last 7 din chase nahi kar paata 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/De3mfn8CHR9/",
-      "timestamp": "2026-10-24T07:31:35+0000",
-      "insights": {
-        "reach": 97,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 109
       }
     }
   ]
