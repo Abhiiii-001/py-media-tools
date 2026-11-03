@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-01T22:10:06",
+  "generated_at": "2026-11-03T01:04:52",
   "account": {
     "username": "thaka_hua_desi",
     "followers_count": 3,
-    "media_count": 55,
+    "media_count": 58,
     "id": "39385901121055027"
   },
   "media": [
     {
-      "id": "18202557322377337",
-      "caption": "Har Sunday ka plan pakka hota hai, bas hum log nahi 🙂",
+      "id": "18131063002894937",
+      "caption": "Office mein 'senior engineer', ghar pe printer wala bhaiya 🙂",
       "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DfNDq4zjzjM/",
-      "timestamp": "2026-11-01T15:30:36+0000",
+      "permalink": "https://www.instagram.com/reel/DfPod0lifV9/",
+      "timestamp": "2026-11-02T15:30:36+0000",
       "insights": {
         "reach": 106,
         "likes": 0,
@@ -20,7 +20,55 @@
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 108
+        "views": 113
+      }
+    },
+    {
+      "id": "17892994581455837",
+      "caption": "Mummy ka 'ek minute' aur manager ka 'quick call', dono ka timer same factory se aata hai 🙂",
+      "media_type": "IMAGE",
+      "permalink": "https://www.instagram.com/p/DfPQbRMm1YF/",
+      "timestamp": "2026-11-02T12:00:18+0000",
+      "insights": {
+        "reach": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 1
+      }
+    },
+    {
+      "id": "18107025266267076",
+      "caption": "Monday standup mein Friday yaad karna sabse bada task hai 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfOxiHjEdUU/",
+      "timestamp": "2026-11-02T07:30:26+0000",
+      "insights": {
+        "reach": 122,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 127
+      }
+    },
+    {
+      "id": "18202557322377337",
+      "caption": "Har Sunday ka plan pakka hota hai, bas hum log nahi 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfNDq4zjzjM/",
+      "timestamp": "2026-11-01T15:30:36+0000",
+      "insights": {
+        "reach": 108,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 109
       }
     },
     {
@@ -46,13 +94,13 @@
       "permalink": "https://www.instagram.com/reel/DfMMx_ZoCzA/",
       "timestamp": "2026-11-01T07:30:54+0000",
       "insights": {
-        "reach": 116,
-        "likes": 1,
+        "reach": 117,
+        "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0,
-        "total_interactions": 1,
-        "views": 145
+        "total_interactions": 2,
+        "views": 147
       }
     },
     {
@@ -62,13 +110,13 @@
       "permalink": "https://www.instagram.com/reel/DfKe34PjHvv/",
       "timestamp": "2026-10-31T15:30:35+0000",
       "insights": {
-        "reach": 0,
+        "reach": 1,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 0
+        "views": 2
       }
     },
     {
@@ -94,13 +142,13 @@
       "permalink": "https://www.instagram.com/reel/DfJoDr7Ahgw/",
       "timestamp": "2026-10-31T07:31:39+0000",
       "insights": {
-        "reach": 0,
+        "reach": 1,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 0
+        "views": 1
       }
     },
     {
@@ -110,13 +158,13 @@
       "permalink": "https://www.instagram.com/reel/DfH6FTqgLRR/",
       "timestamp": "2026-10-30T15:30:36+0000",
       "insights": {
-        "reach": 118,
+        "reach": 119,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 120
+        "views": 121
       }
     },
     {
@@ -142,13 +190,13 @@
       "permalink": "https://www.instagram.com/reel/DfHDOIXjVir/",
       "timestamp": "2026-10-30T07:31:07+0000",
       "insights": {
-        "reach": 102,
+        "reach": 103,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 1,
-        "views": 124
+        "views": 125
       }
     },
     {
@@ -190,13 +238,13 @@
       "permalink": "https://www.instagram.com/reel/DfEeWq3Fsfe/",
       "timestamp": "2026-10-29T07:30:36+0000",
       "insights": {
-        "reach": 112,
+        "reach": 113,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 120
+        "views": 121
       }
     },
     {
@@ -302,13 +350,13 @@
       "permalink": "https://www.instagram.com/reel/De9m5hgDEc8/",
       "timestamp": "2026-10-26T15:30:35+0000",
       "insights": {
-        "reach": 198,
+        "reach": 199,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 208
+        "views": 209
       }
     },
     {
@@ -398,13 +446,13 @@
       "permalink": "https://www.instagram.com/reel/De4dT84gJoP/",
       "timestamp": "2026-10-24T15:30:25+0000",
       "insights": {
-        "reach": 0,
+        "reach": 1,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 0
+        "views": 1
       }
     },
     {
@@ -437,54 +485,6 @@
         "saved": 0,
         "total_interactions": 0,
         "views": 109
-      }
-    },
-    {
-      "id": "18099474509388834",
-      "caption": "Ghar mein har cheez ka price 75% off pe hi batana padta hai 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/De14hBrjvdW/",
-      "timestamp": "2026-10-23T15:30:36+0000",
-      "insights": {
-        "reach": 106,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 1,
-        "views": 122
-      }
-    },
-    {
-      "id": "18116383865010276",
-      "caption": "Papa 25 mein ghar chala rahe the, main 25 mein khud ko bhi nahi chala pa raha 🙂",
-      "media_type": "IMAGE",
-      "permalink": "https://www.instagram.com/p/De1geYoERez/",
-      "timestamp": "2026-10-23T12:00:07+0000",
-      "insights": {
-        "reach": 1,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 1
-      }
-    },
-    {
-      "id": "18139883182620691",
-      "caption": "Doctor ne stress kam karne bola, fees dekh ke aur badh gaya 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/De1Blg5EfEj/",
-      "timestamp": "2026-10-23T07:30:36+0000",
-      "insights": {
-        "reach": 107,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 1,
-        "views": 122
       }
     }
   ]
