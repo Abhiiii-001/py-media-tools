@@ -327,3 +327,16 @@
 
 ## 2026-11-03 ~16:00 IST (cloud run, trend check)
 - Nothing missing (3-5 Nov full, 6 Nov beyond 3-day cap). Trend check: generic India search gave only undated/spam pages. Verified IND vs NZ 1st ODI is Wed 4 Nov, Eden Park, ~7:30 AM IST (Outlook/Khel Now/ESPN agree). Not swapped: the match ends ~3:30 PM IST with an unknown result, so tomorrow's 2100 `papa-forward` would need a result-based joke we can't write yet; the 1300 slot is the fixed-date `diwali-leave` reel; cricket angles already used twice. Possible angle for a later ODI (7/10 Nov, morning IST start): "office meeting mein chupke se score check". Today's 2100 `shaadi-mein-fasa` stays. No swap, backlog untouched.
+
+## 2026-11-04 ~09:00 IST (cloud run, morning fill)
+- 4-5 Nov already full. Filled Fri 6 Nov (2 days out, evergreen; Diwali-week travel/leave are fixed-date angles, no religious side):
+  - 1000 mood story: "Friday hai" weekend: aa raha / kaam: abhi bhi pending / energy: 40%.
+  - 1300 reel `tatkal-ticket`: 10:00:00 AM tatkal khula, ghar jaana hai -> captcha galat/OTP late/payment loading -> Phir Hera Pheri Raju laughing (first use) as 'wo dost jisne 2 mahine pehle book kiya' -> "Status: WL 247. Bus wala 3 guna fare, is baar ghar sirf video call pe". AC tatkal 10 AM checked (multiple guides, not official IRCTC). Shares: everyone travelling home this week, tag the planner friend.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `aadhi-team-chutti`: Squidward Window (first use), "Diwali wala Friday: aadhi team gayab", footer "Mera leave request: abhi bhi 'pending'". Shares: colleague tag, the one already on leave.
+  - 2100 reel `monday-quick-call`: Friday 5:58 PM manager 'Monday quick call, kuch discuss karna hai' -> weekend overthinking (galti? appraisal? layoff?) -> This Is Fine (as Sunday raat 2 baje) -> "Monday 10 baje: 'team lunch Wednesday ko rakh le?'". Shares: universal office anxiety, colleague tag.
+  - 2130 question story: manager ka sabse darawna message kya hai? (ties to 2100 reel)
+- Trend check: generic India search gave only undated/spam pages. IND vs NZ 1st ODI is on now (result after ~3:30 PM IST), left for the 4 PM run to judge a swap of today's 2100 `papa-forward`. No swap, backlog untouched.
+- Analytics (3 Nov night): still 3 followers, 0 shares on everything. Reels steady ~105-135 views, 1730 images still reach 1. Image slot kept per ROUTINE.md; owner decision on a third reel still open. Risk: low.
+- Env note: detached HEAD again; pillow/numpy/imageio-ffmpeg reinstall needed again.
+- Script: content/scripts/batch_2026-11-04.py
