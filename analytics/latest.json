@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-11-03T23:29:35",
+  "generated_at": "2026-11-04T23:45:49",
   "account": {
     "username": "thaka_hua_desi",
     "followers_count": 3,
-    "media_count": 61,
+    "media_count": 64,
     "id": "39385901121055027"
   },
   "media": [
+    {
+      "id": "18103609799169637",
+      "caption": "Fact check karo toh papa ka forward aur strong ho jaata hai 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfUyG5jEeuO/",
+      "timestamp": "2026-11-04T15:31:05+0000",
+      "insights": {
+        "reach": 82,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 93
+      }
+    },
+    {
+      "id": "18108789478971705",
+      "caption": "Kaam karna optional hai, busy dikhna full time job hai 🙂",
+      "media_type": "IMAGE",
+      "permalink": "https://www.instagram.com/p/DfUaA_zm7vc/",
+      "timestamp": "2026-11-04T12:00:08+0000",
+      "insights": {
+        "reach": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 4
+      }
+    },
+    {
+      "id": "17998992459028872",
+      "caption": "Chutti approve hui hai, kaam nahi gaya 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfT7H5XDX9E/",
+      "timestamp": "2026-11-04T07:30:37+0000",
+      "insights": {
+        "reach": 113,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 130
+      }
+    },
     {
       "id": "18469228510191932",
       "caption": "Shaadi mein khana baad mein milta hai, sawaal pehle 🙂",
@@ -14,13 +62,13 @@
       "permalink": "https://www.instagram.com/reel/DfSNR3vE9HI/",
       "timestamp": "2026-11-03T15:30:48+0000",
       "insights": {
-        "reach": 104,
+        "reach": 106,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 111
+        "views": 113
       }
     },
     {
@@ -62,13 +110,13 @@
       "permalink": "https://www.instagram.com/reel/DfPod0lifV9/",
       "timestamp": "2026-11-02T15:30:36+0000",
       "insights": {
-        "reach": 107,
+        "reach": 108,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 114
+        "views": 115
       }
     },
     {
@@ -437,54 +485,6 @@
         "saved": 0,
         "total_interactions": 0,
         "views": 119
-      }
-    },
-    {
-      "id": "18119139607998642",
-      "caption": "Office mein senior hu, sabzi mandi mein abhi bhi intern 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/De7CG3xFBiJ/",
-      "timestamp": "2026-10-25T15:30:35+0000",
-      "insights": {
-        "reach": 1,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 1
-      }
-    },
-    {
-      "id": "17926306245205986",
-      "caption": "Sharma ji ka beta 6 baje uthta hai, uski salary bhi 6 guna hai 🙂",
-      "media_type": "IMAGE",
-      "permalink": "https://www.instagram.com/p/De6qEK_lqxx/",
-      "timestamp": "2026-10-25T12:00:17+0000",
-      "insights": {
-        "reach": 1,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 1
-      }
-    },
-    {
-      "id": "18117887216096153",
-      "caption": "'Kuch bhi' bola tha, kuch bhi mein bhi options nahi hote 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/De6LK6oFt9T/",
-      "timestamp": "2026-10-25T07:30:35+0000",
-      "insights": {
-        "reach": 96,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 111
       }
     }
   ]
