@@ -343,3 +343,16 @@
 
 ## 2026-11-04 ~16:00 IST (cloud run, trend check)
 - Nothing missing (4-6 Nov full, 7 Nov beyond 3-day cap). Trend check: IND vs NZ 1st ODI (Eden Park, today) result not indexed yet; the only "India win by 4 wickets" hits were the Jan 2026 Vadodara ODI, so no verified result to joke on. Generic India search gave only undated/spam pages. Today's 2100 `papa-forward` stays. No swap, backlog untouched.
+
+## 2026-11-05 ~09:00 IST (cloud run, morning fill)
+- 5-6 Nov already full. Filled Sat 7 Nov (2 days out, evergreen; day before Diwali but no festival angle used):
+  - 1000 mood story: "Saturday hai" neend: abhi bhi kam / mummy ka khaana: full / energy: 60%.
+  - 1300 reel `patla-mota`: Ghar pahunchte hi mummy 'kitna patla ho gaya' -> 4 paratha, 2 katori kheer, 'bas ek aur' -> Welcome Uday Shetty (first use) as Papa teesre din -> "'Itna mota kaise ho gaya?' Same beta, same hafta". Shares: everyone home for the holidays, tag the friend who comes back 3 kilo heavier.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `linkedin-thrilled`: 3 Idiots Chatur speech (first use), "LinkedIn pe main: 'Thrilled to share, new role started!'", footer "Asli mein: same kaam, naya Excel". Shares: colleague tag.
+  - 2100 reel `mummy-free-ho`: Mummy 'free ho toh call karna, ek baat batani hai' -> panic -> Jethalal thinking 4-panel (koi bimaar? paise? rishta? result?) -> "Call pe mummy: 'Wo Netflix ka password kya tha? TV maang raha hai'". Shares: universal mummy-message anxiety, IT-support kid.
+  - 2130 question story: mummy ka sabse darawna message kya hota hai? (ties to 2100 reel)
+- Trend check: IND vs NZ 1st ODI (4 Nov) result still not indexed (search only returns Jan 2026 / older matches), nothing else verifiable. Today's 2100 `5-saal-baad` stays. No swap, backlog untouched.
+- Analytics (4 Nov night): still 3 followers, 0 shares/saves on everything. Reels ~80-130 reach (2100 papa-forward dipped to 82), 1730 images still reach 1. Image slot kept per ROUTINE.md; owner decision on a third reel still open. Risk: low.
+- Env note: detached HEAD again (checked out main from origin); pillow/numpy/imageio-ffmpeg reinstall needed again.
+- Script: content/scripts/batch_2026-11-05.py
