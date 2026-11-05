@@ -356,3 +356,6 @@
 - Analytics (4 Nov night): still 3 followers, 0 shares/saves on everything. Reels ~80-130 reach (2100 papa-forward dipped to 82), 1730 images still reach 1. Image slot kept per ROUTINE.md; owner decision on a third reel still open. Risk: low.
 - Env note: detached HEAD again (checked out main from origin); pillow/numpy/imageio-ffmpeg reinstall needed again.
 - Script: content/scripts/batch_2026-11-05.py
+
+## 2026-11-05 ~16:00 IST (cloud run, trend check)
+- Nothing missing (5-7 Nov full, 8 Nov beyond 3-day cap). Trend check: generic India search gave only undated/spam pages; IND vs NZ 1st ODI (4 Nov) result still not indexed (only Jan 2026 Vadodara hits). Nothing verified to joke on. Today's 2100 `5-saal-baad` and tomorrow's slots stay. No swap, backlog untouched.
