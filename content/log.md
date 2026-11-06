@@ -373,3 +373,6 @@
 - Analytics (5 Nov night): still 3 followers, 0 shares/saves. Reels steady ~100-120 reach, images reach 1. Risk: low.
 - Env note: detached HEAD; `python` (3.11) has a broken PIL, used `python3.13` which has pillow/numpy/imageio-ffmpeg.
 - Script: content/scripts/batch_2026-11-07.py
+
+## 2026-11-06 ~16:00 IST (cloud run, trend check)
+- Nothing missing (6-8 Nov full, 9 Nov beyond 3-day cap). Trend check: IND vs NZ 1st ODI (4 Nov) result still not indexed (only Jan 2026 Vadodara hits); generic India search gave only undated/old pages. Nothing verified to joke on. Today's 2100 `monday-quick-call` and tomorrow's slots stay. No swap, backlog untouched. Duplicate `salary-pigeon` alert from the morning run still stands for the owner.
