@@ -359,3 +359,17 @@
 
 ## 2026-11-05 ~16:00 IST (cloud run, trend check)
 - Nothing missing (5-7 Nov full, 8 Nov beyond 3-day cap). Trend check: generic India search gave only undated/spam pages; IND vs NZ 1st ODI (4 Nov) result still not indexed (only Jan 2026 Vadodara hits). Nothing verified to joke on. Today's 2100 `5-saal-baad` and tomorrow's slots stay. No swap, backlog untouched.
+
+## 2026-11-06 ~09:00 IST (cloud run, morning fill)
+- ALERT: 5 Nov 1730 image `salary-pigeon` was published 3 TIMES on Instagram (12:00/12:01/12:02 UTC, 3 media ids in analytics) and the folder still ended up in `content/failed/`. Looks like the publisher retried after a false failure. Owner should delete 2 duplicates manually and check the publish logs; not touching publish code per ROUTINE.md.
+- 6-7 Nov already full. Filled Sun 8 Nov (Diwali day, verified again; only soan papdi/relatives/chutti angles, no religious side):
+  - 1000 mood story: "Diwali Sunday ko" extra chutti: 0 / relatives: aane wale / energy: 50%.
+  - 1300 reel `soan-papdi`: Soan papdi ka ek dabba -> route map padosi aunty -> hum -> mama ji -> chachi -> Monkey Puppet "5 din baad, doorbell" -> "Wahi dabba wapas aaya, sticker pe humari handwriting, kisi ne khola tak nahi". Shares: every desi house with 4 dabbe pending.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `package-kitna`: 3 Idiots interview 'salary kitni' (first use), "Diwali pe chacha ji, mithai se bhi pehle:", footer "'Toh beta, package kitna hai ab?'". Shares: tag the friend whose package the whole khandaan learns today.
+  - 2100 reel `diwali-sunday`: "Is saal Diwali kis din? Sunday." -> extra chutti 0 / bonus 'next quarter' / kal 9:30 standup -> Panchayat 'Gajab bezzati' as office group chat -> Monday manager "Hope everyone had a restful long weekend! Kaunsa long, sir?". Shares: colleague tag on Diwali night.
+  - 2130 question story: aaj relatives ne sabse darawna sawaal kya pucha?
+- Trend check: IND vs NZ 1st ODI (4 Nov) result still not indexed; 2nd ODI is Sat 7 Nov (Wellington). No swap, backlog untouched.
+- Analytics (5 Nov night): still 3 followers, 0 shares/saves. Reels steady ~100-120 reach, images reach 1. Risk: low.
+- Env note: detached HEAD; `python` (3.11) has a broken PIL, used `python3.13` which has pillow/numpy/imageio-ffmpeg.
+- Script: content/scripts/batch_2026-11-07.py
