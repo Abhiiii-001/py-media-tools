@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-11-05T23:42:02",
+  "generated_at": "2026-11-06T23:15:45",
   "account": {
     "username": "thaka_hua_desi",
     "followers_count": 3,
-    "media_count": 69,
+    "media_count": 72,
     "id": "39385901121055027"
   },
   "media": [
+    {
+      "id": "18654059500045962",
+      "caption": "2 minute ki call ke liye 2 din ka overthinking 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfZ7t2Zj2Jq/",
+      "timestamp": "2026-11-06T15:31:07+0000",
+      "insights": {
+        "reach": 122,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 130
+      }
+    },
+    {
+      "id": "17995555587105404",
+      "caption": "Office khaali hai, bas main bhara hua hu 🙂",
+      "media_type": "IMAGE",
+      "permalink": "https://www.instagram.com/p/DfZjmq5m8Mi/",
+      "timestamp": "2026-11-06T12:00:07+0000",
+      "insights": {
+        "reach": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 2
+      }
+    },
+    {
+      "id": "17943947952389040",
+      "caption": "Ghar jaane ka plan tha, IRCTC ka plan kuch aur tha 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfZEuRZjyRF/",
+      "timestamp": "2026-11-06T07:30:44+0000",
+      "insights": {
+        "reach": 100,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 112
+      }
+    },
     {
       "id": "18080105195765673",
       "caption": "5 saal ka plan bana tha, bas designation update hua 🙂",
@@ -14,13 +62,13 @@
       "permalink": "https://www.instagram.com/reel/DfXW2jzlMBk/",
       "timestamp": "2026-11-05T15:30:38+0000",
       "insights": {
-        "reach": 107,
+        "reach": 111,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 1,
-        "views": 121
+        "views": 126
       }
     },
     {
@@ -36,7 +84,7 @@
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 3
+        "views": 5
       }
     },
     {
@@ -52,7 +100,7 @@
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 1
+        "views": 4
       }
     },
     {
@@ -142,13 +190,13 @@
       "permalink": "https://www.instagram.com/reel/DfSNR3vE9HI/",
       "timestamp": "2026-11-03T15:30:48+0000",
       "insights": {
-        "reach": 106,
+        "reach": 107,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 113
+        "views": 114
       }
     },
     {
@@ -437,54 +485,6 @@
         "saved": 0,
         "total_interactions": 0,
         "views": 1
-      }
-    },
-    {
-      "id": "18184555930428764",
-      "caption": "'Kaise ho?' ka ek hi jawab hai, aur wo jhooth hai 🙂",
-      "media_type": "IMAGE",
-      "permalink": "https://www.instagram.com/p/DfCYcy5IJf7/",
-      "timestamp": "2026-10-28T12:00:07+0000",
-      "insights": {
-        "reach": 1,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 1
-      }
-    },
-    {
-      "id": "17939468829121457",
-      "caption": "'Sab clear hai sir' bolna aata hai, kaam kya hai wo nahi 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DfB5mN8gJ9N/",
-      "timestamp": "2026-10-28T07:30:55+0000",
-      "insights": {
-        "reach": 104,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 118
-      }
-    },
-    {
-      "id": "18099511694451646",
-      "caption": "Jhooth bolne ka koi fayda nahi, mummy aawaz se plate dekh leti hai 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DfALshFjnhu/",
-      "timestamp": "2026-10-27T15:30:35+0000",
-      "insights": {
-        "reach": 100,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 119
       }
     }
   ]
