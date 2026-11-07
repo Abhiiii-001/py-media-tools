@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-11-06T23:15:45",
+  "generated_at": "2026-11-07T21:58:15",
   "account": {
     "username": "thaka_hua_desi",
     "followers_count": 3,
-    "media_count": 72,
+    "media_count": 75,
     "id": "39385901121055027"
   },
   "media": [
+    {
+      "id": "17915229054493441",
+      "caption": "'Ek baat batani hai' sunke dil 4 baar ruka, baat sirf password ki thi 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfcgdugCvE8/",
+      "timestamp": "2026-11-07T15:30:53+0000",
+      "insights": {
+        "reach": 161,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1,
+        "views": 203
+      }
+    },
+    {
+      "id": "18099075770654194",
+      "caption": "LinkedIn pe thrilled, office mein thaka hua 🙂",
+      "media_type": "IMAGE",
+      "permalink": "https://www.instagram.com/p/DfcIZhAG5cR/",
+      "timestamp": "2026-11-07T12:00:16+0000",
+      "insights": {
+        "reach": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 2
+      }
+    },
+    {
+      "id": "17889303381652876",
+      "caption": "Ghar pe 2 din mein patla se mota, koi gym itna fast nahi 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/Dfbpga-DUsN/",
+      "timestamp": "2026-11-07T07:30:34+0000",
+      "insights": {
+        "reach": 125,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 145
+      }
+    },
     {
       "id": "18654059500045962",
       "caption": "2 minute ki call ke liye 2 din ka overthinking 🙂",
@@ -126,13 +174,13 @@
       "permalink": "https://www.instagram.com/reel/DfWf9qRgVQ_/",
       "timestamp": "2026-11-05T07:30:55+0000",
       "insights": {
-        "reach": 118,
+        "reach": 119,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 124
+        "views": 125
       }
     },
     {
@@ -429,54 +477,6 @@
       "media_type": "VIDEO",
       "permalink": "https://www.instagram.com/reel/DfFVSFSDJgQ/",
       "timestamp": "2026-10-29T15:30:35+0000",
-      "insights": {
-        "reach": 1,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 1
-      }
-    },
-    {
-      "id": "18128672815848222",
-      "caption": "Budget Excel mein perfect tha, account ne padha hi nahi 🙂",
-      "media_type": "IMAGE",
-      "permalink": "https://www.instagram.com/p/DfE9PmWoIg7/",
-      "timestamp": "2026-10-29T12:00:15+0000",
-      "insights": {
-        "reach": 1,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 1
-      }
-    },
-    {
-      "id": "18143924224618115",
-      "caption": "'2 min away' wala 2 minute aaj tak kisi ne nahi dekha 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DfEeWq3Fsfe/",
-      "timestamp": "2026-10-29T07:30:36+0000",
-      "insights": {
-        "reach": 113,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 121
-      }
-    },
-    {
-      "id": "17914082358494266",
-      "caption": "Uska 5 minute aur mera 2 ghanta, ek hi ghadi mein chalte hai 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DfCwfbkkTS-/",
-      "timestamp": "2026-10-28T15:30:26+0000",
       "insights": {
         "reach": 1,
         "likes": 0,
