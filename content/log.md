@@ -376,3 +376,15 @@
 
 ## 2026-11-06 ~16:00 IST (cloud run, trend check)
 - Nothing missing (6-8 Nov full, 9 Nov beyond 3-day cap). Trend check: IND vs NZ 1st ODI (4 Nov) result still not indexed (only Jan 2026 Vadodara hits); generic India search gave only undated/old pages. Nothing verified to joke on. Today's 2100 `monday-quick-call` and tomorrow's slots stay. No swap, backlog untouched. Duplicate `salary-pigeon` alert from the morning run still stands for the owner.
+
+## 2026-11-07 ~09:00 IST (cloud run, morning fill)
+- 7-8 Nov already full. Filled Mon 9 Nov (2 days out, evergreen; 8 Nov 2100 already does the Monday-after-Diwali manager joke, so no repeat):
+  - 1000 mood story: "Chutti ke baad Monday" neend: ghar pe chhoot gayi / inbox: 214 unread / energy: 10%.
+  - 1300 reel `mummy-ka-bag`: Mummy 'bas thoda sa pack kiya hai' -> 2 kilo laddoo, 3 dabbe achaar, 1 litre ghee -> Phir Hera Pheri 'Abhi maza ayega na bhidu' (first use) as airport counter wala -> "Bag 23 kg: 4 kg kapde, 19 kg mummy ka pyaar, extra baggage Rs 3,400". Shares: everyone heading back to the city after the holidays, tag the friend with the ghee bag.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `meeting-ka-agenda`: Panchayat office meeting (first use), "Monday 10 baje ki meeting jo ek mail ho sakti thi:", footer "Agenda: agli meeting kab rakhein". Shares: colleague tag.
+  - 2100 reel `3-baje-meeting`: post-lunch 3 PM meeting, aankhein band / camera on -> Welcome scene (first use) for 'any thoughts, team?' -> "Maine bola 'agreed sir', baad mein pata chala wo task ab mera hai". Shares: tag the camera-on sleeper.
+  - 2130 question story: mummy ne is baar bag mein sabse ajeeb cheez kya pack ki? (ties to 1300 reel)
+- Trend check: IND vs NZ 2nd ODI (7 Nov) not indexed, search only returns Jan 2026 / older series. Nothing verified. No swap, backlog untouched.
+- Analytics (6 Nov night): still 3 followers, 0 shares/saves. Reels ~100-130 views, 1730 images reach 1. Duplicate `salary-pigeon` (3 posts) still live, owner action pending. Risk: low.
+- Script: content/scripts/batch_2026-11-09.py
