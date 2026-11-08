@@ -391,3 +391,16 @@
 
 ## 2026-11-07 ~16:00 IST (cloud run, trend check)
 - Nothing missing (7-9 Nov full, 10 Nov beyond 3-day cap). Trend check: IND vs NZ 2nd ODI (Wellington, 7 Nov) result not indexed (search only returns Jan 2026 Rajkot / older series). Nothing verified to joke on. Today's 2100 `mummy-free-ho` and tomorrow's Diwali slots stay. No swap, backlog untouched. Duplicate `salary-pigeon` alert still pending for the owner.
+
+## 2026-11-08 ~09:00 IST (cloud run, morning fill)
+- 8-9 Nov already full. Filled Tue 10 Nov (2 days out, evergreen post-Diwali office/money; no festival religious angle, no soan papdi repeat):
+  - 1000 mood story: "Diwali ke baad Tuesday" mithai: khatam / paisa: khatam / energy: 15%.
+  - 1300 reel `office-mithai`: pantry mein kaju katli ka dabba -> 'meeting ke baad lunga' timeline -> 3 Idiots 'Hum dukhi the' (first use) as team reaching pantry -> "Dabbe mein sirf chandi wala kaagaz. Meeting skip karne wala intern: 'Sir bahut acchi thi'". Shares: colleague tag, every office this week.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `rent-uncle`: Babu Rao 'Tera toh game bajana padega' (first use), "Landlord uncle jab 10 tareekh ho gayi aur rent nahi aaya:", footer "Main: 'Uncle salary Diwali pe udd gayi'". Shares: roommate/flatmate tag. Template has a white gap above the still, acceptable.
+  - 2100 reel `card-bill`: Diwali sale 'sirf 499 ka hi toh hai' -> cart (no cost EMI airfryer) -> Mocking Spongebob (first use) as dimaag mocking old me -> "Card statement: total due Rs 18,640, minimum due: mera sukoon, salary aane mein 20 din". Shares: everyone who did sale shopping.
+  - 2130 question story: Diwali sale mein sabse bekaar cheez kya kharidi? (ties to 2100 reel)
+- Trend check: IND vs NZ 1st ODI (4 Nov) reportedly India won (DLS, one source only); 2nd ODI (7 Nov) result not indexed; 3rd ODI 10 Nov Hamilton. Nothing verified enough, today's Diwali slots are already trend posts. No swap, backlog untouched.
+- Analytics (7 Nov night): still 3 followers, 0 shares/saves. Reels 125-203 views (mummy-free-ho best at 203), 1730 images reach 1. Duplicate `salary-pigeon` alert still pending for the owner. Risk: low.
+- Env note: detached HEAD again; python3.13 needed imageio-ffmpeg reinstall.
+- Script: content/scripts/batch_2026-11-10.py
