@@ -404,3 +404,6 @@
 - Analytics (7 Nov night): still 3 followers, 0 shares/saves. Reels 125-203 views (mummy-free-ho best at 203), 1730 images reach 1. Duplicate `salary-pigeon` alert still pending for the owner. Risk: low.
 - Env note: detached HEAD again; python3.13 needed imageio-ffmpeg reinstall.
 - Script: content/scripts/batch_2026-11-10.py
+
+## 2026-11-08 ~16:00 IST (cloud run, trend check)
+- Nothing missing (8-10 Nov full, 11 Nov beyond 3-day cap). Trend check: generic India search returned only undated/spam pages; IND vs NZ 2nd ODI (7 Nov) still not indexed (only Jan 2026 Rajkot hits). Today's 2100 `diwali-sunday` is already a trend post (not swappable); tomorrow's evergreen slots stay. No swap, backlog untouched. Duplicate `salary-pigeon` alert still pending for the owner.
