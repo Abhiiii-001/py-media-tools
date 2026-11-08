@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-11-07T21:58:15",
+  "generated_at": "2026-11-08T22:14:57",
   "account": {
     "username": "thaka_hua_desi",
     "followers_count": 3,
-    "media_count": 75,
+    "media_count": 78,
     "id": "39385901121055027"
   },
   "media": [
+    {
+      "id": "17911453854566072",
+      "caption": "Diwali bhi Sunday ko aayi, chutti ne bhi weekend mein adjust kar liya 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DffFO-xIFUJ/",
+      "timestamp": "2026-11-08T15:30:36+0000",
+      "insights": {
+        "reach": 126,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 145
+      }
+    },
+    {
+      "id": "18139966426643861",
+      "caption": "Mithai baad mein milti hai, salary ka sawaal pehle 🙂",
+      "media_type": "IMAGE",
+      "permalink": "https://www.instagram.com/p/DfetMgAmyAJ/",
+      "timestamp": "2026-11-08T12:00:18+0000",
+      "insights": {
+        "reach": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 2
+      }
+    },
+    {
+      "id": "18060083726567331",
+      "caption": "Soan papdi ne pura mohalla ghoom liya, khaya kisi ne nahi 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfeOTaQmDU5/",
+      "timestamp": "2026-11-08T07:30:24+0000",
+      "insights": {
+        "reach": 111,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 121
+      }
+    },
     {
       "id": "17915229054493441",
       "caption": "'Ek baat batani hai' sunke dil 4 baar ruka, baat sirf password ki thi 🙂",
@@ -14,13 +62,13 @@
       "permalink": "https://www.instagram.com/reel/DfcgdugCvE8/",
       "timestamp": "2026-11-07T15:30:53+0000",
       "insights": {
-        "reach": 161,
+        "reach": 162,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 1,
-        "views": 203
+        "views": 204
       }
     },
     {
@@ -437,54 +485,6 @@
         "saved": 0,
         "total_interactions": 0,
         "views": 121
-      }
-    },
-    {
-      "id": "18128949856651694",
-      "caption": "Balance minimum tha, charge pura maximum kaat liya 🙂",
-      "media_type": "IMAGE",
-      "permalink": "https://www.instagram.com/p/DfHiCjZEU7c/",
-      "timestamp": "2026-10-30T12:00:08+0000",
-      "insights": {
-        "reach": 1,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 2
-      }
-    },
-    {
-      "id": "18077327381452949",
-      "caption": "Pahunch toh gaya tha, bas call karna nahi pahuncha 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DfHDOIXjVir/",
-      "timestamp": "2026-10-30T07:31:07+0000",
-      "insights": {
-        "reach": 103,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 1,
-        "views": 125
-      }
-    },
-    {
-      "id": "17942116080385395",
-      "caption": "'Bas ek episode' bola tha, poora season aur neend dono gaye 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DfFVSFSDJgQ/",
-      "timestamp": "2026-10-29T15:30:35+0000",
-      "insights": {
-        "reach": 1,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 1
       }
     }
   ]
