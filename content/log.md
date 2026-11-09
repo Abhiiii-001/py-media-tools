@@ -407,3 +407,16 @@
 
 ## 2026-11-08 ~16:00 IST (cloud run, trend check)
 - Nothing missing (8-10 Nov full, 11 Nov beyond 3-day cap). Trend check: generic India search returned only undated/spam pages; IND vs NZ 2nd ODI (7 Nov) still not indexed (only Jan 2026 Rajkot hits). Today's 2100 `diwali-sunday` is already a trend post (not swappable); tomorrow's evergreen slots stay. No swap, backlog untouched. Duplicate `salary-pigeon` alert still pending for the owner.
+
+## 2026-11-09 ~09:00 IST (cloud run, morning fill)
+- 9-10 Nov already full. Filled Wed 11 Nov (2 days out, evergreen):
+  - 1000 mood story: "Budhwar ki subah" hafta aadha gaya / baaki abhi bhi 2.5 din / energy 25%.
+  - 1300 reel `bas-ek-episode`: 'Bas ek episode, phir so jaunga' -> 12:15/1:40/3:10/4:05 timeline -> Clown Makeup 4 steps of self-deception (bas ek episode / kal late uthunga / meeting 10 baje chalega / camera off) -> "Standup: 'Sir kal raat network issue tha'. Netflix: 'Are you still watching?'". Shares: every binge-watcher, tag the 4 AM friend.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 mascot carousel `friend-group-5-log` (7 slides): Har friend group mein ye 5 log: plan master, bill aate hi gaayab, photo inspector, 2 AM philosopher, seen zone king -> "Group mein bhejo aur dekho kaun sabse pehle chidhta hai (wahi no. 2 hai)". Shares: built for group-chat sends, mascot post (brand).
+  - 2100 reel `shagun-season`: 6 shaadi ke card -> hisaab (6 x 1,100 shagun, kurta, cab, same salary) -> Hera Pheri trio shock -> "Lifafe mein 1,100, khana khaunga 1,800 ka, life ka ekmatra profitable investment". Money angle only, no religious side. Shares: wedding-season friend tag.
+  - 2130 question story: is shaadi season kitne card aaye, shagun budget kitna?
+- Trend check: generic India search only spam/undated; IND vs NZ 2nd ODI (7 Nov) still not indexed. Nothing verified. No swap, backlog untouched.
+- Analytics (8 Nov night): still 3 followers, 0 shares/saves. Reels steady 112-204 views (mummy-free-ho 204 best), 1730 images reach 1. Trying a mascot carousel in the 1730 slot instead of a single template image to test if carousels beat images. Duplicate `salary-pigeon` alert still pending for the owner. Risk: low.
+- Env note: detached HEAD; python3.13 needed imageio-ffmpeg reinstall.
+- Script: content/scripts/batch_2026-11-11.py
