@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-11-10T23:30:00",
+  "generated_at": "2026-11-12T00:50:09",
   "account": {
     "username": "thaka_hua_desi",
     "followers_count": 3,
-    "media_count": 84,
+    "media_count": 87,
     "id": "39385901121055027"
   },
   "media": [
+    {
+      "id": "17971697189965503",
+      "caption": "Shaadi unki, EMI meri 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/Dfmznfikmbs/",
+      "timestamp": "2026-11-11T15:30:33+0000",
+      "insights": {
+        "reach": 111,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 129
+      }
+    },
+    {
+      "id": "18376861975244345",
+      "caption": "Har group mein ek no. 2 hota hai, aur wo ye post kabhi share nahi karega 🙂",
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DfmbpAZlv6Y/",
+      "timestamp": "2026-11-11T12:00:48+0000",
+      "insights": {
+        "reach": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 2
+      }
+    },
+    {
+      "id": "18438871021176368",
+      "caption": "'Bas ek episode' bola tha, season khatam ho gaya aur neend bhi 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/Dfl8w8Rj7_q/",
+      "timestamp": "2026-11-11T07:31:06+0000",
+      "insights": {
+        "reach": 104,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 115
+      }
+    },
     {
       "id": "18096366074168327",
       "caption": "499 ke 12 order, ab 20 din Maggi 🙂",
@@ -14,13 +62,13 @@
       "permalink": "https://www.instagram.com/reel/DfkO0qZo0qt/",
       "timestamp": "2026-11-10T15:30:24+0000",
       "insights": {
-        "reach": 116,
+        "reach": 117,
         "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 2,
-        "views": 125
+        "views": 126
       }
     },
     {
@@ -437,54 +485,6 @@
         "saved": 0,
         "total_interactions": 0,
         "views": 115
-      }
-    },
-    {
-      "id": "17892994581455837",
-      "caption": "Mummy ka 'ek minute' aur manager ka 'quick call', dono ka timer same factory se aata hai 🙂",
-      "media_type": "IMAGE",
-      "permalink": "https://www.instagram.com/p/DfPQbRMm1YF/",
-      "timestamp": "2026-11-02T12:00:18+0000",
-      "insights": {
-        "reach": 1,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 1
-      }
-    },
-    {
-      "id": "18107025266267076",
-      "caption": "Monday standup mein Friday yaad karna sabse bada task hai 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DfOxiHjEdUU/",
-      "timestamp": "2026-11-02T07:30:26+0000",
-      "insights": {
-        "reach": 122,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 127
-      }
-    },
-    {
-      "id": "18202557322377337",
-      "caption": "Har Sunday ka plan pakka hota hai, bas hum log nahi 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DfNDq4zjzjM/",
-      "timestamp": "2026-11-01T15:30:36+0000",
-      "insights": {
-        "reach": 108,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 109
       }
     }
   ]
