@@ -456,3 +456,16 @@
 
 ## 2026-11-11 ~16:00 IST (cloud run, trend check)
 - Nothing missing (11-13 Nov full, 14 Nov beyond 3-day cap). Trend check: IND vs NZ 5-match ODI series in NZ, India 2-0 after rain-hit 2nd ODI (7 Nov, DLS by 4 runs); 3rd ODI (10 Nov, Hamilton) result still not indexed, so nothing verified to joke on. Generic India trend search gave only undated/stale pages. Tonight's 2100 `shagun-season` is already a shaadi-season post; tomorrow's evergreen winter/UPI/Thursday slots stay. No swap, backlog untouched. Image reach-1 problem and duplicate `salary-pigeon` alert still pending for the owner.
+
+## 2026-11-12 ~09:00 IST (cloud run, morning fill)
+- 12-13 Nov already full. Filled Sat 14 Nov (2 days out). Children's Day falls on a fixed date, so it won't go stale; only the life/adulting angle is used, nothing about any person:
+  - 1000 mood story: "Shanivaar ki subah" alarm band / plan kuch nahi / energy 65% (weekend mode).
+  - 1300 reel `bachpan-wish`: 'Bas jaldi se bada hona hai' -> wish poori (rent 18k, 3 EMI, khud khana, 5 ghante neend) -> This Is Fine -> "Children's Day pe bas ek sawaal: 'Bade hoke kya banoge?' Aaj ka jawab: thaka hua". Brand-name punchline; school-friend tag on the day.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `bachpan-handshake`: Epic Handshake, Bachpan wala main + Aaj wala main on "Karela aur tinde se nafrat", footer "Salary badh gayi, taste wahi ka wahi". Shares: tiffin-friend tag.
+  - 2100 reel `saturday-kapde`: 'Aaj sirf aaram karunga' -> kursi pe 2 hafte ke kapde -> Raju confident pose 'bas 10 minute ka kaam hai' -> "Raat 9: machine chalayi, sukhana bhool gaya, kapde phir geele, kursi phir full". Shares: roommate/bachelor tag. New topic (laundry), different from past Saturday posts.
+  - 2130 question story: kursi pe kitne din ke kapde pade hai? (ties to 2100 reel)
+- Trend check: IND vs NZ 3rd ODI (10 Nov) result still not indexed; generic India trend search gave only undated or stale pages. No swap, backlog untouched.
+- Analytics (12 Nov night pull): still 3 followers, 0 shares/saves. Reels 104-111 reach; the 1730 image and the carousel still reach 1 (9 days running). Image distribution problem and duplicate `salary-pigeon` alert still pending for the owner. Risk: low.
+- Env note: system python PIL broken, used python3.13.
+- Script: content/scripts/batch_2026-11-14.py
