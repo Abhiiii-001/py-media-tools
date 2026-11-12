@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-11-12T00:50:09",
+  "generated_at": "2026-11-12T23:42:06",
   "account": {
     "username": "thaka_hua_desi",
     "followers_count": 3,
-    "media_count": 87,
+    "media_count": 90,
     "id": "39385901121055027"
   },
   "media": [
+    {
+      "id": "18150805264561457",
+      "caption": "Chai 20 ki thi, UPI ne 40 ki bana di 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfpYabUpR8U/",
+      "timestamp": "2026-11-12T15:30:36+0000",
+      "insights": {
+        "reach": 68,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 69
+      }
+    },
+    {
+      "id": "17997466034841062",
+      "caption": "Monday ka josh Thursday tak 'kal dekhenge' ban jaata hai 🙂",
+      "media_type": "IMAGE",
+      "permalink": "https://www.instagram.com/p/DfpAX7pG9-7/",
+      "timestamp": "2026-11-12T12:00:17+0000",
+      "insights": {
+        "reach": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 3
+      }
+    },
+    {
+      "id": "17924036811446414",
+      "caption": "Geyser 30 min mein garam hua, mera time 30 min pehle khatam 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfohkjCGXKt/",
+      "timestamp": "2026-11-12T07:31:16+0000",
+      "insights": {
+        "reach": 102,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 1,
+        "total_interactions": 1,
+        "views": 117
+      }
+    },
     {
       "id": "17971697189965503",
       "caption": "Shaadi unki, EMI meri 🙂",
@@ -14,13 +62,13 @@
       "permalink": "https://www.instagram.com/reel/Dfmznfikmbs/",
       "timestamp": "2026-11-11T15:30:33+0000",
       "insights": {
-        "reach": 111,
+        "reach": 113,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 129
+        "views": 132
       }
     },
     {
@@ -437,54 +485,6 @@
         "saved": 0,
         "total_interactions": 0,
         "views": 114
-      }
-    },
-    {
-      "id": "18123083701982821",
-      "caption": "Course kharidna hi sabse bada achievement hai, khatam karna optional 🙂",
-      "media_type": "IMAGE",
-      "permalink": "https://www.instagram.com/p/DfR1OBulbpY/",
-      "timestamp": "2026-11-03T12:00:17+0000",
-      "insights": {
-        "reach": 1,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 1
-      }
-    },
-    {
-      "id": "18111585512245229",
-      "caption": "6 baje nikalne ka plan har roz banta hai, har roz lift mein marta hai 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DfRWU9WjJg5/",
-      "timestamp": "2026-11-03T07:30:25+0000",
-      "insights": {
-        "reach": 116,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 134
-      }
-    },
-    {
-      "id": "18131063002894937",
-      "caption": "Office mein 'senior engineer', ghar pe printer wala bhaiya 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DfPod0lifV9/",
-      "timestamp": "2026-11-02T15:30:36+0000",
-      "insights": {
-        "reach": 108,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 115
       }
     }
   ]
