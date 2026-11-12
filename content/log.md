@@ -469,3 +469,6 @@
 - Analytics (12 Nov night pull): still 3 followers, 0 shares/saves. Reels 104-111 reach; the 1730 image and the carousel still reach 1 (9 days running). Image distribution problem and duplicate `salary-pigeon` alert still pending for the owner. Risk: low.
 - Env note: system python PIL broken, used python3.13.
 - Script: content/scripts/batch_2026-11-14.py
+
+## 2026-11-12 ~16:00 IST (cloud run, trend check)
+- Nothing missing (12-14 Nov full, 15 Nov beyond 3-day cap). Trend check: generic India trend search and IND vs NZ ODI series search returned only old/undated pages (no 2026 results indexed), so nothing verified to joke on. Tonight's 2100 `upi-pending` and tomorrow's evergreen slots stay. No swap, backlog untouched. Image reach-1 problem and duplicate `salary-pigeon` alert still pending for the owner.
