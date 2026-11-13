@@ -472,3 +472,17 @@
 
 ## 2026-11-12 ~16:00 IST (cloud run, trend check)
 - Nothing missing (12-14 Nov full, 15 Nov beyond 3-day cap). Trend check: generic India trend search and IND vs NZ ODI series search returned only old/undated pages (no 2026 results indexed), so nothing verified to joke on. Tonight's 2100 `upi-pending` and tomorrow's evergreen slots stay. No swap, backlog untouched. Image reach-1 problem and duplicate `salary-pigeon` alert still pending for the owner.
+
+## 2026-11-13 ~09:00 IST (cloud run, morning fill)
+- 13-14 Nov already full. Filled Sun 15 Nov (2 days out, evergreen):
+  - 1000 mood story: "Ravivaar ki subah" uthe 11:40 / nashta lunch ke saath / energy 70% (Monday tak 0).
+  - 1300 reel `screen-time`: Sunday 'Weekly screen time report' notification -> Insta 4h, YouTube 2h, kaam ki app 11 min, total 7h48m -> Monkey Puppet -> "5 second baad: report swipe, reels phir chalu, Sunday 9 ghante wala". First screen-time joke on the page; shares: 'main phone kam chalata hu' friend tag.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 carousel `15-taareekh`: gap filler from backlog (oldest item; written for the 15th, and 15 Nov is the 15th). Mid-month salary carousel, 6 slides, rechecked visually.
+  - 2100 reel `meal-prep`: 'Is hafte sirf ghar ka khana' -> 7 dabbe plan, Swiggy uninstall -> Roll Safe -> "Agla Sunday: 6 dabbe abhi bhi fridge mein, Swiggy wapas install". Shares: roommate/bachelor tag. New topic.
+  - 2130 question story: Sunday ko banaya khana kis din tak chalta hai? (ties to 2100 reel)
+- Backlog: only `saturday-alarm-teaser-story` left (teaser of an already posted reel, doesn't fit Sunday).
+- Trend check: generic India trend search for today returned only old/undated pages; nothing verified, no swap.
+- Analytics (12 Nov night): still 3 followers, 0 shares. Reels 68-117 reach; 1730 images/carousels still reach 1 (10 days running). Image distribution problem and duplicate `salary-pigeon` alert still pending for the owner. Risk: low.
+- Env note: used python3.13.
+- Script: content/scripts/batch_2026-11-15.py
