@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-11-12T23:42:06",
+  "generated_at": "2026-11-13T23:40:15",
   "account": {
     "username": "thaka_hua_desi",
     "followers_count": 3,
-    "media_count": 90,
+    "media_count": 93,
     "id": "39385901121055027"
   },
   "media": [
+    {
+      "id": "18649762123010405",
+      "caption": "'Thoda sa' bola tha, bhaiya ne poora sach kaat diya 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/Dfr9NQrCWoR/",
+      "timestamp": "2026-11-13T15:30:34+0000",
+      "insights": {
+        "reach": 111,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 128
+      }
+    },
+    {
+      "id": "18224054347342149",
+      "caption": "Syllabus 14 chapter ka tha, research pencil pe ho gayi 🙂",
+      "media_type": "IMAGE",
+      "permalink": "https://www.instagram.com/p/DfrlKyyoBoM/",
+      "timestamp": "2026-11-13T12:00:16+0000",
+      "insights": {
+        "reach": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 2
+      }
+    },
+    {
+      "id": "18174871231499220",
+      "caption": "Friday 5:59 ka 'Hey' poora weekend kha gaya 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfrGRqLFM0u/",
+      "timestamp": "2026-11-13T07:30:36+0000",
+      "insights": {
+        "reach": 113,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 122
+      }
+    },
     {
       "id": "18150805264561457",
       "caption": "Chai 20 ki thi, UPI ne 40 ki bana di 🙂",
@@ -14,13 +62,13 @@
       "permalink": "https://www.instagram.com/reel/DfpYabUpR8U/",
       "timestamp": "2026-11-12T15:30:36+0000",
       "insights": {
-        "reach": 68,
-        "likes": 0,
+        "reach": 101,
+        "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0,
-        "total_interactions": 0,
-        "views": 69
+        "total_interactions": 2,
+        "views": 108
       }
     },
     {
@@ -431,54 +479,6 @@
       "timestamp": "2026-11-04T15:31:05+0000",
       "insights": {
         "reach": 102,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 114
-      }
-    },
-    {
-      "id": "18108789478971705",
-      "caption": "Kaam karna optional hai, busy dikhna full time job hai 🙂",
-      "media_type": "IMAGE",
-      "permalink": "https://www.instagram.com/p/DfUaA_zm7vc/",
-      "timestamp": "2026-11-04T12:00:08+0000",
-      "insights": {
-        "reach": 1,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 4
-      }
-    },
-    {
-      "id": "17998992459028872",
-      "caption": "Chutti approve hui hai, kaam nahi gaya 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DfT7H5XDX9E/",
-      "timestamp": "2026-11-04T07:30:37+0000",
-      "insights": {
-        "reach": 114,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 131
-      }
-    },
-    {
-      "id": "18469228510191932",
-      "caption": "Shaadi mein khana baad mein milta hai, sawaal pehle 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DfSNR3vE9HI/",
-      "timestamp": "2026-11-03T15:30:48+0000",
-      "insights": {
-        "reach": 107,
         "likes": 0,
         "comments": 0,
         "shares": 0,
