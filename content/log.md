@@ -486,3 +486,6 @@
 - Analytics (12 Nov night): still 3 followers, 0 shares. Reels 68-117 reach; 1730 images/carousels still reach 1 (10 days running). Image distribution problem and duplicate `salary-pigeon` alert still pending for the owner. Risk: low.
 - Env note: used python3.13.
 - Script: content/scripts/batch_2026-11-15.py
+
+## 2026-11-13 ~16:00 IST (cloud run, trend check)
+- Nothing missing (13-15 Nov full, 16 Nov beyond 3-day cap). Trend check: generic India search for today gave only old/undated pages plus politics/pollution items (hard limits); Shami Test retirement (10 Nov) is about a real person, not a fit. Tonight's 2100 `haircut-thoda-sa` and tomorrow's Children's Day slots stay. No swap, backlog untouched. Image reach-1 problem and duplicate `salary-pigeon` alert still pending for the owner.
