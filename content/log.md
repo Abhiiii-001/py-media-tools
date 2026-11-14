@@ -489,3 +489,16 @@
 
 ## 2026-11-13 ~16:00 IST (cloud run, trend check)
 - Nothing missing (13-15 Nov full, 16 Nov beyond 3-day cap). Trend check: generic India search for today gave only old/undated pages plus politics/pollution items (hard limits); Shami Test retirement (10 Nov) is about a real person, not a fit. Tonight's 2100 `haircut-thoda-sa` and tomorrow's Children's Day slots stay. No swap, backlog untouched. Image reach-1 problem and duplicate `salary-pigeon` alert still pending for the owner.
+
+## 2026-11-14 ~09:00 IST (cloud run, morning fill)
+- 14-15 Nov already full. Filled Mon 16 Nov (2 days out, evergreen):
+  - 1000 mood story: "Somvaar ki subah" 4 baar snooze / dimaag abhi bhi Sunday pe / energy 15%.
+  - 1300 reel `password-expired`: Monday 9:30 'Your password has expired' -> rules (capital, number, symbol, pichhle 5 se alag) -> Hide the Pain Harold '7vi koshish pe' -> "10:15: account locked, IT ticket 3 days, manager 'kaam kahan tak?', main: login tak". First password/IT joke; shares: colleague tag ('Password@123' wala).
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `sardi-walk-plan`: Gru's Plan (first use), "Sardi ka fitness plan": kal se 6 baje walk / alarm laga diya / subah 6 baje bahar 12 degree (x2), footer "Razai ne plan approve nahi kiya". Shares: 'kal se walk' friend tag.
+  - 2100 reel `office-ac`: November bahar 14 degree, office AC 18 -> sweater/teesri chai/ek ungli typing -> Bhushan on colleague 'thodi garmi hai na?' -> "Remote admin ke paas, 'policy hai', 9 ghante kulfi, ghar pe geyser kharab". Shares: AC-wala colleague tag.
+  - 2130 question story: office ka AC November mein kitne pe chalta hai? (ties to 2100 reel)
+- Trend check: generic India search for today returned only old/undated pages; nothing verified, no swap. Backlog untouched.
+- Analytics (13 Nov night): still 3 followers, 0 shares. Reels 101-113 reach; 1730 images still reach 1 (11 days running). Image distribution problem and duplicate `salary-pigeon` alert still pending for the owner. Risk: low.
+- Env note: detached HEAD; python3.13 has no imageio_ffmpeg, used system ffmpeg for frame checks.
+- Script: content/scripts/batch_2026-11-16.py
