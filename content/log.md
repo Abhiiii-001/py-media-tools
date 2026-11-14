@@ -502,3 +502,12 @@
 - Analytics (13 Nov night): still 3 followers, 0 shares. Reels 101-113 reach; 1730 images still reach 1 (11 days running). Image distribution problem and duplicate `salary-pigeon` alert still pending for the owner. Risk: low.
 - Env note: detached HEAD; python3.13 has no imageio_ffmpeg, used system ffmpeg for frame checks.
 - Script: content/scripts/batch_2026-11-16.py
+
+## 2026-11-14 ~16:00 IST (cloud run, trend check + swap)
+- Nothing missing (14-16 Nov full, 17 Nov beyond 3-day cap).
+- Trend swap for Sun 15 Nov: IND vs NZ 5th ODI is tomorrow, Bay Oval, 7:30 AM IST start (mykhel, Wisden, TV9 schedule agree). An early Sunday match is a strong on-brand hook.
+  - Moved evergreen 1300 `screen-time` reel + its 1330 teaser to `content/backlog/` (`sunday-screen-time-reel`, `sunday-screen-time-teaser-story`); Sunday-specific, reuse on a later Sunday.
+  - New 1300 reel `sunday-match-alarm`: office din 5 snooze -> Sunday match 7:30, uth gaya 7:05 bina alarm -> 'Abhi maza ayega na bhidu' -> "Shaam 4 baje: match khatam, 'bas 10 min let raha hu', utha raat 9, Sunday gaya, kal Monday". Result-agnostic, no players named. Posts mid-match when people are on phones; shares: 'jo 7 baje se TV ke saamne hai' friend tag.
+  - New 1330 teaser story of it. Frames and story checked visually.
+- Risk: low. Small inconsistency with the 1000 mood story ("uthe 11:40"), acceptable since stories are a separate mood series.
+- Env note: detached HEAD at start, reset to origin/main. Script: content/scripts/swap_2026-11-15.py
