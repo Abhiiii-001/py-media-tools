@@ -511,3 +511,16 @@
   - New 1330 teaser story of it. Frames and story checked visually.
 - Risk: low. Small inconsistency with the 1000 mood story ("uthe 11:40"), acceptable since stories are a separate mood series.
 - Env note: detached HEAD at start, reset to origin/main. Script: content/scripts/swap_2026-11-15.py
+
+## 2026-11-15 ~09:00 IST (cloud run, morning fill)
+- 15-16 Nov already full. Filled Tue 17 Nov (2 days out, evergreen):
+  - 1000 mood story: "Mangalvaar ki subah" Monday khatam, kaam nahi / chai doosri / energy 25%.
+  - 1300 reel `mummy-sweater`: 'Mummy: sweater kahan hai?' at 24 degree -> poora ghar (Papa, Dadi) piche pada -> Phir Hera Pheri run 'gali ka corner aate hi' -> "Shaam 7: sweater bag mein, naak band, Mummy 'maine bola tha na'". New topic (winter + Indian mom); shares: sibling tag.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `monday-vs-tuesday`: Buff Doge vs Cheems (first use), "Weekly motivation ki expiry date": Monday 'sab kaam time pe' vs Tuesday 'kal se pakka', footer "Planner mein sirf Monday bhara hai" (shortened after an orphan-word wrap).
+  - 2100 reel `refund-wait`: 'Refund 5-7 working days' -> processing/initiated/bot -> Waiting Skeleton 'din 12' -> "Din 14: Rs 1,499 aaye, usi din sale live, refund phir gaya". New topic; shares: online-shopping friend tag. No brands named.
+  - 2130 question story: refund ke liye sabse lamba kitne din wait kiya? (ties to 2100 reel)
+- Trend check: India search for today gave only stale or hard-limit items (a death, politics); nothing verified, no swap. Today's 5th ODI swap reel (1300) stays; the 4 PM run can check the result. Backlog untouched.
+- Analytics (14 Nov night): still 3 followers, 0 shares. Reels ~110-125 reach; 1730 image still reach 1 (12 days running). Image distribution problem and duplicate `salary-pigeon` alert still pending for the owner. Risk: low.
+- Env note: detached HEAD at start, reset to origin/main; python3.13 + system ffmpeg.
+- Script: content/scripts/batch_2026-11-17.py
