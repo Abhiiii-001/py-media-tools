@@ -527,3 +527,16 @@
 
 ## 2026-11-15 ~16:00 IST (cloud run, trend check)
 - Nothing missing: 15-17 Nov all filled; 18 Nov would break the 3-day cap. No swap: searches only returned stale or hard-limit items, and no 5th ODI result could be verified. The 1st NZ Test starts 19 Nov, outside the today/tomorrow window, so the morning run can look at it. Backlog untouched. Env: detached HEAD, reset to origin/main.
+
+## 2026-11-16 ~09:00 IST (cloud run, morning fill)
+- 16-17 Nov already full. Filled Wed 18 Nov (2 days out, evergreen):
+  - 1000 mood story: "Budhvaar ki subah" aadha hafta gaya, kaam wahi / chai teesri / energy 20%.
+  - 1300 reel `on-mute`: 20 min pitch ke baad Manager: 'You're on mute' -> slides, joke, numbers, sab chup -> Panchayat 'Gajab bezzati' -> "Unmute kiya: aadha bhool gaya, 'mail kar do', mail 2 line ka". First you're-on-mute joke; shares: colleague tag.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `raat-ka-phone`: Woman Yelling At Cat (2nd use, last 23 Oct), Mummy 'phone rakh de, aankhein kharab' vs Main 'aapka Good Night forward abhi aaya hai', footer "Family group ki night shift: Mummy". Shares: sibling tag. Footer shortened after an orphan-word wrap.
+  - 2100 reel `wifi-gaya`: WiFi 'bas 10 min' -> router restart, hall mein baitha, family se baat, sofa naya hai -> Hera Pheri trio shock 'gharwale mujhe hall mein dekh ke' -> "10:40 WiFi wapas: sab apne kamre mein, Mummy ka WhatsApp 'so ja ab'". New topic; shares: sibling/family tag. Box line shortened after a wrap.
+  - 2130 question story: WiFi jaaye toh ghar mein sabse pehle kaun hall mein aata hai?
+- Trend check: 1st NZ Test is 19-23 Nov at Basin Reserve, ~3:30 AM IST start (mykhel, outlookindia, wionews). That's outside today/tomorrow, so no swap now; the 17 Nov runs can queue a Test-timing joke for 19 Nov. Generic India search gave nothing dated today. Backlog untouched.
+- Analytics (15 Nov night): still 3 followers, 0 shares. Reels 97-125 reach; 15 Nov carousel reach 0, 14 Nov image reach 1 (image distribution problem, ~13 days). Duplicate `salary-pigeon` alert still pending for the owner. Risk: low.
+- Env note: detached HEAD at start, reset to origin/main; python3.13 + system ffmpeg.
+- Script: content/scripts/batch_2026-11-18.py
