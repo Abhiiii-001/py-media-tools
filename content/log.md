@@ -540,3 +540,6 @@
 - Analytics (15 Nov night): still 3 followers, 0 shares. Reels 97-125 reach; 15 Nov carousel reach 0, 14 Nov image reach 1 (image distribution problem, ~13 days). Duplicate `salary-pigeon` alert still pending for the owner. Risk: low.
 - Env note: detached HEAD at start, reset to origin/main; python3.13 + system ffmpeg.
 - Script: content/scripts/batch_2026-11-18.py
+
+## 2026-11-16 ~16:00 IST (cloud run, trend check)
+- Nothing missing: 16-18 Nov all filled; 19 Nov would break the 3-day cap. No swap: searches only gave stale items (newest ~9-11 Nov) and no verified 5th ODI result. Also skipped an EPFO PF-cap story because I couldn't verify its date and it's government policy (borderline). Tonight's 2100 `office-ac` stays. For tomorrow's runs: the 1st NZ Test starts 19 Nov at ~3:30 AM IST, so the 17 Nov 9 AM run can make a Test-timing joke for 19 Nov. Backlog untouched.
