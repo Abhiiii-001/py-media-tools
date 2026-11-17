@@ -561,3 +561,6 @@
 - Analytics (16 Nov night): still 3 followers, 0 shares total. Reels 97-125 reach; 1730 images/carousels reach 1 (~14 days). Image distribution problem and duplicate `salary-pigeon` alert still pending for the owner. Risk: low.
 - Env note: detached HEAD at start (already at origin/main); python3.13 + system ffmpeg.
 - Script: content/scripts/batch_2026-11-19.py
+
+## 2026-11-17 ~16:00 IST (cloud run, trend check)
+- Nothing missing: 17-19 Nov all filled; 20 Nov would break the 3-day cap. No swap: searches gave no on-brand India trend dated today (only a Bay of Bengal cyclone item, which the hard limits rule out). Tonight's 2100 `refund-wait` and tomorrow's Test-night reel stay. Backlog untouched. Env note: detached HEAD at start, reset to origin/main.
