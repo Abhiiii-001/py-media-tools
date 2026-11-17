@@ -543,3 +543,21 @@
 
 ## 2026-11-16 ~16:00 IST (cloud run, trend check)
 - Nothing missing: 16-18 Nov all filled; 19 Nov would break the 3-day cap. No swap: searches only gave stale items (newest ~9-11 Nov) and no verified 5th ODI result. Also skipped an EPFO PF-cap story because I couldn't verify its date and it's government policy (borderline). Tonight's 2100 `office-ac` stays. For tomorrow's runs: the 1st NZ Test starts 19 Nov at ~3:30 AM IST, so the 17 Nov 9 AM run can make a Test-timing joke for 19 Nov. Backlog untouched.
+
+## 2026-11-17 ~09:00 IST (cloud run, morning fill + trend swap)
+- Trend swap for Wed 18 Nov (tomorrow): IND vs NZ 1st Test starts Thu 19 Nov, 3:30 AM IST, Basin Reserve (mykhel, Khel Now, ESPN 11:00 local, Wisden UTC+13 all agree). Posting at 9 PM the night before is the right moment.
+  - Moved evergreen 2100 `wifi-gaya` reel + its tied 2130 question story to `content/backlog/` (`wifi-gaya-reel`, `wifi-gaya-question-story`), reuse later as a pair.
+  - New 2100 reel `test-3-30`: 'Kal 3:30 baje Test, main: poora dekhunga' -> 3:15 alarm, chai ready, 'bas reels dekh ke sota hu' -> Roll Safe 'raat 1 baje: soyunga hi nahi, simple' -> "3:40 AM: toss dekha, pehli ball pe 'bas 2 min', utha 10:20 office late, score WhatsApp se". Result-agnostic, no players named. Different angle from 15 Nov `sunday-match-alarm` (that was 'no alarm needed', this is 'plan fails'). Shares: 'main toh poora dekhunga' friend tag.
+  - New 2130 question story: kal 3:30 baje Test ke liye alarm kisne lagaya hai? Aur uthega kaun?
+- Filled Thu 19 Nov (2 days out, evergreen):
+  - 1000 mood story: "Guruvaar ki subah" Friday abhi bhi 1 din door / chai chauthi / energy 15%.
+  - 1300 reel `wahin-rakha-hai`: Mummy 'fridge mein dekh, wahin rakha hai' -> 5 min dhoondha, nahi hai -> 3 Idiots old man shouting 'Mummy, aate hue' -> "1 second mein nikal diya, 'aankhein hai ya button?', 'maine dhoondh liya na toh...'". New topic; shares: sibling tag.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `dinner-plan`: Expanding Brain (2nd use), "Mahine ke last week ka dinner plan": Swiggy -> dal chawal -> Maggi aadha packet -> 'aaj bhook nahi hai', footer "Salary 1 ko aayegi, bhook bhi tab". Shares: roommate tag.
+  - 2100 reel `lunch-kahan`: office group 'aaj lunch kahan?' -> 40 min charcha, 'kuch bhi chalega' veto -> Panchayat office 'lunch committee ki meeting' -> "2:15 PM: wahi canteen, wahi rajma chawal, kal phir wahi sawaal". New topic; shares: send to lunch group.
+  - 2130 question story: office mein 'lunch kahan?' decide hone mein kitna time lagta hai?
+- Note for tomorrow's runs: 19 Nov 1300 is evergreen; a Test Day-1 swap is possible on 18 Nov if something non-player-specific fits, but don't swap the 18 Nov Test reel.
+- Checks: all frames and stories viewed; Test reel beat-3 caption overflowed, shortened and re-rendered.
+- Analytics (16 Nov night): still 3 followers, 0 shares total. Reels 97-125 reach; 1730 images/carousels reach 1 (~14 days). Image distribution problem and duplicate `salary-pigeon` alert still pending for the owner. Risk: low.
+- Env note: detached HEAD at start (already at origin/main); python3.13 + system ffmpeg.
+- Script: content/scripts/batch_2026-11-19.py
