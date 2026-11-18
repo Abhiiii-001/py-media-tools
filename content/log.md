@@ -577,3 +577,6 @@
 - Analytics (17 Nov night): still 3 followers, 0 shares total. Reels 100-131 reach (refund-wait 131 views, best this week); 1730 images still reach 1 (~15 days). The image distribution problem and the duplicate `salary-pigeon` alert are still waiting on the owner. Risk: low.
 - Env note: on main and up to date at start; python3.13 + system ffmpeg.
 - Script: content/scripts/batch_2026-11-20.py
+
+## 2026-11-18 ~16:00 IST (cloud run, trend check)
+- Nothing missing: 18-20 Nov all filled; 21 Nov would break the 3-day cap. No swap: India search found nothing on-brand dated today (BGMI update, a royal visit and box office are all off-niche or about real people). The 1st NZ Test (19-23 Nov, Basin Reserve, confirmed again) is already covered by tonight's 2100 `test-3-30` reel, and a second Test joke tomorrow would be overkill, so 19 Nov stays evergreen. Backlog untouched. Analytics (17 Nov night): 3 followers, 0 shares, reels ~113-131 reach, images reach 1. Env: detached HEAD, reset to origin/main.
