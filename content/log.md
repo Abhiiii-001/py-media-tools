@@ -564,3 +564,16 @@
 
 ## 2026-11-17 ~16:00 IST (cloud run, trend check)
 - Nothing missing: 17-19 Nov all filled; 20 Nov would break the 3-day cap. No swap: searches gave no on-brand India trend dated today (only a Bay of Bengal cyclone item, which the hard limits rule out). Tonight's 2100 `refund-wait` and tomorrow's Test-night reel stay. Backlog untouched. Env note: detached HEAD at start, reset to origin/main.
+
+## 2026-11-18 ~09:00 IST (cloud run, morning fill)
+- 18-19 Nov already full. Filled Fri 20 Nov (2 days out, evergreen):
+  - 1000 mood story: "Shukravaar ki subah": Friday aa gaya, body abhi Wednesday pe / energy 40% sirf ummeed pe (wrap fixed).
+  - 1300 reel `bank-kyc`: bank SMS 'KYC update karo, bas 10 min' -> half day, token 47, counter 3 -> 5 -> 'lunch ke baad' -> Panchayat 'Dekh raha hai Binod' -> "3:55 PM: server down, kal photocopy leke aana, kal phir half day". New topic, no bank named; shares: 'jiska KYC 3 baar update hua' friend tag.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `shagun-udhaar`: They Don't Know (2nd use, last 30 Oct): "Shaadi mein sab naach rahe hai. Inhe nahi pata shagun ka lifafa maine udhaar leke bhara hai", footer "Sab naach rahe hai, balance nahi". Shaadi season is on now; shares: 'jiske is mahine 4 shaadi hai'. The first render had the label on the guy's face and the setup didn't match the picture, so I moved the joke into the caption and re-rendered.
+  - 2100 reel `movie-dhoondh`: Friday 10 PM 'aaj acchi movie' -> 3 apps, 12 trailers, rating 8 chahiye -> Raju pose 'bas ye final, pakka' -> "11:22 PM: khana thanda, aankh lag gayi, credits, phir wahi purana show". Different from the 11 Nov binge reel (this one is about choosing, not bingeing); shares: 'tu hi suggest kar' friend tag.
+  - 2130 question story: movie choose karne mein zyada time ya dekhne mein? (ties to 2100)
+- Trend check: no swap. India search gave nothing dated today (newest ~16 Nov, mostly off-limits/politics). Tonight's 2100 `test-3-30` reel for the 1st NZ Test (verified on 17 Nov) stays. Dropped a winter nahana idea (already posted 12 Nov). Backlog untouched.
+- Analytics (17 Nov night): still 3 followers, 0 shares total. Reels 100-131 reach (refund-wait 131 views, best this week); 1730 images still reach 1 (~15 days). The image distribution problem and the duplicate `salary-pigeon` alert are still waiting on the owner. Risk: low.
+- Env note: on main and up to date at start; python3.13 + system ffmpeg.
+- Script: content/scripts/batch_2026-11-20.py
