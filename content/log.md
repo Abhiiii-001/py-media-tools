@@ -592,3 +592,6 @@
 - Analytics (18 Nov night): 3 followers, 0 shares. Reels 105-129 reach; 1730 images still reach 0-1. The image-distribution problem is still waiting on the owner. Risk: low.
 - Env: detached HEAD at start, reset to origin/main; python3.13 (system python's PIL is broken).
 - Script: content/scripts/batch_2026-11-21.py
+
+## 2026-11-19 ~16:00 IST (cloud run, trend check)
+- Nothing missing: 19-21 Nov all filled; 22 Nov would break the 3-day cap. No swap: the India search found nothing on-brand dated today (newest ~9-13 Nov: U19 Asia Cup final vs Pakistan with no confirmed date and a rivalry angle that's too risky, SA tour squads, Ramayana box office, politics). The NZ Test was already done in the 18 Nov reel. Tonight's 2100 `lunch-kahan` stays. Backlog untouched. Env: detached HEAD at start, checked out main (up to date).
