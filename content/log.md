@@ -580,3 +580,15 @@
 
 ## 2026-11-18 ~16:00 IST (cloud run, trend check)
 - Nothing missing: 18-20 Nov all filled; 21 Nov would break the 3-day cap. No swap: India search found nothing on-brand dated today (BGMI update, a royal visit and box office are all off-niche or about real people). The 1st NZ Test (19-23 Nov, Basin Reserve, confirmed again) is already covered by tonight's 2100 `test-3-30` reel, and a second Test joke tomorrow would be overkill, so 19 Nov stays evergreen. Backlog untouched. Analytics (17 Nov night): 3 followers, 0 shares, reels ~113-131 reach, images reach 1. Env: detached HEAD, reset to origin/main.
+
+## 2026-11-19 ~09:00 IST (cloud run, morning fill)
+- 19-20 Nov already full. Filled Sat 21 Nov (2 days out, evergreen):
+  - 1000 mood story: "Shanivaar ki subah": chutti hai par mummy ki list pehle se ready / energy 70% (abhi tak). Leads into the 1300 reel.
+  - 1300 reel `ghar-pe-hai-na`: 'aaj sirf aaram karunga' -> Mummy 'aaj ghar pe hai na?' cylinder, bijli bill, darzi, pankha -> Phir Hera Pheri trio run "'dost bula raha hai' bolke nikalte hue" -> "Shaam 7: dost ka phone band, list 2 kaam lambi, pankha abhi bhi ganda, Monday ka wait". New topic; shares: sibling tag.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `kal-milte-hai`: Drake (first use in a while), "Group pe Saturday night ka plan": no to 'bahar milte hai, pakka', yes to "10 baje: 'kal milte hai yaar, thak gaya'". Footer: "Plan har hafte, milna saal mein ek baar". Shares: send to the friend group. Footer shortened after it wrapped.
+  - 2100 reel + 2130 question story: gap filler from the backlog, the `wifi-gaya` pair (moved out 17 Nov for the Test swap). Saturday night at home fits it.
+- Trend check: no swap. The India search found nothing dated today (newest results ~13 Nov: Mumbai firework ban, SA tour squads, U19 Asia Cup, Ramayana box office), all stale, off-niche or about real people. Backlog now holds the `sunday-screen-time` reel + teaser (for a Sunday) and the orphan `saturday-alarm` teaser.
+- Analytics (18 Nov night): 3 followers, 0 shares. Reels 105-129 reach; 1730 images still reach 0-1. The image-distribution problem is still waiting on the owner. Risk: low.
+- Env: detached HEAD at start, reset to origin/main; python3.13 (system python's PIL is broken).
+- Script: content/scripts/batch_2026-11-21.py
