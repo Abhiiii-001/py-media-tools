@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-11-18T01:00:41",
+  "generated_at": "2026-11-19T00:30:25",
   "account": {
     "username": "thaka_hua_desi",
     "followers_count": 3,
-    "media_count": 105,
+    "media_count": 108,
     "id": "39385901121055027"
   },
   "media": [
+    {
+      "id": "18108793538205650",
+      "caption": "Match 3:30 baje tha, meri neend 3:31 pe aa gayi 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/Df41M8hE0pK/",
+      "timestamp": "2026-11-18T15:30:45+0000",
+      "insights": {
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 2
+      }
+    },
+    {
+      "id": "18192833989412587",
+      "caption": "Mujhe 11 baje phone band karne bola, khud 11:45 pe 'Good night' bhej rahi hai 🙂",
+      "media_type": "IMAGE",
+      "permalink": "https://www.instagram.com/p/Df4dJNOFo-z/",
+      "timestamp": "2026-11-18T12:00:17+0000",
+      "insights": {
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 0
+      }
+    },
+    {
+      "id": "18003877761011974",
+      "caption": "20 minute bola, suna sirf mere mic ne 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/Df3-QCIDMEO/",
+      "timestamp": "2026-11-18T07:30:34+0000",
+      "insights": {
+        "reach": 105,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 120
+      }
+    },
     {
       "id": "18172011355482158",
       "caption": "Pickup 2 minute mein, refund 2 hafte mein, aur sale 2 second mein 🙂",
@@ -14,13 +62,13 @@
       "permalink": "https://www.instagram.com/reel/Df2QZ_mnJR0/",
       "timestamp": "2026-11-17T15:30:34+0000",
       "insights": {
-        "reach": 118,
+        "reach": 120,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 131
+        "views": 134
       }
     },
     {
@@ -62,13 +110,13 @@
       "permalink": "https://www.instagram.com/reel/Dfzrl9GklGm/",
       "timestamp": "2026-11-16T15:30:35+0000",
       "insights": {
-        "reach": 128,
+        "reach": 129,
         "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 1,
-        "views": 148
+        "views": 149
       }
     },
     {
@@ -437,54 +485,6 @@
         "saved": 0,
         "total_interactions": 0,
         "views": 124
-      }
-    },
-    {
-      "id": "17911453854566072",
-      "caption": "Diwali bhi Sunday ko aayi, chutti ne bhi weekend mein adjust kar liya 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DffFO-xIFUJ/",
-      "timestamp": "2026-11-08T15:30:36+0000",
-      "insights": {
-        "reach": 128,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 147
-      }
-    },
-    {
-      "id": "18139966426643861",
-      "caption": "Mithai baad mein milti hai, salary ka sawaal pehle 🙂",
-      "media_type": "IMAGE",
-      "permalink": "https://www.instagram.com/p/DfetMgAmyAJ/",
-      "timestamp": "2026-11-08T12:00:18+0000",
-      "insights": {
-        "reach": 1,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 2
-      }
-    },
-    {
-      "id": "18060083726567331",
-      "caption": "Soan papdi ne pura mohalla ghoom liya, khaya kisi ne nahi 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DfeOTaQmDU5/",
-      "timestamp": "2026-11-08T07:30:24+0000",
-      "insights": {
-        "reach": 111,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 121
       }
     }
   ]
