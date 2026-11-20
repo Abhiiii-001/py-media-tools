@@ -607,3 +607,13 @@
 - Analytics (20 Nov 00:41): still 3 followers, 0 shares. Reels 105-121 reach, BUT the 18 Nov 2100 `test-3-30` cricket reel only got reach 2 / 3 views after a full day (maybe flagged or held back; worth checking in the app). 1730 images still reach 1. The image distribution problem is still waiting on the owner. Risk: low.
 - Env: detached HEAD at start, checked out main; python3.13 (needed pip install -r requirements.txt).
 - Script: content/scripts/batch_2026-11-22.py
+
+## 2026-11-20 ~16:00 IST (cloud run, trend check)
+- Nothing missing: 20-22 Nov all filled; 23 Nov would break the 3-day cap.
+- TREND SWAP (today 2100 + 2130): GTA 6 launched in India 19 Nov (PS5/Xbox, Rs 5,999 standard, ~200GB+, PS5 bundle ~Rs 70k+, verified via 91mobiles / analyticsinsight; "GTA 6" also trending on X India today).
+  - 2100 reel `gta-salary`: 'GTA 6 aa gaya, bachpan se wait tha' -> hisaab: game 5,999 + PS5, total 70 hazaar+, account mein Rs 4,312 -> Hera Pheri trio shock 'EMI calculator khola' -> "Final plan: 200 GB ka game, phone mein 3 GB, YouTube pe gameplay dekh liya, 'graphics mast hai yaar'". Salary angle, no real people. Shares: tag the friend with a PS5 ('bas ek mission').
+  - 2130 question story: GTA 6 ka plan? PS5 kharidoge ya dost ke ghar 'bas ek mission'?
+  - Moved evergreen `movie-dhoondh` reel + its question story to content/backlog/ (good for a future Friday/Saturday gap).
+- Tomorrow (21 Nov) stays as is; a second GTA joke would be overkill. International Men's Day (19 Nov) is already past. Risk: low (brand name only, no mockery).
+- Env: detached HEAD at start, checked out main; python3.13.
+- Script: content/scripts/swap_2026-11-20.py
