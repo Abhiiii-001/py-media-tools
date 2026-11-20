@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-11-19T00:30:25",
+  "generated_at": "2026-11-20T00:41:33",
   "account": {
     "username": "thaka_hua_desi",
     "followers_count": 3,
-    "media_count": 108,
+    "media_count": 111,
     "id": "39385901121055027"
   },
   "media": [
+    {
+      "id": "18577463287078616",
+      "caption": "40 minute discussion, result wahi rajma chawal 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/Df7Z-mYDe7b/",
+      "timestamp": "2026-11-19T15:30:36+0000",
+      "insights": {
+        "reach": 39,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 47
+      }
+    },
+    {
+      "id": "18417251323089490",
+      "caption": "Mahine ke end mein bhook bhi budget dekh ke lagti hai 🙂",
+      "media_type": "IMAGE",
+      "permalink": "https://www.instagram.com/p/Df7B8Cum4td/",
+      "timestamp": "2026-11-19T12:00:16+0000",
+      "insights": {
+        "reach": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 5
+      }
+    },
+    {
+      "id": "18020224016974248",
+      "caption": "5 minute maine dhoondha, 1 second mein Mummy ne, aur taana 1 hafta chalega 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/Df6jC5xEh5L/",
+      "timestamp": "2026-11-19T07:30:35+0000",
+      "insights": {
+        "reach": 105,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1,
+        "views": 118
+      }
+    },
     {
       "id": "18108793538205650",
       "caption": "Match 3:30 baje tha, meri neend 3:31 pe aa gayi 🙂",
@@ -14,13 +62,13 @@
       "permalink": "https://www.instagram.com/reel/Df41M8hE0pK/",
       "timestamp": "2026-11-18T15:30:45+0000",
       "insights": {
-        "reach": 0,
+        "reach": 2,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 2
+        "views": 3
       }
     },
     {
@@ -30,13 +78,13 @@
       "permalink": "https://www.instagram.com/p/Df4dJNOFo-z/",
       "timestamp": "2026-11-18T12:00:17+0000",
       "insights": {
-        "reach": 0,
+        "reach": 1,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 0
+        "views": 2
       }
     },
     {
@@ -46,13 +94,13 @@
       "permalink": "https://www.instagram.com/reel/Df3-QCIDMEO/",
       "timestamp": "2026-11-18T07:30:34+0000",
       "insights": {
-        "reach": 105,
+        "reach": 106,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 120
+        "views": 121
       }
     },
     {
@@ -62,13 +110,13 @@
       "permalink": "https://www.instagram.com/reel/Df2QZ_mnJR0/",
       "timestamp": "2026-11-17T15:30:34+0000",
       "insights": {
-        "reach": 120,
+        "reach": 121,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 134
+        "views": 135
       }
     },
     {
@@ -437,54 +485,6 @@
         "saved": 0,
         "total_interactions": 0,
         "views": 113
-      }
-    },
-    {
-      "id": "18130328194884583",
-      "caption": "Neend mein 'agreed' bola, ab poora hafta wahi kaam karna hai 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DfhqG9MHMH6/",
-      "timestamp": "2026-11-09T15:31:16+0000",
-      "insights": {
-        "reach": 102,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 109
-      }
-    },
-    {
-      "id": "18170312344470202",
-      "caption": "Meeting ka ek hi outcome nikla: ek aur meeting 🙂",
-      "media_type": "IMAGE",
-      "permalink": "https://www.instagram.com/p/DfhR_UsG1gY/",
-      "timestamp": "2026-11-09T12:00:07+0000",
-      "insights": {
-        "reach": 1,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 1
-      }
-    },
-    {
-      "id": "17940854751401463",
-      "caption": "Kapde bhool gaya, par achaar 3 dabbe hai 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DfgzG4cgBhn/",
-      "timestamp": "2026-11-09T07:30:35+0000",
-      "insights": {
-        "reach": 102,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 124
       }
     }
   ]
