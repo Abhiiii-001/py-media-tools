@@ -595,3 +595,15 @@
 
 ## 2026-11-19 ~16:00 IST (cloud run, trend check)
 - Nothing missing: 19-21 Nov all filled; 22 Nov would break the 3-day cap. No swap: the India search found nothing on-brand dated today (newest ~9-13 Nov: U19 Asia Cup final vs Pakistan with no confirmed date and a rivalry angle that's too risky, SA tour squads, Ramayana box office, politics). The NZ Test was already done in the 18 Nov reel. Tonight's 2100 `lunch-kahan` stays. Backlog untouched. Env: detached HEAD at start, checked out main (up to date).
+
+## 2026-11-20 ~09:00 IST (cloud run, morning fill)
+- 20-21 Nov already full. Filled Sun 22 Nov (2 days out, evergreen):
+  - 1000 mood story: "Ravivaar ki subah": chutti ka last din / 'aaj kuch productive karunga' (nahi karunga) / energy 60% (6 baje tak).
+  - 1300 reel + 1330 teaser: gap filler from the backlog, the `sunday-screen-time` pair (made for a Sunday). Frames re-checked.
+  - 1730 image `sunday-jhapki`: Jethalal 4 reactions (2nd use), "Sunday dopahar: 'bas 20 minute ki jhapki'": 3:00 PM bas 20 min -> 7:40 PM aankh khuli, andhera -> subah hai ya shaam?? -> yaad aaya kal Monday hai. Footer "Jhapki 20 min ki thi, Sunday poora le gayi". New topic (no nap post before). Shares: 'jo har Sunday bas 20 min bolke 4 ghante sota hai' friend tag.
+  - 2100 reel `monday-shirt`: Sunday 11:40 PM 'kal office mein kya pehnu?' -> shirts dhulne mein, ek mili silwat wali, iron on, light chali gayi -> This Is Fine (first use) -> "Monday 9:30: upar se jacket, andar wahi shirt, AC band phir bhi jacket on, 'thand lag rahi hai yaar'". Different from 14 Nov `saturday-kapde` (that was laundry, this is Monday outfit panic). Shares: colleague tag.
+  - 2130 question story: Monday ke kapde Sunday raat press karte ho ya Monday subah jugaad? (ties to 2100)
+- Trend check: no swap. India search found nothing dated today; the NZ Test search only gave the Oct 2024 series and India A warm-ups, so nothing verified for Day 2. Backlog now holds only the orphan `saturday-alarm` teaser.
+- Analytics (20 Nov 00:41): still 3 followers, 0 shares. Reels 105-121 reach, BUT the 18 Nov 2100 `test-3-30` cricket reel only got reach 2 / 3 views after a full day (maybe flagged or held back; worth checking in the app). 1730 images still reach 1. The image distribution problem is still waiting on the owner. Risk: low.
+- Env: detached HEAD at start, checked out main; python3.13 (needed pip install -r requirements.txt).
+- Script: content/scripts/batch_2026-11-22.py
