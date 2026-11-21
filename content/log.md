@@ -630,3 +630,6 @@
 - Analytics (21 Nov 00:02): still 3 followers, 0 shares. ALERT: all three 20 Nov posts show reach 1, the reels included (the 1300 KYC reel got reach 1 after ~16h; reels used to get 100-130). Together with the 18 Nov cricket reel (reach 2), this looks like reels are now being held back too, not only images. The owner needs to check Account Status / recommendation eligibility in the app. Risk of content: low.
 - Env: detached HEAD at start, checked out main; python3.13.
 - Script: content/scripts/batch_2026-11-23.py
+
+## 2026-11-21 ~16:00 IST (cloud run, trend check)
+- Nothing missing: 21-23 Nov all filled; 24 Nov would break the 3-day cap. No swap: the India searches turned up nothing on-brand dated today or tomorrow (no India cricket match verified for 22 Nov, and the OTT listings are generic or devotional, so they're off-limits). Tonight's 2100 `wifi-gaya` stays. Backlog untouched. Analytics unchanged since the morning run (21 Nov 00:02), and the reach alert from that log still stands. Env: detached HEAD at start, fast-forwarded main.
