@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-11-20T00:41:33",
+  "generated_at": "2026-11-21T00:02:14",
   "account": {
     "username": "thaka_hua_desi",
     "followers_count": 3,
-    "media_count": 111,
+    "media_count": 114,
     "id": "39385901121055027"
   },
   "media": [
+    {
+      "id": "17986322357901574",
+      "caption": "Game 6 hazaar ka, console 65 hazaar ka, meri salary bas trailer dekhne layak 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/Df9-x34jvdp/",
+      "timestamp": "2026-11-20T15:30:39+0000",
+      "insights": {
+        "reach": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 1
+      }
+    },
+    {
+      "id": "18109300961374498",
+      "caption": "Lifafe mein 2100, account mein 210 🙂",
+      "media_type": "IMAGE",
+      "permalink": "https://www.instagram.com/p/Df9mu7jEfFu/",
+      "timestamp": "2026-11-20T12:00:07+0000",
+      "insights": {
+        "reach": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 1
+      }
+    },
+    {
+      "id": "17917166127514366",
+      "caption": "10 minute ka kaam tha, 2 half day kha gaya, aur KYC abhi bhi pending 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/Df9H15gitm_/",
+      "timestamp": "2026-11-20T07:30:34+0000",
+      "insights": {
+        "reach": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 2
+      }
+    },
     {
       "id": "18577463287078616",
       "caption": "40 minute discussion, result wahi rajma chawal 🙂",
@@ -14,13 +62,13 @@
       "permalink": "https://www.instagram.com/reel/Df7Z-mYDe7b/",
       "timestamp": "2026-11-19T15:30:36+0000",
       "insights": {
-        "reach": 39,
-        "likes": 0,
+        "reach": 69,
+        "likes": 2,
         "comments": 0,
         "shares": 0,
         "saved": 0,
-        "total_interactions": 0,
-        "views": 47
+        "total_interactions": 2,
+        "views": 82
       }
     },
     {
@@ -437,54 +485,6 @@
         "saved": 0,
         "total_interactions": 0,
         "views": 115
-      }
-    },
-    {
-      "id": "18096366074168327",
-      "caption": "499 ke 12 order, ab 20 din Maggi 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DfkO0qZo0qt/",
-      "timestamp": "2026-11-10T15:30:24+0000",
-      "insights": {
-        "reach": 117,
-        "likes": 2,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 2,
-        "views": 126
-      }
-    },
-    {
-      "id": "17894334717616418",
-      "caption": "Diwali pe patake nahi phode, salary phod di 🙂",
-      "media_type": "IMAGE",
-      "permalink": "https://www.instagram.com/p/Dfj2yNQlTkW/",
-      "timestamp": "2026-11-10T12:00:06+0000",
-      "insights": {
-        "reach": 1,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 1
-      }
-    },
-    {
-      "id": "18183932242439949",
-      "caption": "Meeting ne kaam bhi liya aur kaju katli bhi 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DfjX5nGkSAD/",
-      "timestamp": "2026-11-10T07:30:40+0000",
-      "insights": {
-        "reach": 101,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 113
       }
     }
   ]
