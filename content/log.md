@@ -617,3 +617,16 @@
 - Tomorrow (21 Nov) stays as is; a second GTA joke would be overkill. International Men's Day (19 Nov) is already past. Risk: low (brand name only, no mockery).
 - Env: detached HEAD at start, checked out main; python3.13.
 - Script: content/scripts/swap_2026-11-20.py
+
+## 2026-11-21 ~09:00 IST (cloud run, morning fill)
+- 21-22 Nov already full. Filled Mon 23 Nov (2 days out, evergreen):
+  - 1000 mood story: "Somvaar ki subah": alarm 5 baar / chai 0 / weekend kab khatam hua?? / energy 15%.
+  - 1300 reel `mummy-video-call`: 'Raat 9 baje, Mummy ka video call' -> 'Khaana khaya?' Maggi dikhayi, 'YE KHAANA HAI??', 'ghar kab aa raha hai?' -> Monkey Puppet "main, camera se nazar churate hue" -> "Call katne ke 2 min baad: Papa ka msg 'tu patla ho gaya', Masi ko bhi pata chal gaya, Maggi thandi". New angle (earlier mom reels were phone rules / 'ek baat batani hai' / bag / sweater). Shares: PG/hostel roommate tag.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `friday-ka-wait`: Waiting Skeleton, "Main, Monday 10:05 AM se Friday 6 baje ka wait karte hue", footer "Abhi sirf 4 din 7 ghante 55 minute baaki" (math checked). Shares: colleague tag.
+  - 2100 mascot reel `147-unread`: Monday 10:02 laptop khola -> 147 unread, 23 gentle reminders, 'URGENT' Friday 6:58 PM ka -> plan: inbox zero -> "10:04 AM: select all, mark as read, chai pe, 'spam mein hoga'". New topic (no inbox joke before). Shares: colleague tag.
+  - 2130 question story: Monday subah kitne unread mail the? Aur padhe kitne?
+- Trend check: no swap. India search found nothing on-brand dated today (only a women's hockey Asian Champions Trophy result); no NZ Test 2026 coverage could be verified. Backlog untouched (`movie-dhoondh` pair still waiting for a Friday/Saturday gap).
+- Analytics (21 Nov 00:02): still 3 followers, 0 shares. ALERT: all three 20 Nov posts show reach 1, the reels included (the 1300 KYC reel got reach 1 after ~16h; reels used to get 100-130). Together with the 18 Nov cricket reel (reach 2), this looks like reels are now being held back too, not only images. The owner needs to check Account Status / recommendation eligibility in the app. Risk of content: low.
+- Env: detached HEAD at start, checked out main; python3.13.
+- Script: content/scripts/batch_2026-11-23.py
