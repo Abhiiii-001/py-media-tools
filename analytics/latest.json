@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-11-21T23:27:51",
+  "generated_at": "2026-11-22T23:39:28",
   "account": {
     "username": "thaka_hua_desi",
     "followers_count": 3,
-    "media_count": 117,
+    "media_count": 120,
     "id": "39385901121055027"
   },
   "media": [
+    {
+      "id": "18121590014016352",
+      "caption": "Shirt pe silwatein thi, toh jacket ne izzat bacha li 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DgDIcNAko1-/",
+      "timestamp": "2026-11-22T15:31:14+0000",
+      "insights": {
+        "reach": 73,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 80
+      }
+    },
+    {
+      "id": "18113285669182256",
+      "caption": "20 minute ki jhapki li thi, Sunday hi kha gayi 🙂",
+      "media_type": "IMAGE",
+      "permalink": "https://www.instagram.com/p/DgCwUnYFmOH/",
+      "timestamp": "2026-11-22T12:00:16+0000",
+      "insights": {
+        "reach": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 2
+      }
+    },
+    {
+      "id": "17924590134454784",
+      "caption": "Phone ne sach bataya, maine phone se hi sach chhupa liya 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DgCRbYDlpsE/",
+      "timestamp": "2026-11-22T07:30:33+0000",
+      "insights": {
+        "reach": 97,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 113
+      }
+    },
     {
       "id": "18143146117618143",
       "caption": "WiFi 1 ghanta gaya, family se 1 saal ki baatein ho gayi 🙂",
@@ -14,13 +62,13 @@
       "permalink": "https://www.instagram.com/reel/DgAjo1ujab3/",
       "timestamp": "2026-11-21T15:31:07+0000",
       "insights": {
-        "reach": 100,
+        "reach": 102,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 115
+        "views": 117
       }
     },
     {
@@ -437,54 +485,6 @@
         "saved": 0,
         "total_interactions": 0,
         "views": 122
-      }
-    },
-    {
-      "id": "18150805264561457",
-      "caption": "Chai 20 ki thi, UPI ne 40 ki bana di 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DfpYabUpR8U/",
-      "timestamp": "2026-11-12T15:30:36+0000",
-      "insights": {
-        "reach": 101,
-        "likes": 2,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 2,
-        "views": 108
-      }
-    },
-    {
-      "id": "17997466034841062",
-      "caption": "Monday ka josh Thursday tak 'kal dekhenge' ban jaata hai 🙂",
-      "media_type": "IMAGE",
-      "permalink": "https://www.instagram.com/p/DfpAX7pG9-7/",
-      "timestamp": "2026-11-12T12:00:17+0000",
-      "insights": {
-        "reach": 1,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 3
-      }
-    },
-    {
-      "id": "17924036811446414",
-      "caption": "Geyser 30 min mein garam hua, mera time 30 min pehle khatam 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DfohkjCGXKt/",
-      "timestamp": "2026-11-12T07:31:16+0000",
-      "insights": {
-        "reach": 102,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 1,
-        "total_interactions": 1,
-        "views": 117
       }
     }
   ]
