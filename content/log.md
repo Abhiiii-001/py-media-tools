@@ -633,3 +633,16 @@
 
 ## 2026-11-21 ~16:00 IST (cloud run, trend check)
 - Nothing missing: 21-23 Nov all filled; 24 Nov would break the 3-day cap. No swap: the India searches turned up nothing on-brand dated today or tomorrow (no India cricket match verified for 22 Nov, and the OTT listings are generic or devotional, so they're off-limits). Tonight's 2100 `wifi-gaya` stays. Backlog untouched. Analytics unchanged since the morning run (21 Nov 00:02), and the reach alert from that log still stands. Env: detached HEAD at start, fast-forwarded main.
+
+## 2026-11-22 ~09:00 IST (cloud run, morning fill)
+- 22-23 Nov already full. Filled Tue 24 Nov (2 days out, evergreen):
+  - 1000 mood story: "Mangalvaar ki subah": Monday gaya par Monday wali feeling nahi gayi / chai 1 (aur chahiye) / energy 30%.
+  - 1300 reel `guest-almirah`: Mummy 'guest aa rahe hai, room saaf karo' -> 10 min ki safai = sab almirah mein, darwaza dhakka maarke band -> Hide the Pain (first use in a while) "Aunty: 'kitna saaf room!' Main:" -> "Guest gaye, almirah kholi: sab gir gaya, 3 hafte purane kapde, khoya hua remote, peeche mummy ki chappal". New topic. Shares: sibling tag.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `tuesday-cafe`: Squidward Window (2nd use), "Main office se, Tuesday dopahar 3 baje cafe mein baithe logo ko dekhte hue", footer "Inki naukri kya hai?? Mujhe bhi chahiye" (shortened after wrapping). Shares: the cafe-story friend.
+  - 2100 mascot reel `battery-9`: ghar se nikla, phone 9% -> cab, UPI, maps, mummy ko 'pahunch gaya' -> plan: brightness 0, saver, no reels -> "2 reel baad 1%: cab wala 'cash do', 3 km paidal, mummy ke 14 missed call, charger dost le gaya tha". New topic. Shares: the 'charger hai kya?' friend.
+  - 2130 question story: Phone kitne % pe aate hi panic shuru hota hai? (ties to 2100)
+- Trend check: no swap. India search found nothing on-brand dated today (newest ~13-15 Nov: politics, Ramayana box office, an accident: all off-limits/off-niche). The 1st NZ Test (19-23 Nov) was already done on 18 Nov; 2nd Test is 27 Nov-1 Dec (Christchurch, 3:30 AM IST), a candidate for the 26/27 Nov runs. Backlog untouched.
+- Analytics (21 Nov 23:27): still 3 followers, 0 shares. Partial recovery: 21 Nov 2100 `wifi-gaya` reel got reach 100 / 115 views, and 19 Nov reels got 69-105. But 20 Nov all three posts and the 21 Nov 1300 reel are still at reach 1, and 1730 images are always reach 1. The distribution problem still needs the owner to check Account Status. Risk of content: low.
+- Env: detached HEAD at start, checked out main; python3.13; imageio_ffmpeg missing so frames came from system ffmpeg.
+- Script: content/scripts/batch_2026-11-24.py
