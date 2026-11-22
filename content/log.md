@@ -646,3 +646,6 @@
 - Analytics (21 Nov 23:27): still 3 followers, 0 shares. Partial recovery: 21 Nov 2100 `wifi-gaya` reel got reach 100 / 115 views, and 19 Nov reels got 69-105. But 20 Nov all three posts and the 21 Nov 1300 reel are still at reach 1, and 1730 images are always reach 1. The distribution problem still needs the owner to check Account Status. Risk of content: low.
 - Env: detached HEAD at start, checked out main; python3.13; imageio_ffmpeg missing so frames came from system ffmpeg.
 - Script: content/scripts/batch_2026-11-24.py
+
+## 2026-11-22 ~16:00 IST (cloud run, trend check)
+- Nothing missing: 22-24 Nov all filled; 25 Nov would break the 3-day cap. No swap: the India search found nothing on-brand dated today (newest ~12-15 Nov: politics, Ramayana box office, an accident, all off-limits/off-niche), and no Day 4 coverage of the 1st NZ Test could be verified. Tonight's 2100 `monday-shirt` stays. Backlog untouched. Analytics unchanged since the morning run (21 Nov 23:27). Env: detached HEAD at start, checked out main (up to date).
