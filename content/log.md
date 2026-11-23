@@ -649,3 +649,16 @@
 
 ## 2026-11-22 ~16:00 IST (cloud run, trend check)
 - Nothing missing: 22-24 Nov all filled; 25 Nov would break the 3-day cap. No swap: the India search found nothing on-brand dated today (newest ~12-15 Nov: politics, Ramayana box office, an accident, all off-limits/off-niche), and no Day 4 coverage of the 1st NZ Test could be verified. Tonight's 2100 `monday-shirt` stays. Backlog untouched. Analytics unchanged since the morning run (21 Nov 23:27). Env: detached HEAD at start, checked out main (up to date).
+
+## 2026-11-23 ~09:00 IST (cloud run, morning fill)
+- 23-24 Nov already full. Filled Wed 25 Nov (2 days out, evergreen):
+  - 1000 mood story: "Budhvaar ki subah": hafta aadha gaya, main poora gaya / chai 2 / energy 25%.
+  - 1300 reel `lift-boss`: 9:58 lift mein boss -> 'aur sab badiya?' 'haan sir aap?' 'haan' ... -> Welcome sofa (awkward, 2nd use) "baaki 9 floor, hum dono" -> "Agle din se seedhi: 12 floor paidal, upar boss khada tha, 'fitness pe kaam ho raha hai kya?'". Different from 3 Nov `6-baje-nikalna` (that was getting caught leaving; this is small talk). Shares: colleague tag.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `loan-sms`: Is This A Pigeon (2nd use), "25 taareekh, account mein Rs 640, SMS aaya": Main / 'Rs 2 lakh ka pre-approved loan' / "Kya main ameer ho gaya?". New topic (no loan SMS joke before). Shares: salary-end friend tag.
+  - 2100 mascot reel `chaabi`: raat 11 baje, chaabi andar -> roommate switch off, makaan malik 'subah aana', chaabi wale Rs 800 -> 'tod do' -> "Lock tuta, 800 gaye, chaabi jacket ki doosri jeb mein thi poore time se". New topic. Shares: roommate tag.
+  - 2130 question story: Chaabi bhool ke kabhi bahar atke ho? Kitni der? (ties to 2100)
+- Trend check: no swap. India search found nothing on-brand dated today (newest ~13-15 Nov: politics, Ramayana box office, an accident, SA tour squads; Test vs SA starts 9 Dec). The 1st NZ Test result couldn't be verified. Backlog untouched.
+- Analytics (22 Nov 23:39): still 3 followers, 0 shares. Reels recovering: 21-22 Nov reels got reach 73-102 / 80-117 views, but 1730 images are always reach 1. The image distribution problem still needs the owner. Risk of content: low.
+- Env: detached HEAD at start, checked out main; python3.13; frames came from system ffmpeg.
+- Script: content/scripts/batch_2026-11-25.py
