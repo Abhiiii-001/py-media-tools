@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-11-22T23:39:28",
+  "generated_at": "2026-11-24T03:59:01",
   "account": {
     "username": "thaka_hua_desi",
     "followers_count": 3,
-    "media_count": 120,
+    "media_count": 123,
     "id": "39385901121055027"
   },
   "media": [
+    {
+      "id": "18122588350977542",
+      "caption": "147 unread the, 2 second mein zero ho gaye. Productivity 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DgFtODZD8pE/",
+      "timestamp": "2026-11-23T15:31:07+0000",
+      "insights": {
+        "reach": 98,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 1,
+        "total_interactions": 1,
+        "views": 120
+      }
+    },
+    {
+      "id": "17925769968446028",
+      "caption": "Monday shuru hue 5 minute hue the, Friday ka countdown chalu ho gaya 🙂",
+      "media_type": "IMAGE",
+      "permalink": "https://www.instagram.com/p/DgFVHr7nEg3/",
+      "timestamp": "2026-11-23T12:00:19+0000",
+      "insights": {
+        "reach": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 3
+      }
+    },
+    {
+      "id": "18073344296502643",
+      "caption": "Ek Maggi dikhayi thi, ab poore khaandan ko pata hai main patla ho gaya 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DgE2OOMHH9Z/",
+      "timestamp": "2026-11-23T07:30:34+0000",
+      "insights": {
+        "reach": 111,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 1,
+        "total_interactions": 2,
+        "views": 138
+      }
+    },
     {
       "id": "18121590014016352",
       "caption": "Shirt pe silwatein thi, toh jacket ne izzat bacha li 🙂",
@@ -14,13 +62,13 @@
       "permalink": "https://www.instagram.com/reel/DgDIcNAko1-/",
       "timestamp": "2026-11-22T15:31:14+0000",
       "insights": {
-        "reach": 73,
-        "likes": 0,
+        "reach": 100,
+        "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0,
-        "total_interactions": 0,
-        "views": 80
+        "total_interactions": 1,
+        "views": 115
       }
     },
     {
@@ -366,13 +414,13 @@
       "permalink": "https://www.instagram.com/p/Dfwu0h0lR4s/",
       "timestamp": "2026-11-15T12:00:48+0000",
       "insights": {
-        "reach": 1,
+        "reach": 2,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 5
+        "views": 7
       }
     },
     {
@@ -437,54 +485,6 @@
         "saved": 0,
         "total_interactions": 1,
         "views": 128
-      }
-    },
-    {
-      "id": "18649762123010405",
-      "caption": "'Thoda sa' bola tha, bhaiya ne poora sach kaat diya 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/Dfr9NQrCWoR/",
-      "timestamp": "2026-11-13T15:30:34+0000",
-      "insights": {
-        "reach": 113,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 130
-      }
-    },
-    {
-      "id": "18224054347342149",
-      "caption": "Syllabus 14 chapter ka tha, research pencil pe ho gayi 🙂",
-      "media_type": "IMAGE",
-      "permalink": "https://www.instagram.com/p/DfrlKyyoBoM/",
-      "timestamp": "2026-11-13T12:00:16+0000",
-      "insights": {
-        "reach": 1,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 2
-      }
-    },
-    {
-      "id": "18174871231499220",
-      "caption": "Friday 5:59 ka 'Hey' poora weekend kha gaya 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DfrGRqLFM0u/",
-      "timestamp": "2026-11-13T07:30:36+0000",
-      "insights": {
-        "reach": 113,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 122
       }
     }
   ]
