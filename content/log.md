@@ -665,3 +665,16 @@
 
 ## 2026-11-23 ~16:00 IST (cloud run, trend check)
 - Nothing missing: 23-25 Nov all filled; 26 Nov would break the 3-day cap. No swap: the India search found nothing on-brand dated today (newest ~18 Nov: Cyclone Akvan, NEET leak case, a political memoir, all off-limits), and the 1st NZ Test result (Wellington, 19-23 Nov) still couldn't be verified. Tonight's 2100 `147-unread` stays. Backlog untouched. Analytics unchanged since the morning run (22 Nov 23:39). Idea for the 25/26 Nov runs: Black Friday sale (27 Nov) + 2nd NZ Test (27 Nov, 3:30 AM IST) once dates are re-verified. Env: detached HEAD at start, checked out main (up to date).
+
+## 2026-11-24 ~09:00 IST (cloud run, morning fill)
+- 24-25 Nov already full. Filled Thu 26 Nov (2 days out, evergreen):
+  - 1000 mood story: "Guruvaar ki subah": kal Friday hai par aaj khatam nahi ho raha / chai 2 / energy 20%.
+  - 1300 meme reel `birthday-contribution`: office group 'birthday hai, sab 200 bhejo' -> is saal 11 birthday, 3 farewell, 2 shaadi, 1 promotion = Rs 3,400 -> Raju confident pose "phir mera birthday aaya" -> "4 'HBD', 1 thumbs up, cake? 'bro next week saath mein kar lenge'". New topic. Shares: the colleague who collects the money.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `bas-ek-chai`: Gru's Plan (2nd use after budget-clown era): month end Rs 400 -> plan ghar pe Maggi -> dost 'neeche aa, bas 1 chai' -> bill Rs 1,150. New angle. Shares: the 'bas ek chai' friend.
+  - 2100 mascot reel `atm-receipt`: 26 taareekh ATM, balance Rs 312, uncle jhaank rahe the, 'card ka chip kharab hai' -> receipt wahin chhod di, uncle ne padhi: 'Beta, 100 chahiye?'. New topic. Shares: month-end salary friend.
+  - 2130 question story: month end pe account mein kitna bacha hai? 3 digit wale haath upar (ties to 2100).
+- Trend check: no swap. India search found nothing on-brand dated today (newest ~18 Nov: cyclone, NEET case, politics, all off-limits). 2nd NZ Test confirmed for 27 Nov (Christchurch, 3:30 AM IST); 1st Test result still unverified. Candidate for the 25 Nov runs (27 Nov slots): 3:30 AM Test alarm (fresh angle needed, 18 Nov `test-3-30` already did the sleep joke) or Black Friday sale (re-verify). Backlog untouched.
+- Analytics unchanged (22 Nov 23:39; nightly refresh hasn't landed since): 3 followers, 0 shares, reels reach 73-102, 1730 images reach 1. Image distribution issue still needs the owner. Risk of content: low.
+- Env: python3.13 (system python3 PIL broken); frames from system ffmpeg.
+- Script: content/scripts/batch_2026-11-26.py
