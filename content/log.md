@@ -678,3 +678,6 @@
 - Analytics unchanged (22 Nov 23:39; nightly refresh hasn't landed since): 3 followers, 0 shares, reels reach 73-102, 1730 images reach 1. Image distribution issue still needs the owner. Risk of content: low.
 - Env: python3.13 (system python3 PIL broken); frames from system ffmpeg.
 - Script: content/scripts/batch_2026-11-26.py
+
+## 2026-11-24 ~16:00 IST (cloud run, trend check)
+- Nothing missing: 24-26 Nov all filled; 27 Nov would break the 3-day cap. No swap: the India search found nothing on-brand dated today (newest ~18 Nov: cyclone, NEET case, politics, all off-limits), and the 1st NZ Test result still couldn't be verified. Tonight's 2100 `battery-9` stays. Backlog untouched. For the 25 Nov runs (27 Nov slots): re-verify 2nd NZ Test (27 Nov, 3:30 AM IST) + Black Friday sale. Env: detached HEAD at start, checked out main.
