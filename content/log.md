@@ -694,3 +694,6 @@
 - Analytics (25 Nov 02:35): 3 followers, 0 shares. Reels steady at reach 97-111 / 113-142 views (24 Nov `battery-9` best at 142 views); 1730 images still reach 1 every day. The image distribution issue still needs the owner to check Account Status. Risk of content: low.
 - Env: detached HEAD at start, checked out main; python3.13; frames from system ffmpeg.
 - Script: content/scripts/batch_2026-11-27.py
+
+## 2026-11-25 ~16:00 IST (cloud run, trend check)
+- Nothing missing: 25-27 Nov all filled; 28 Nov would break the 3-day cap. No swap: India search found nothing on-brand dated today (newest ~18 Nov: cyclone, NEET case, off-limits). Black Friday (27 Nov) still has no Amazon/Flipkart India dates announced, so tomorrow's evergreen slots stay; the 1st NZ Test result still couldn't be verified. Tonight's 2100 `chaabi` stays. Backlog untouched (`saturday-alarm-teaser-story`). For the 26 Nov 9 AM run (28 Nov slots, Saturday): evergreen weekend jokes; re-check Black Friday sale dates for a possible 27 Nov swap. Env: detached HEAD at start, checked out main.
