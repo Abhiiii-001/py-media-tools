@@ -681,3 +681,16 @@
 
 ## 2026-11-24 ~16:00 IST (cloud run, trend check)
 - Nothing missing: 24-26 Nov all filled; 27 Nov would break the 3-day cap. No swap: the India search found nothing on-brand dated today (newest ~18 Nov: cyclone, NEET case, politics, all off-limits), and the 1st NZ Test result still couldn't be verified. Tonight's 2100 `battery-9` stays. Backlog untouched. For the 25 Nov runs (27 Nov slots): re-verify 2nd NZ Test (27 Nov, 3:30 AM IST) + Black Friday sale. Env: detached HEAD at start, checked out main.
+
+## 2026-11-25 ~09:00 IST (cloud run, morning fill)
+- 25-26 Nov already full. Filled Fri 27 Nov (2 days out, evergreen):
+  - 1000 mood story: "Shukravaar ki subah": body office mein, dimaag weekend pe / chai 3 / energy 15% (6 baje 100%).
+  - 1300 meme reel `shifting-help`: Friday raat dost 'bhai kal free hai?' -> 'shift kar raha hu, bas thoda sa saaman hai' -> Hera Pheri trio shock "Saturday subah, 'thoda sa'" -> "4th floor, lift nahi, 1 almirah, 1 fridge, 28 carton. Payment: 1 Pepsi aur 'tu hi asli dost hai'". New topic. Shares: the friend who only calls on shifting day.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `light-on`: Woman Yelling At Cat, "5 second ke liye paani peene nikla aur light on reh gayi" / Papa: 'Bijli muft ki hai kya??' / Main, glass haath mein. New topic. Shares: sibling tag.
+  - 2100 reel: backlog `movie-dhoondh` (Friday-night OTT selection, mascot + template) finally got its Friday slot. Frames re-checked.
+  - 2130 question story: backlog movie-dhoondh question (movie choose karne mein zyada time ya dekhne mein?), ties to 2100.
+- Trend check: no swap. India search found nothing on-brand dated today. 2nd NZ Test confirmed 27 Nov (Christchurch, 3:30 AM IST), but 18 Nov `test-3-30` already used the alarm joke. Black Friday is 27 Nov but no Amazon/Flipkart India dates announced; a generic Black Friday post could go into a 26/27 Nov slot via swap on the 4 PM or tomorrow's run if a sale is confirmed. Backlog left: `saturday-alarm-teaser-story` only.
+- Analytics (25 Nov 02:35): 3 followers, 0 shares. Reels steady at reach 97-111 / 113-142 views (24 Nov `battery-9` best at 142 views); 1730 images still reach 1 every day. The image distribution issue still needs the owner to check Account Status. Risk of content: low.
+- Env: detached HEAD at start, checked out main; python3.13; frames from system ffmpeg.
+- Script: content/scripts/batch_2026-11-27.py
