@@ -697,3 +697,16 @@
 
 ## 2026-11-25 ~16:00 IST (cloud run, trend check)
 - Nothing missing: 25-27 Nov all filled; 28 Nov would break the 3-day cap. No swap: India search found nothing on-brand dated today (newest ~18 Nov: cyclone, NEET case, off-limits). Black Friday (27 Nov) still has no Amazon/Flipkart India dates announced, so tomorrow's evergreen slots stay; the 1st NZ Test result still couldn't be verified. Tonight's 2100 `chaabi` stays. Backlog untouched (`saturday-alarm-teaser-story`). For the 26 Nov 9 AM run (28 Nov slots, Saturday): evergreen weekend jokes; re-check Black Friday sale dates for a possible 27 Nov swap. Env: detached HEAD at start, checked out main.
+
+## 2026-11-26 ~09:00 IST (cloud run, morning fill)
+- 26-27 Nov already full. Filled Sat 28 Nov (2 days out, evergreen):
+  - 1000 mood story: "Shanivaar ki subah": aaj ka plan kuch nahi, progress 100% / chai 2 / energy 50% (Monday tak bachake).
+  - 1300 meme reel `storage-full`: 'Storage almost full' -> 6,212 photos, 3,400 screenshots, 2 GB family-group 'Good Morning' -> Hide the Pain Harold "har photo pe 'ye toh zaroori hai'" -> "Delete kiya: 1 blurry photo, kharid liya 100 GB Rs 130/month, EMI list mein ek aur". New topic. Shares: friend whose phone is always full.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `din-bhar-kya-kiya`: Monkey Puppet, Saturday shaam Mummy 'aaj din bhar kya kiya?' / Main, jo 2 baje utha aur 4 baje phir so gaya. New angle (monkey puppet last used in a 23 Nov reel, first image use in a while). Shares: lazy-weekend friend/sibling tag.
+  - 2100 mascot reel `free-delivery`: cart Rs 149 -> 'Rs 50 aur, free delivery!' -> coke + brownie 'bachat ho gayi' -> "Delivery bachayi Rs 35, extra uda diye Rs 159, aur proud bhi hu". New topic (earlier delivery/refund/card-bill reels were different jokes). Shares: the 'bas 50 aur' friend.
+  - 2130 question story: free delivery ke chakkar mein kitna extra uda diya? (ties to 2100).
+- Trend check: no swap. India search found nothing on-brand dated today. Black Friday is 27 Nov but still no Amazon/Flipkart India 2026 dates confirmed (only projections), so the 27 Nov evergreen slots stay. Backlog untouched (`saturday-alarm-teaser-story`, a teaser for an already-posted reel, so it's not usable as a 1330 teaser).
+- Analytics (26 Nov 01:49): 3 followers, 0 shares. 24 Nov reels 105/101 reach (battery-9 145 views best); 25 Nov reels only 16-32 reach so far (early numbers, possibly a dip). 1730 images still reach 1 every day: the image distribution issue still needs the owner to check Account Status. Risk of content: low.
+- Env: detached HEAD at start, checked out main; python3.13; frames from system ffmpeg. 1730 monkey-puppet template has built-in white space above the still (template asset, readable as is).
+- Script: content/scripts/batch_2026-11-28.py
