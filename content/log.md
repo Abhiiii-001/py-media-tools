@@ -710,3 +710,6 @@
 - Analytics (26 Nov 01:49): 3 followers, 0 shares. 24 Nov reels 105/101 reach (battery-9 145 views best); 25 Nov reels only 16-32 reach so far (early numbers, possibly a dip). 1730 images still reach 1 every day: the image distribution issue still needs the owner to check Account Status. Risk of content: low.
 - Env: detached HEAD at start, checked out main; python3.13; frames from system ffmpeg. 1730 monkey-puppet template has built-in white space above the still (template asset, readable as is).
 - Script: content/scripts/batch_2026-11-28.py
+
+## 2026-11-26 ~16:00 IST (cloud run, trend check)
+- Nothing missing: 26-28 Nov all filled; 29 Nov would break the 3-day cap. No swap: India trend search returned nothing dated today, and Amazon/Flipkart India Black Friday 2026 dates are still unannounced (only "expected" listings), so tonight's 2100 `atm-receipt` and tomorrow's evergreen slots stay. Backlog untouched (`saturday-alarm-teaser-story`). For the 27 Nov 9 AM run (29 Nov slots, Sunday): evergreen Sunday/Monday-dread jokes; re-check whether a Black Friday sale went live for a possible 28 Nov swap. Env: detached HEAD at start, checked out main.
