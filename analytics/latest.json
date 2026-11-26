@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-11-25T02:35:10",
+  "generated_at": "2026-11-26T01:49:51",
   "account": {
     "username": "thaka_hua_desi",
     "followers_count": 3,
-    "media_count": 126,
+    "media_count": 129,
     "id": "39385901121055027"
   },
   "media": [
+    {
+      "id": "18473305879141273",
+      "caption": "Chaabi poore time jeb mein thi, bas dimaag ghar pe reh gaya tha 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DgK2zRkht8J/",
+      "timestamp": "2026-11-25T15:31:03+0000",
+      "insights": {
+        "reach": 16,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 18
+      }
+    },
+    {
+      "id": "17983923330139523",
+      "caption": "Account mein 640, SMS mein 2 lakh, dil mein Ambani 🙂",
+      "media_type": "IMAGE",
+      "permalink": "https://www.instagram.com/p/DgKetV1G5Tp/",
+      "timestamp": "2026-11-25T12:00:17+0000",
+      "insights": {
+        "reach": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 1
+      }
+    },
+    {
+      "id": "18653470201017499",
+      "caption": "Lift 40 second ki thi, awkwardness 40 saal ki 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DgJ_0HNpU_h/",
+      "timestamp": "2026-11-25T07:30:34+0000",
+      "insights": {
+        "reach": 32,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 34
+      }
+    },
     {
       "id": "18644182603025505",
       "caption": "9% mein poora din chalana tha, 2 reel mein khatam 🙂",
@@ -14,13 +62,13 @@
       "permalink": "https://www.instagram.com/reel/DgIR9BkiT4F/",
       "timestamp": "2026-11-24T15:30:37+0000",
       "insights": {
-        "reach": 104,
+        "reach": 105,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 142
+        "views": 145
       }
     },
     {
@@ -437,54 +485,6 @@
         "saved": 0,
         "total_interactions": 0,
         "views": 117
-      }
-    },
-    {
-      "id": "18103251257553591",
-      "caption": "7 din ka khana banaya tha, 6 din Swiggy ne khilaya 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DfxG36lE5R5/",
-      "timestamp": "2026-11-15T15:31:17+0000",
-      "insights": {
-        "reach": 108,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 128
-      }
-    },
-    {
-      "id": "18126822524011477",
-      "caption": "15 taareekh aa gayi aur salary chali gayi",
-      "media_type": "CAROUSEL_ALBUM",
-      "permalink": "https://www.instagram.com/p/Dfwu0h0lR4s/",
-      "timestamp": "2026-11-15T12:00:48+0000",
-      "insights": {
-        "reach": 2,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 7
-      }
-    },
-    {
-      "id": "18267357202307817",
-      "caption": "Office ke liye 5 snooze, match ke liye 7 baje bina alarm 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/DfwP3RWDxhc/",
-      "timestamp": "2026-11-15T07:30:34+0000",
-      "insights": {
-        "reach": 98,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 1,
-        "views": 122
       }
     }
   ]
