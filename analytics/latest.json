@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-11-26T01:49:51",
+  "generated_at": "2026-11-27T01:47:46",
   "account": {
     "username": "thaka_hua_desi",
     "followers_count": 3,
-    "media_count": 129,
+    "media_count": 132,
     "id": "39385901121055027"
   },
   "media": [
+    {
+      "id": "18111723767358017",
+      "caption": "Balance 3 digit ka tha, izzat usse bhi kam bachi 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DgNbim4BKu4/",
+      "timestamp": "2026-11-26T15:30:35+0000",
+      "insights": {
+        "reach": 113,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1,
+        "views": 139
+      }
+    },
+    {
+      "id": "17980591809180572",
+      "caption": "Plan Maggi ka tha, dost 'bas ek chai' bolke pura budget pee gaya 🙂",
+      "media_type": "IMAGE",
+      "permalink": "https://www.instagram.com/p/DgNDgGFGx6n/",
+      "timestamp": "2026-11-26T12:00:16+0000",
+      "insights": {
+        "reach": 1,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 4
+      }
+    },
+    {
+      "id": "18097603577679053",
+      "caption": "3,400 diye, badle mein 4 'HBD' mile, wo bhi spelling galat 🙂",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DgMknAeMWQf/",
+      "timestamp": "2026-11-26T07:30:35+0000",
+      "insights": {
+        "reach": 100,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "views": 121
+      }
+    },
     {
       "id": "18473305879141273",
       "caption": "Chaabi poore time jeb mein thi, bas dimaag ghar pe reh gaya tha 🙂",
@@ -14,13 +62,13 @@
       "permalink": "https://www.instagram.com/reel/DgK2zRkht8J/",
       "timestamp": "2026-11-25T15:31:03+0000",
       "insights": {
-        "reach": 16,
-        "likes": 0,
+        "reach": 103,
+        "likes": 1,
         "comments": 0,
         "shares": 0,
         "saved": 0,
-        "total_interactions": 0,
-        "views": 18
+        "total_interactions": 1,
+        "views": 116
       }
     },
     {
@@ -46,13 +94,13 @@
       "permalink": "https://www.instagram.com/reel/DgJ_0HNpU_h/",
       "timestamp": "2026-11-25T07:30:34+0000",
       "insights": {
-        "reach": 32,
+        "reach": 38,
         "likes": 0,
         "comments": 0,
         "shares": 0,
         "saved": 0,
         "total_interactions": 0,
-        "views": 34
+        "views": 39
       }
     },
     {
@@ -437,54 +485,6 @@
         "saved": 0,
         "total_interactions": 0,
         "views": 128
-      }
-    },
-    {
-      "id": "18203218807391629",
-      "caption": "Bahar sardi, andar Shimla, aur remote admin ki jeb mein 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/Dfzrl9GklGm/",
-      "timestamp": "2026-11-16T15:30:35+0000",
-      "insights": {
-        "reach": 129,
-        "likes": 1,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 1,
-        "views": 149
-      }
-    },
-    {
-      "id": "18085627991523325",
-      "caption": "Plan 6 baje ka tha, razai ne 9 baje tak meeting rakh li 🙂",
-      "media_type": "IMAGE",
-      "permalink": "https://www.instagram.com/p/DfzTjZIFjH1/",
-      "timestamp": "2026-11-16T12:00:16+0000",
-      "insights": {
-        "reach": 1,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 1
-      }
-    },
-    {
-      "id": "18129025171918630",
-      "caption": "Monday ka pehla kaam: password yaad karna, aur wahi nahi hua 🙂",
-      "media_type": "VIDEO",
-      "permalink": "https://www.instagram.com/reel/Dfy0qL_GzyU/",
-      "timestamp": "2026-11-16T07:30:24+0000",
-      "insights": {
-        "reach": 100,
-        "likes": 0,
-        "comments": 0,
-        "shares": 0,
-        "saved": 0,
-        "total_interactions": 0,
-        "views": 117
       }
     }
   ]
