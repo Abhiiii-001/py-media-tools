@@ -726,3 +726,6 @@
 - Analytics (27 Nov 01:47): 3 followers, 0 shares. Reels steady ~100-113 reach / 116-145 views (26 Nov atm-receipt 139 views); 25 Nov lift-boss stayed low at 38. 1730 images still reach 1 every day: the image distribution issue still needs the owner to check Account Status. Risk of content: low.
 - Env: detached HEAD at start, checked out main; python3.13; frames from system ffmpeg.
 - Script: content/scripts/batch_2026-11-29.py
+
+## 2026-11-27 ~16:00 IST (cloud run, trend check)
+- Nothing missing: 27-29 Nov all filled; 30 Nov would break the 3-day cap. No swap: India trend search had nothing on-brand that could be confirmed for today (Google Trends showed an undated "zimbabwe vs india", not verified, so not used). Black Friday is today, but Amazon/Flipkart/Myntra India 2026 sales are still unconfirmed, so tonight's 2100 `movie-dhoondh` (Friday fit) and tomorrow's evergreen slots stay. Backlog untouched (`saturday-alarm-teaser-story`). For the 28 Nov 9 AM run (30 Nov slots, Monday): evergreen Monday/salary-end-of-month jokes (30 Nov = month end, salary day eve). Env: detached HEAD at start, checked out main.
