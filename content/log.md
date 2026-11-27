@@ -713,3 +713,16 @@
 
 ## 2026-11-26 ~16:00 IST (cloud run, trend check)
 - Nothing missing: 26-28 Nov all filled; 29 Nov would break the 3-day cap. No swap: India trend search returned nothing dated today, and Amazon/Flipkart India Black Friday 2026 dates are still unannounced (only "expected" listings), so tonight's 2100 `atm-receipt` and tomorrow's evergreen slots stay. Backlog untouched (`saturday-alarm-teaser-story`). For the 27 Nov 9 AM run (29 Nov slots, Sunday): evergreen Sunday/Monday-dread jokes; re-check whether a Black Friday sale went live for a possible 28 Nov swap. Env: detached HEAD at start, checked out main.
+
+## 2026-11-27 ~09:00 IST (cloud run, morning fill)
+- 27-28 Nov already full. Filled Sun 29 Nov (2 days out, evergreen):
+  - 1000 mood story: "Ravivaar ki subah": uthne ka time jab mann kare / chai 1 / energy 40% / Monday ka dar 60% (shaam tak 100%).
+  - 1300 meme reel `papa-10-minute`: Sunday 11 baje Papa 'chal, bas 10 minute ka kaam' -> hardware dukaan, passbook, 'Gupta ji se mil lete' -> Waiting Skeleton "Papa: 'bas 2 minute, andar se aaya'" -> "4 ghante baad: Sunday khatam, kaam hua 1 nut-bolt Rs 12 ka, Papa: 'dekha, jaldi ho gaya'". New topic. Shares: sibling tag.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `shaam-6-baje`: Two Guys on a Bus (2nd use), "Shaam 6 baje, same chai, same balcony": sad = Sunday wala main 'kal Monday hai', happy = Saturday wala main 'kal Sunday hai'. Footer: 24 ghante mein personality badal gayi. Shares: colleague tag on Sunday evening.
+  - 2100 mascot reel `neend-hisaab`: Sunday raat 10 baje '9 ghante neend, perfect' -> 12:30 '6.5 bhi kaafi' -> 2:10 'log 4 mein bhi jeete hai' -> "3:40 AM: 'ab sone ka kya fayda, seedha nahake office' / 6:55 AM: so gaya". New angle (raat-2-baje was overthinking, monday-quick-call was anxiety). Shares: the 'bas 1 reel aur' friend.
+  - 2130 question story: Sunday raat kitne baje sote ho actually? (ties to 2100).
+- Trend check: no swap. India trend search returned nothing dated today; Black Friday (today) still has no confirmed Amazon/Flipkart/Myntra India 2026 sale (only mid-Nov "not announced" reports), so the 27/28 Nov evergreen slots stay. Backlog untouched (`saturday-alarm-teaser-story`, unusable as a teaser).
+- Analytics (27 Nov 01:47): 3 followers, 0 shares. Reels steady ~100-113 reach / 116-145 views (26 Nov atm-receipt 139 views); 25 Nov lift-boss stayed low at 38. 1730 images still reach 1 every day: the image distribution issue still needs the owner to check Account Status. Risk of content: low.
+- Env: detached HEAD at start, checked out main; python3.13; frames from system ffmpeg.
+- Script: content/scripts/batch_2026-11-29.py
