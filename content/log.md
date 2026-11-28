@@ -742,3 +742,6 @@
 - Analytics (28 Nov 01:29): 3 followers, 0 shares. WARNING: all 27 Nov posts, reels included, show reach 1 / views 2-3 at ~12h age, while 24-26 Nov reels had 100-145 views at the same age. Reel distribution looks like it collapsed overnight on top of the long-running image reach-1 issue. Owner notified to check Account Status / restrictions. Risk of content: low.
 - Env: detached HEAD at start, checked out main; python3.13 (+ imageio-ffmpeg installed); frames from system ffmpeg. Fixed cramped Two Buttons labels and two story line-wraps before shipping.
 - Script: content/scripts/batch_2026-11-30.py
+
+## 2026-11-28 ~16:00 IST (cloud run, trend check)
+- Nothing missing: 28-30 Nov all filled; 1 Dec would break the 3-day cap. No swap: India trend search had nothing on-brand that could be confirmed for today (only undated Google Trends snapshots; no verifiable IND-NZ Test moment). Tonight's 2100 `free-delivery` (Saturday fit) and tomorrow's Sunday/Monday-dread slots stay. Backlog untouched (`saturday-alarm-teaser-story`). Analytics not refreshed since 28 Nov 01:29 (reach-collapse warning already sent this morning). For the 29 Nov 9 AM run (1 Dec slots, Tuesday): salary day (1 taareekh) evergreen jokes, which pay off the 30 Nov salary-eve posts. Env: detached HEAD at start, checked out main.
