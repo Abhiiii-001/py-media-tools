@@ -729,3 +729,16 @@
 
 ## 2026-11-27 ~16:00 IST (cloud run, trend check)
 - Nothing missing: 27-29 Nov all filled; 30 Nov would break the 3-day cap. No swap: India trend search had nothing on-brand that could be confirmed for today (Google Trends showed an undated "zimbabwe vs india", not verified, so not used). Black Friday is today, but Amazon/Flipkart/Myntra India 2026 sales are still unconfirmed, so tonight's 2100 `movie-dhoondh` (Friday fit) and tomorrow's evergreen slots stay. Backlog untouched (`saturday-alarm-teaser-story`). For the 28 Nov 9 AM run (30 Nov slots, Monday): evergreen Monday/salary-end-of-month jokes (30 Nov = month end, salary day eve). Env: detached HEAD at start, checked out main.
+
+## 2026-11-28 ~09:00 IST (cloud run, morning fill)
+- 28-29 Nov already full. Filled Mon 30 Nov (2 days out, evergreen, month end / salary eve):
+  - 1000 mood story: "Somvaar + 30 taareekh": chai 3 (udhaar pe) / energy 5% / balance mat poocho / salary kal (shayad) / himmat 0.
+  - 1300 meme reel `bank-refresh`: 30 ki raat 11:58 'bas 2 minute, phir salary' -> 31 refreshes, balance Rs 87 -> Raju 'Paisa laya?' "main, apne bank app se" -> "12:21 AM: 'Server under maintenance, try after 6 AM'. Neend bhi gayi, salary bhi nahi aayi". New angle (paisa-laya only used once before, for a friend-udhaar joke). Shares: the salary-eve refresher friend.
+  - 1330 teaser story of the 1300 reel.
+  - 1730 image `party-87`: Two Buttons (3rd use, new joke): 30 taareekh, Rs 87, dost 'aaj party hai' -> 'Sirf paani piyunga' vs 'Tabiyat kharab hai' / Main, Rs 87 ke saath. Footer: Party 30 ko hi kyu hoti hai bhai. Shares: the friend who always plans party on the 30th.
+  - 2100 mascot reel `chai-chhod-di`: Monday + 30 taareekh, colleague 'chal chai pe' -> account Rs 87 -> 'nahi yaar, maine chai chhod di' -> "Kab tak? 1 taareekh subah 9:02 (salary credit hone tak)". New topic, mascot-chai brand fit. Shares: office colleague tag.
+  - 2130 question story: Salary aate hi sabse pehle kya karte ho? (ties to the salary-eve theme, sets up 1 Dec).
+- Trend check: no swap. India trend search found nothing dated today; 2nd NZ Test (27 Nov-1 Dec, 3:30 AM IST) is ongoing but the alarm joke was already used 18 Nov and no result/moment could be verified. Backlog untouched (`saturday-alarm-teaser-story`).
+- Analytics (28 Nov 01:29): 3 followers, 0 shares. WARNING: all 27 Nov posts, reels included, show reach 1 / views 2-3 at ~12h age, while 24-26 Nov reels had 100-145 views at the same age. Reel distribution looks like it collapsed overnight on top of the long-running image reach-1 issue. Owner notified to check Account Status / restrictions. Risk of content: low.
+- Env: detached HEAD at start, checked out main; python3.13 (+ imageio-ffmpeg installed); frames from system ffmpeg. Fixed cramped Two Buttons labels and two story line-wraps before shipping.
+- Script: content/scripts/batch_2026-11-30.py
